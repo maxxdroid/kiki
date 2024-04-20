@@ -28,7 +28,9 @@ vecStack(double width, double height) {
   );
 }
 
-featuredDivider(double width,) {
+featuredDivider(
+  double width,
+) {
   return Padding(
     padding: const EdgeInsets.symmetric(vertical: 10.0),
     child: Row(
@@ -56,12 +58,16 @@ featuredDivider(double width,) {
   );
 }
 
-mostPopularDivider(double width,) {
+mostPopularDivider(
+  double width,
+) {
   return Padding(
     padding: const EdgeInsets.symmetric(vertical: 10.0),
     child: Row(
       children: [
-        const SizedBox(width: 20,),
+        const SizedBox(
+          width: 20,
+        ),
         Container(
           padding: const EdgeInsets.symmetric(horizontal: 10),
           decoration: const BoxDecoration(
@@ -70,11 +76,13 @@ mostPopularDivider(double width,) {
                   topRight: Radius.circular(30),
                   bottomRight: Radius.circular(30),
                   topLeft: Radius.circular(30),
-                  bottomLeft: Radius.circular(30)
-                  )),
+                  bottomLeft: Radius.circular(30))),
           child: Padding(
             padding: const EdgeInsets.all(1),
-            child: Text("Most Popular", style: TextStyle(color: defaultColor),),
+            child: Text(
+              "Most Popular",
+              style: TextStyle(color: defaultColor),
+            ),
           ),
         ),
         SizedBox(
@@ -86,6 +94,32 @@ mostPopularDivider(double width,) {
         ),
       ],
     ),
+  );
+}
+
+symbolType(String title) {
+  return Row(
+    children: [
+      const SizedBox(
+        width: 10,
+      ),
+      Text(
+        title,
+        style: const TextStyle(color: Colors.white),
+      ),
+      const SizedBox(
+        width: 10,
+      ),
+      const Expanded(
+        child: Divider(
+          color: Colors.white,
+          thickness: 1,
+        ),
+      ),
+      const SizedBox(
+        width: 20,
+      )
+    ],
   );
 }
 
@@ -196,11 +230,11 @@ alignBottomAppBar(int selectedIndex) {
 }
 
 TextStyle kAuthTextStyle = const TextStyle(
-      color: Colors.white,
-      fontFamily: 'Montserrat-Regular',
-      fontWeight: FontWeight.w500,
-      fontSize: 20,
-      letterSpacing: 2.0);
+    color: Colors.white,
+    fontFamily: 'Montserrat-Regular',
+    fontWeight: FontWeight.w500,
+    fontSize: 20,
+    letterSpacing: 2.0);
 
 Color defaultColor = const Color(0xFF8B0075);
 
