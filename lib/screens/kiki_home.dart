@@ -61,7 +61,7 @@ class _KikiHomeState extends State<KikiHome> {
                           itemBuilder: (context, index) {
                             return InkWell(
                               onTap: () {
-                                Get.to(const DetailedScreen(),
+                                Get.to(DetailedScreen(symbol: symbolList[index],),
                                     transition: Transition.fadeIn);
                               },
                               child: Column(
@@ -101,34 +101,40 @@ class _KikiHomeState extends State<KikiHome> {
                           scrollDirection: Axis.horizontal,
                           itemCount: newSymbolList.length,
                           itemBuilder: (context, index) {
-                            return Padding(
-                              padding: const EdgeInsets.only(left: 10.0, right: 5),
-                              child: Column(
-                                children: [
-                                  Container(
-                                    decoration: BoxDecoration(
-                                      color: Colors.white,
-                                      borderRadius: BorderRadius.circular(16),
-                                      boxShadow: const [
-                                        BoxShadow(
-                                            color: Colors.black12,
-                                            spreadRadius: 0,
-                                            blurRadius: 10),
-                                      ],
+                            return InkWell(
+                              onTap: () {
+                                Get.to(DetailedScreen(symbol: newSymbolList[index],),
+                                    transition: Transition.fadeIn);
+                              },
+                              child: Padding(
+                                padding: const EdgeInsets.only(left: 10.0, right: 5),
+                                child: Column(
+                                  children: [
+                                    Container(
+                                      decoration: BoxDecoration(
+                                        color: Colors.white,
+                                        borderRadius: BorderRadius.circular(16),
+                                        boxShadow: const [
+                                          BoxShadow(
+                                              color: Colors.black12,
+                                              spreadRadius: 0,
+                                              blurRadius: 10),
+                                        ],
+                                      ),
+                                      child: Padding(
+                                        padding: const EdgeInsets.all(12),
+                                        child: Image.asset(
+                                            height: 100,
+                                            width: 90,
+                                            newSymbolList[index].imgUrl),
+                                      ),
                                     ),
-                                    child: Padding(
-                                      padding: const EdgeInsets.all(12),
-                                      child: Image.asset(
-                                          height: 100,
-                                          width: 90,
-                                          newSymbolList[index].imgUrl),
-                                    ),
-                                  ),
-                                  Text(
-                                    newSymbolList[index].name,
-                                    style: TextStyle(color: defaultColor),
-                                  )
-                                ],
+                                    Text(
+                                      newSymbolList[index].name,
+                                      style: TextStyle(color: defaultColor),
+                                    )
+                                  ],
+                                ),
                               ),
                             );
                           }),

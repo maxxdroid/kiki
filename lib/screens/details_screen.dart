@@ -3,10 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get_connect/http/src/utils/utils.dart';
 import 'package:kiki/consts/const_widgets.dart';
+import 'package:kiki/models/symbol.dart';
 import 'package:kiki/widgets/user_appbar.dart';
 
 class DetailedScreen extends StatefulWidget {
-  const DetailedScreen({super.key});
+  final Symbols symbol;
+  const DetailedScreen({super.key, required this.symbol});
 
   @override
   State<DetailedScreen> createState() => _DetailedScreenState();
@@ -17,7 +19,13 @@ class _DetailedScreenState extends State<DetailedScreen> {
   bool isUsageButtonClicked = false;
   bool isBookmarked = false;
 
-  String containerText = content;
+  String containerText = "";
+  @override
+  void initState() {
+    containerText = widget.symbol.details;
+    super.initState();
+  }
+
   void updateText(String text) {
     setState(() {
       containerText = text;
@@ -45,7 +53,7 @@ class _DetailedScreenState extends State<DetailedScreen> {
         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
           // SizedBox(height: size * 0.25),
           const MyAppBar(),
-          symbolType("Adinkra Symbols"),
+          symbolType(widget.symbol.category),
           const SizedBox(
             height: 20,
           ),
@@ -53,30 +61,27 @@ class _DetailedScreenState extends State<DetailedScreen> {
             crossAxisAlignment: CrossAxisAlignment.start,
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-              Container(
-                height: 180,
-                padding: const EdgeInsets.all(8),
-                decoration: const BoxDecoration(
-                  shape: BoxShape.circle,
-                  color: Colors.white,
-                ),
-                child: ClipOval(
-                  child: Image.asset(
-                    'assets/images/aban-medium.png',
-                    fit: BoxFit.fill,
+              CircleAvatar(
+                backgroundColor: Colors.white,
+                  radius: 80,
+                  child: Padding(
+                    padding: const EdgeInsets.all(15.0),
+                    child: Image.asset(widget.symbol.imgUrl),
                   ),
                 ),
-              ),
               Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
-                  const Text(
-                    "Gye\nNyame",
-                    style: TextStyle(
-                        fontSize: 35,
-                        fontWeight: FontWeight.w800,
-                        color: Colors.white),
+                  SizedBox(
+                    width: 200,
+                    child: Text(
+                      widget.symbol.name,
+                      style: const TextStyle(
+                          fontSize: 35,
+                          fontWeight: FontWeight.w800,
+                          color: Colors.white),
+                    ),
                   ),
                   SizedBox(height: size * 0.005),
                   const Text(
@@ -141,7 +146,7 @@ class _DetailedScreenState extends State<DetailedScreen> {
                       setState(() {
                         isDetailButtonClicked = true;
                         isUsageButtonClicked = false;
-                        updateText(content);
+                        updateText(widget.symbol.usage);
                       });
                     },
                     style: ButtonStyle(
@@ -177,7 +182,7 @@ class _DetailedScreenState extends State<DetailedScreen> {
                       setState(() {
                         isUsageButtonClicked = true;
                         isDetailButtonClicked = false;
-                        updateText(content1);
+                        updateText(widget.symbol.details);
                       });
                     },
                     style: ButtonStyle(
@@ -236,9 +241,3 @@ class _DetailedScreenState extends State<DetailedScreen> {
     );
   }
 }
-
-// name 
-// email
-// contact us
-// sign out
-// about
