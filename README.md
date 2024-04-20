@@ -9,23 +9,19 @@ An a mobile app that contains all the Ghanaian Symbols and their various meaning
 
 
 <p>
- Flutter version used is 3.7.12
+ Flutter version used is 3.19.6
 </p>
 
 <table>
     <tr>
-        <td><img src="assets/s1.jpg" width=250px height=500px /></td>
-        <td><img src="assets/s2.jpg" width=250px height=500px/></td>
-        <td><img src="assets/s3.jpg" width=250px height=500px/></td>
+        <td><img src="assets/images/s1.png" width=250px height=500px /></td>
+        <td><img src="assets/images/s3.png" width=250px height=500px/></td>
     </tr>
     <tr>
-        <td><img src="assets/s4.jpg" width=250px height=500px /></td>
-        <td><img src="assets/s5.jpg" width=250px height=500px /></td>
-        <td><img src="assets/s6.jpg" width=250px height=500px /></td>
+        <td><img src="assets/images/s4.png" width=250px height=500px /></td>
+        <td><img src="assets/images/s5.png" width=250px height=500px /></td>
     </tr>
     <tr>
-        <td><img src="assets/s7.jpg" width=250px height=500px /></td>
-        <td><img src="assets/s8.jpg" width=250px height=500px /></td>
-        <td><img src="assets/s9.jpg" width=250px height=500px /></td>
+        <td><img src="assets/images/s2.png" width=250px height=500px/></td>
     </tr>
 </table>
