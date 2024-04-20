@@ -136,7 +136,7 @@ class _CategoryState extends State<KikiCategories> {
                         );
                       }),
                 ),
-              ],
+              ],  
             ),
           ),
           const MyBottomNavBar(selectedIndex: 1),
