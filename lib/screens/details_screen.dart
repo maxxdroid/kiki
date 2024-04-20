@@ -1,6 +1,9 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
+import 'package:get/get_connect/http/src/utils/utils.dart';
 import 'package:kiki/consts/const_widgets.dart';
-
+import 'package:kiki/widgets/user_appbar.dart';
 
 class DetailedScreen extends StatefulWidget {
   const DetailedScreen({super.key});
@@ -9,15 +12,25 @@ class DetailedScreen extends StatefulWidget {
   State<DetailedScreen> createState() => _DetailedScreenState();
 }
 
-class _DetailedScreenState extends State<DetailedScreen>
-    with SingleTickerProviderStateMixin {
+class _DetailedScreenState extends State<DetailedScreen> {
   bool isDetailButtonClicked = true;
   bool isUsageButtonClicked = false;
+  bool isBookmarked = false;
 
   String containerText = content;
   void updateText(String text) {
     setState(() {
       containerText = text;
+    });
+  }
+
+  void addToBookmarks() {
+    setState(() {
+      if (!isBookmarked) {
+        isBookmarked = true;
+      } else {
+        isBookmarked = false;
+      }
     });
   }
 
@@ -30,12 +43,18 @@ class _DetailedScreenState extends State<DetailedScreen>
       body: Container(
         decoration: kikuGradient(),
         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          SizedBox(height: size * 0.25),
+          // SizedBox(height: size * 0.25),
+          const MyAppBar(),
+          symbolType("Adinkra Symbols"),
+          const SizedBox(
+            height: 20,
+          ),
           Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
               Container(
-                height: 150,
+                height: 180,
                 padding: const EdgeInsets.all(8),
                 decoration: const BoxDecoration(
                   shape: BoxShape.circle,
@@ -68,21 +87,33 @@ class _DetailedScreenState extends State<DetailedScreen>
                         color: Colors.amber),
                   ),
                   SizedBox(height: size * 0.01),
-                  const Text(
-                    textAlign: TextAlign.start,
-                    "It expresses the omnipotence \n and supremacy of God \n in all affairs.",
-                    style: TextStyle(fontSize: 15, color: Colors.white),
+                  SizedBox(
+                    width: size * .4,
+                    child: const Text(
+                      textAlign: TextAlign.start,
+                      "It expresses the omnipotence \n and supremacy of God \n in all affairs.",
+                      style: TextStyle(fontSize: 15, color: Colors.white),
+                    ),
                   ),
                   SizedBox(height: size * 0.02),
                   Row(
                     children: [
-                      Image.asset(
-                        'assets/images/aban-medium.png',
-                        height: 25,
+                      GestureDetector(
+                        onTap: () {
+                          addToBookmarks();
+                        },
+                        child: Image(
+                          image: AssetImage("assets/images/bookmarks.png"),
+                          color: isBookmarked ? Colors.orange : Colors.white,
+                          // size: 30,
+                        ),
                       ),
-                      Image.asset(
-                        'assets/images/aban-medium.png',
-                        height: 25,
+                      GestureDetector(
+                        onTap: () {},
+                        child: ImageIcon(
+                            color: Colors.white,
+                            size: 30,
+                            AssetImage("assets/images/share.png")),
                       ),
                     ],
                   )
