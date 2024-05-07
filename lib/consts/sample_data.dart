@@ -1,5 +1,7 @@
 import 'package:kiki/models/symbol.dart';
 
+
+
 List<Symbols> symbolList = [
   Symbols(
       name: "Gye Nyame",
