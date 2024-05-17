@@ -12,6 +12,8 @@ class Login extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     double height = MediaQuery.of(context).size.width;
+    final TextEditingController _passwordController = TextEditingController();
+  final TextEditingController _emailController = TextEditingController();
     return Container(
       decoration: const BoxDecoration(
           image: DecorationImage(
@@ -79,14 +81,16 @@ class Login extends StatelessWidget {
                             ),
                             SizedBox(height: height * 0.03),
 
-                            const TextfieldWidget(
+                            TextfieldWidget(
                               hitTextName: 'Username',
                               surfixIcon: Icons.person,
+                              controller: _emailController,
                             ),
-                            const TextfieldWidget(
+                            TextfieldWidget(
                               hitTextName: 'Password',
                               surfixIcon: Icons.key_rounded,
                               obscureText: true,
+                              controller: _passwordController,
                             ),
 
                             Padding(

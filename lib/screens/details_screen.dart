@@ -1,7 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
-import 'package:get/get_connect/http/src/utils/utils.dart';
 import 'package:kiki/consts/const_widgets.dart';
 import 'package:kiki/models/symbol.dart';
 import 'package:kiki/widgets/user_appbar.dart';
@@ -108,14 +105,14 @@ class _DetailedScreenState extends State<DetailedScreen> {
                           addToBookmarks();
                         },
                         child: Image(
-                          image: AssetImage("assets/images/bookmarks.png"),
+                          image: const AssetImage("assets/images/bookmarks.png"),
                           color: isBookmarked ? Colors.orange : Colors.white,
                           // size: 30,
                         ),
                       ),
                       GestureDetector(
                         onTap: () {},
-                        child: ImageIcon(
+                        child: const ImageIcon(
                             color: Colors.white,
                             size: 30,
                             AssetImage("assets/images/share.png")),

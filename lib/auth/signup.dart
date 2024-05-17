@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kiki/auth/auth.dart';
 import 'package:kiki/widgets/textfields_widget.dart';
 import 'login.dart';
 
@@ -8,6 +9,9 @@ class SignUp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     double size = MediaQuery.of(context).size.width;
+    final TextEditingController _passwordController = TextEditingController();
+    final TextEditingController _confirmPasswordController = TextEditingController();
+  final TextEditingController _emailController = TextEditingController();
     return Container(
       decoration: const BoxDecoration(
           image: DecorationImage(
@@ -68,16 +72,20 @@ class SignUp extends StatelessWidget {
                               ),
                             ),
                             SizedBox(height: size * 0.05),
-                            const TextfieldWidget(
+                            TextfieldWidget(
+                              controller: _emailController,
                               hitTextName: 'Email',
                               surfixIcon: Icons.person,
+                            
                             ),
-                            const TextfieldWidget(
+                             TextfieldWidget(
+                              controller: _confirmPasswordController,
                               hitTextName: 'Password',
                               surfixIcon: Icons.key_rounded,
                               obscureText: true,
                             ),
-                            const TextfieldWidget(
+                            TextfieldWidget(
+                              controller: _passwordController,
                               hitTextName: 'Confirm password',
                               surfixIcon: Icons.key_rounded,
                               obscureText: true,
@@ -104,12 +112,17 @@ class SignUp extends StatelessWidget {
                                       ),
                                       height: size * 0.09,
                                       width: size * 0.3,
-                                      child: const Center(
-                                          child: Text(
-                                        "Sign Up",
-                                        style: TextStyle(
-                                            fontSize: 20, color: Colors.white),
-                                      )),
+                                      child: GestureDetector(
+                                        onTap: () {
+                                          AuthMethods().signUpWithEmailandPassword(_emailController.text.trim(), _passwordController.text.trim(), context);
+                                        },
+                                        child: const Center(
+                                            child: Text(
+                                          "Sign Up",
+                                          style: TextStyle(
+                                              fontSize: 20, color: Colors.white),
+                                        )),
+                                      ),
                                     )
                                   ],
                                 ),
