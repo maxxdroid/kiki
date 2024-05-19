@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:get/get_core/src/get_main.dart';
+import 'package:get/get_navigation/get_navigation.dart';
 import 'package:kiki/consts/const_widgets.dart';
 import 'package:kiki/consts/sample_data.dart';
+import 'package:kiki/screens/categories/adinkraCategories.dart';
+import 'package:kiki/screens/categories/ga_symbols.dart';
 import 'package:kiki/widgets/bottom_navbar.dart';
 import 'package:kiki/widgets/user_appbar.dart';
 
@@ -50,7 +54,12 @@ class _CategoryState extends State<KikiCategories> {
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
                       InkWell(
-                        onTap: (){},
+                        onTap: () {
+                          Get.to(
+                            const AdinkraCategories(),
+                            transition: Transition.fadeIn,
+                          );
+                        },
                         child: Column(
                           children: [
                             Card(
@@ -71,7 +80,7 @@ class _CategoryState extends State<KikiCategories> {
                         ),
                       ),
                       InkWell(
-                        onTap: (){},
+                        onTap: () {},
                         child: Column(
                           children: [
                             Card(
@@ -92,7 +101,12 @@ class _CategoryState extends State<KikiCategories> {
                         ),
                       ),
                       InkWell(
-                        onTap: (){},
+                        onTap: () {
+                          Get.to(
+                            const GaSymbols(),
+                            transition: Transition.fadeIn,
+                          );
+                        },
                         child: Column(
                           children: [
                             Card(
@@ -136,7 +150,7 @@ class _CategoryState extends State<KikiCategories> {
                         );
                       }),
                 ),
-              ],  
+              ],
             ),
           ),
           const MyBottomNavBar(selectedIndex: 1),

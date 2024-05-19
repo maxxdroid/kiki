@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:kiki/consts/const_widgets.dart';
-import 'package:kiki/screens/bookmarks.dart';
-import 'package:kiki/screens/categories.dart';
-import 'package:kiki/screens/kiki_home.dart';
-import 'package:kiki/screens/profile.dart';
+import 'package:kiki/screens/mainscreens/bookmarks.dart';
+import 'package:kiki/screens/mainscreens/categories.dart';
+import 'package:kiki/screens/mainscreens/kiki_home.dart';
+import 'package:kiki/screens/mainscreens/profile.dart';
 
 class MyBottomNavBar extends StatefulWidget {
   final int selectedIndex;

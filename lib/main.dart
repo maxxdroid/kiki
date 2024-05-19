@@ -2,10 +2,10 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:kiki/firebase_options.dart';
-import 'package:kiki/screens/categories.dart';
-import 'package:kiki/screens/kiki_home.dart';
-import 'package:kiki/screens/splash_screen.dart';
-import 'package:kiki/screens/welcome_screen.dart';
+import 'package:kiki/screens/mainscreens/categories.dart';
+import 'package:kiki/screens/mainscreens/kiki_home.dart';
+import 'package:kiki/screens/landingscreens/splash_screen.dart';
+import 'package:kiki/screens/landingscreens/welcome_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

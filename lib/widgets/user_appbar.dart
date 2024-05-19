@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:kiki/screens/profile.dart';
+import 'package:kiki/screens/mainscreens/profile.dart';
 
 class MyAppBar extends StatefulWidget {
   const MyAppBar({super.key});
