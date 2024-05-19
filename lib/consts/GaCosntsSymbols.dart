@@ -248,7 +248,7 @@ Antswele can be fashioned into exquisite pendants or bracelets by jewellery make
       summary: "summary"),
   Symbols(
       name: "Awεn bε nmɔ",
-      imgUrl: "assets/Ga/Awεn-bε-nmɔ",
+      imgUrl: "assets/Ga/Awεn-bε-nmɔ.png",
       category: "Ga",
       details: """Symbol of hard work and diligence.
 

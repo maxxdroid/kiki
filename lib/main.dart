@@ -15,6 +15,8 @@ void main() async {
   runApp(const MyApp());
 }
 
+final RouteObserver<PageRoute> routeObserver = RouteObserver<PageRoute>();
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -28,6 +30,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
         fontFamily: "Montserrat",
       ),
+      navigatorObservers: [routeObserver],
       routes: {
         "welcome" :(context) => const WelcomeScreen(),
         "splash" :(context) => const SplashScreen(),

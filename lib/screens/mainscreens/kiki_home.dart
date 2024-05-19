@@ -45,9 +45,11 @@ class _KikiHomeState extends State<KikiHome> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const MyAppBar(),
+                    SizedBox(height: height*0.05,),
                     const WelcomeText(),
+                    SizedBox(height: height*0.05,),
                     const Padding(
-                      padding: EdgeInsets.only(top: 30.0, left: 8, right: 8),
+                      padding: EdgeInsets.only(top: 10.0, left: 8, right: 8),
                       child: Text(
                         "Most Popular Symbols",
                         style:
