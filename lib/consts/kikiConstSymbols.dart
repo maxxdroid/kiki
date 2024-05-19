@@ -5,7 +5,7 @@ import '../models/symbol.dart';
 List<Symbols> adinkraSymbol = [
   Symbols(
       name: "Aban",
-      imgUrl: "assets/adinkra-images/aban.png",
+      imgUrl: "assets/adinkra/aban.png",
       category: "Adinkra",
       details: """
 Strength and Authority
@@ -28,7 +28,7 @@ In essence, the "Aban" Adinkra symbol continues to be a powerful emblem that cel
       summary: "summary"),
   Symbols(
       name: "Abe Dua",
-      imgUrl: "assets/adinkra-images/Abe-Dua.png",
+      imgUrl: "assets/adinkra/Abe-Dua.png",
       category: "Adinkra",
       details: """Wealth, Self-Sufficiency, Vitality
 
@@ -49,7 +49,7 @@ In essence, the "Abe Dua" Adinkra symbol continues to be a meaningful emblem tha
       summary: "summary"),
   Symbols(
       name: "Abode Santann",
-      imgUrl: "assets/adinkra-images/abode-santann.png",
+      imgUrl: "assets/adinkra/abode-santann.png",
       category: "Adinkra",
       details: """Cosmos, Omnipresence
 
@@ -80,7 +80,7 @@ In summary, the Abode Santann Adinkra symbol finds diverse applications in perso
       summary: "summary"),
   Symbols(
       name: "Abusua Pa",
-      imgUrl: "assets/adinkra-images/abode-santann.png/abusua-pa.png",
+      imgUrl: "assets/adinkra/abusua-pa.png",
       category: "Adinkra",
       details: """family unity, kinship ties, and family support
 
@@ -105,7 +105,7 @@ The Abusua Pa symbol is a versatile and expressive symbol that can be used in ma
       summary: "summary"),
   Symbols(
       name: "Adinkrahene",
-      imgUrl: "assets/adinkra-images/adinkrahene.png",
+      imgUrl: "assets/adinkra/adinkrahene.png",
       category: "Adinkra",
       details: """Greatness, Royalty
 
@@ -123,7 +123,7 @@ In essence, the history of the " Adinkrahene " Adinkra symbol is a testament to 
       summary: "summary"),
   Symbols(
       name: "Adwera",
-      imgUrl: "assets/adinkra-images/adwera.png",
+      imgUrl: "assets/adinkra/adwera.png",
       category: "Adinkra",
       details:
           """Purity, Sanctity, Chastity, Good Fortune, Consecration, Cleanliness
@@ -147,7 +147,7 @@ In summary, the Adwera Adinkra symbol holds significance in cultural, personal, 
           """Adwera nsuo, wo ne nkwansuo, nsu korogyenn a wohuru nso wonhye; Water of life, you are the pure crystal clean water that boils but, does not burn."""),
   Symbols(
       name: "Adwo",
-      imgUrl: "assets/adinkra-images/adwo.png",
+      imgUrl: "assets/adinkra/adwo.png",
       category: "Adinkra",
       details: """Peace, Calmness
 
@@ -158,7 +158,7 @@ The Adwo symbol stands for peace, tranquilly, and composure in all of its manife
       summary: ""),
   Symbols(
       name: "Agyin Dawuru",
-      imgUrl: "assets/adinkra-images/agyin-dawuru.png",
+      imgUrl: "assets/adinkra/agyin-dawuru.png",
       category: "Adinkra",
       details: """Faithfulness, Alertness, Dutifulness
 
@@ -179,7 +179,7 @@ In contemporary art, jewelry, and design, the "Agyin Dawuru" symbol could be ada
       summary: " "),
   Symbols(
       name: "Akoben",
-      imgUrl: "assets/adinkra-images/akoben.png",
+      imgUrl: "assets/adinkra/akoben.png",
       category: "Adinkra",
       details:
           """Vigilance, Call to arms, Readiness and Preparedness for action or battle.
@@ -207,7 +207,7 @@ In essence, the "Akoben" Adinkra symbol transcends its historical martial origin
       summary: " "),
   Symbols(
       name: "Akofena",
-      imgUrl: "assets/adinkra-images/akofena.png",
+      imgUrl: "assets/adinkra/akofena.png",
       category: "Adinkra",
       details: """Courage, Valor
 
@@ -230,7 +230,7 @@ In essence, the "Akofena" Adinkra symbol remains a powerful emblem that transcen
       summary: " "),
   Symbols(
       name: "Akoko Nan",
-      imgUrl: "assets/adinkra-images/akoko-nan.png",
+      imgUrl: "assets/adinkra/akoko-nan.png",
       category: "Adinkra",
       details:
           """Parenthood, Care, Tenderness, Protection, Mercy, Nurturing, Parental Discipline""",
@@ -253,7 +253,7 @@ The Akoko Nan is a sculpture that depicts the leg of a hen, or chicken. The name
 """),
   Symbols(
       name: "Akoma",
-      imgUrl: "assets/adinkra-images/akoma.png",
+      imgUrl: "assets/adinkra/akoma.png",
       category: "Adinkra",
       details: """Patience, Tolerance, Love and Faithfulness
 
@@ -272,13 +272,13 @@ Moreover, the "Akoma" Adinkra symbol finds application in spiritual and ritual c
 
 In contemporary contexts, the "Akoma" symbol is widely embraced in various art forms, design, and branding. Its universal representation of love and goodwill makes it a popular choice for those seeking to convey positive messages. Whether displayed in homes, offices, or public spaces, the "Akoma" serves as a timeless reminder of the enduring values of love and compassion.
 
-In essence, the "Akoma" Adinkra symbol transcends its visual representation and holds a profound place in both personal and communal expressions. Its applications in cultural, spiritual, and everyday contexts underscore the enduring importance of love and goodwill within the Akan culture and beyond.
+In essence, the "Akoma" Adinkra symbol transcends its visual representation and holds  a profound place in both personal and communal expressions. Its applications in cultural, spiritual, and everyday contexts underscore the enduring importance of love and goodwill within the Akan culture and beyond.
 """,
       aka: "The Heart",
       summary: "Nya Akoma; Take heart."),
   Symbols(
       name: "Akoma Ntoso",
-      imgUrl: "assets/adinkra-images/akoma-ntoso",
+      imgUrl: "assets/adinkra/akoma_ntoso.png",
       category: "Adinkra",
       details: """Understanding, Agreement, Unity
 
@@ -303,7 +303,7 @@ In essence, the "Akoma Ntoaso" Adinkra symbol transcends its visual representati
       summary: "summary"),
   Symbols(
       name: "Ananse Ntentan",
-      imgUrl: "assets/adinkra-images/ananse-ntentan",
+      imgUrl: "assets/adinkra/ananse-ntentan.png",
       category: "Adinkra",
       details: """Wisdom, Creativity
 
@@ -332,7 +332,7 @@ In this hypothetical context, the "Ananse Ntentan" becomes a versatile symbol re
       summary: "summary"),
   Symbols(
       name: "Ani Bere A Enso Gya",
-      imgUrl: "assets/adinkra-images/ani-bere-a-enso-gya.png",
+      imgUrl: "assets/adinkra/ani-bere-a-enso-gya.png",
       category: "Adinkra",
       details: """Diligence, Perseverance
 
@@ -363,7 +363,7 @@ In this hypothetical context, "Ani Bere A Enso Gya" transforms into a symbolic r
           """Ani bere a, nso gya, anka mani abere koo; Seriousness does not show fiery eyes, else you would see my face all red."""),
   Symbols(
       name: "Anyi Me Aye A",
-      imgUrl: "assets/adinkra-images/anyi-me-aye-a.png",
+      imgUrl: "assets/adinkra/anyi-me-aye-a.png",
       category: "Adinkra",
       details: """ingratitude, ungratefulness, boorishness
 
@@ -384,7 +384,7 @@ The Anyi Me Aye A symbol is a versatile and expressive symbol that can be used i
       summary: "summary"),
   Symbols(
       name: "Asase Ye Duru",
-      imgUrl: "assets/adinkra-images/asase-ye-duru.png",
+      imgUrl: "assets/adinkra/asase-ye-duru.png",
       category: "Adinkra",
       details:
           """Divinity of Mother Earth, Providence, Power, Authority, Wealth, Might
@@ -411,7 +411,7 @@ Asase ye duru sen epo; The earth is heavier than the sea
 """),
   Symbols(
       name: "Asetena Pa",
-      imgUrl: "assets/adinkra-images/asetena-aa.png",
+      imgUrl: "assets/adinkra/asetena-aa.png",
       category: "Adinkra",
       details: """spending, indulgence, wealth, upper social class
 
@@ -437,7 +437,7 @@ On a personal level, individuals with a focus on financial success or those aspi
       summary: "summary"),
   Symbols(
       name: "Aya",
-      imgUrl: "assets/adinkra-images/aya.png",
+      imgUrl: "assets/adinkra/aya.png",
       category: "Adinkra",
       details: """Defiance, Endurance, Resourcefulness
 
@@ -460,7 +460,7 @@ In summary, the "Aya" Adinkra symbol, with its representation of endurance, resi
       summary: "summary"),
   Symbols(
       name: "Bese Saka",
-      imgUrl: "assets/adinkra-images/bese-saka.png",
+      imgUrl: "assets/adinkra/bese-saka.png",
       category: "Adinkra",
       details: """Affluence, Abundance, Unity
 
@@ -486,7 +486,7 @@ In summary, the "Bese Saka" Adinkra symbol is versatile, with potential applicat
           "Wo bese nnuru aduasa a yenko sarem nkose ayie Bese saka yempe no fam; yete no soro Wowe bese fitaa o, wowe bese kokoo o, wote ntasu kokoo Bese na abu na kyenkyere eretu mu nnwa…"),
   Symbols(
       name: "Bi Nnka Bi",
-      imgUrl: "assets/adinkra-images/bi-nnka-bi.png",
+      imgUrl: "assets/adinkra/bi-nnka-bi.png",
       category: "Adinkra",
       details: '''Peace, Harmony, Caution Against Strife and Provocation
 
@@ -513,7 +513,7 @@ In essence, the "Bi Nnka Bi" Adinkra symbol serves as a timeless reminder of the
       summary: "summary"),
   Symbols(
       name: "Boa Me Na Me Mmoa Wo",
-      imgUrl: "assets/adinkra-images/boa-me-na-me-mmoa-wo.png",
+      imgUrl: "assets/adinkra/boa-me-na-me-mmoa-wo.png",
       category: "Adinkra",
       details: """Interdependence, Cooperation
 
@@ -540,7 +540,7 @@ In essence, "Boa Me Na Me Mmoa Wo" serves as a poignant reminder of the reciproc
       summary: "summary"),
   Symbols(
       name: "Boafo Ye Na",
-      imgUrl: "assets/adinkra-images/boafo-ye-na.png",
+      imgUrl: "assets/adinkra/boafo-ye-na.png",
       category: "Adinkra",
       details: """support, patronage, cooperation, and teamwork.
 
@@ -568,7 +568,7 @@ In essence, "Boafo Ye Na" serves as a symbol of reciprocal aid, emphasizing the 
       summary: "summary"),
   Symbols(
       name: "Dame Dame",
-      imgUrl: "assets/adinkra-images/Dame-Dame.png",
+      imgUrl: "assets/adinkra/Dame-Dame.png",
       category: "Adinkra",
       details: """Intelligence, Ingenuity
 
@@ -591,7 +591,7 @@ In artistic expressions, the "Dame Dame" symbol could be incorporated into visua
       summary: "summary"),
   Symbols(
       name: "Denkyem",
-      imgUrl: "assets/adinkra-images/Denkyem.png",
+      imgUrl: "assets/adinkra/Denkyem.png",
       category: "Adinkra",
       details: """Adaptability
 
@@ -603,7 +603,7 @@ The "Denkyem" Adinkra symbol, depicting the crocodile, is laden with profound sy
       summary: "summary"),
   Symbols(
       name: "Dono",
-      imgUrl: "assets/adinkra-images/Dono.png",
+      imgUrl: "assets/adinkra/Dono.png",
       category: "Adinkra",
       details: """Praise
 
@@ -630,7 +630,7 @@ The "Dono" Adinkra symbol, with its association with drums, represents a cultura
       summary: "summary"),
   Symbols(
       name: "Duafe",
-      imgUrl: "assets/adinkra-images/Duafe.png",
+      imgUrl: "assets/adinkra/Duafe.png",
       category: "Adinkra",
       details: """Beauty, Hygiene, Feminine Qualities
 
@@ -659,7 +659,7 @@ In summary, the "Duafe" Adinkra symbol, with its emphasis on beauty and feminine
       summary: "summary"),
   Symbols(
       name: "Dwannimmen",
-      imgUrl: "assets/adinkra-images/Dwannimmen.png",
+      imgUrl: "assets/adinkra/Dwannimmen.png",
       category: "Adinkra",
       details: """Concealment, Humility and Strength, Wisdom and Learning
 
@@ -705,7 +705,7 @@ Dwannini ye asisie a, ode n'akorana na...; It is the heart and not the horns tha
 """),
   Symbols(
       name: "Dwantire",
-      imgUrl: "assets/adinkra-images/Dwantire.png",
+      imgUrl: "assets/adinkra/Dwantire.png",
       category: "Adinkra",
       details: """Purity and Guiltlessness
 
@@ -736,7 +736,7 @@ In summary, the Dwantire Adinkra symbol finds diverse applications in personal e
       summary: "summary"),
   Symbols(
       name: "Eban",
-      imgUrl: "assets/adinkra-images/Eban.png",
+      imgUrl: "assets/adinkra/Eban.png",
       category: "Adinkra",
       details: """Love, Safety, Security
 
@@ -764,7 +764,7 @@ In summary, the "Eban" Adinkra symbol, with its representation of safety and pro
       summary: "summary"),
   Symbols(
       name: "Epa",
-      imgUrl: "assets/adinkra-images/Epa.png",
+      imgUrl: "assets/adinkra/Epa.png",
       category: "Adinkra",
       details: """Slavery, Equality, Law and Justice
 
@@ -791,7 +791,7 @@ In summary, the "Epa" Adinkra symbol, with its representation of justice and cap
       summary: "summary"),
   Symbols(
       name: "Esono Anantam",
-      imgUrl: "assets/adinkra-images/Esono-Anantam.png",
+      imgUrl: "assets/adinkra/Esono-Anantam.png",
       category: "Adinkra",
       details: """leadership, protection, power, security
 
@@ -814,7 +814,7 @@ On a personal level, individuals may choose to incorporate the Esono Anantam sym
           """From the aphorism, “Wodi esono akyi a, hasuo nka wo,” to wit, “When you follow the elephant, you don’t you are not touched by (you don’t get wet from) the dew on bushes.”"""),
   Symbols(
       name: "Ese Ne Tekrema",
-      imgUrl: "assets/adinkra-images/Ese-Ne-Tekrema.png",
+      imgUrl: "assets/adinkra/Ese-Ne-Tekrema.png",
       category: "Adinkra",
       details: """Friendship, Interdependence, Strength in Unity
 
@@ -842,7 +842,7 @@ In summary, the "Ese Ne Tekrema" Adinkra symbol, with its representation of the 
       summary: "summary"),
   Symbols(
       name: "Fafanto",
-      imgUrl: "assets/adinkra-images/Fafanto.png",
+      imgUrl: "assets/adinkra/Fafanto.png",
       category: "Adinkra",
       details: """Tenderness, Gentleness
 
@@ -865,7 +865,7 @@ In summary, the "Fafanto" Adinkra symbol, representing the Butterfly, finds appl
       summary: "summary"),
   Symbols(
       name: "Fawohodie",
-      imgUrl: "assets/adinkra-images/Fawohodie.png",
+      imgUrl: "assets/adinkra/Fawohodie.png",
       category: "Adinkra",
       details: """Freedom, Liberty
 
@@ -892,7 +892,7 @@ In summary, the "Fawohodie" Adinkra symbol, representing Independence, finds app
       summary: "summary"),
   Symbols(
       name: "Fihankra",
-      imgUrl: "assets/adinkra-images/Fihankra.png",
+      imgUrl: "assets/adinkra/Fihankra.png",
       category: "Adinkra",
       details: """Safety, Security
 
@@ -927,7 +927,7 @@ In summary, the "Fihankra" Adinkra symbol, representing the House/Compound, find
       summary: "summary"),
   Symbols(
       name: "Fofo",
-      imgUrl: "assets/adinkra-images/Fofo.png",
+      imgUrl: "assets/adinkra/Fofo.png",
       category: "Adinkra",
       details: """Jealousy, Envy
 
@@ -939,7 +939,7 @@ This modification is perceived as a warning against retaining feelings of envy, 
       summary: "summary"),
   Symbols(
       name: "Funtumfunefu Denkyemfunefu",
-      imgUrl: "assets/adinkra-images/Funtumfunefu-Denkyemfunefu.png",
+      imgUrl: "assets/adinkra/Funtumfunefu-Denkyemfunefu.png",
       category: "Adinkra",
       details: """Democracy, Unity in Diversity
 
@@ -952,7 +952,7 @@ Funtumfunefu Denkyemfunefu is a representation of two mythological crocodiles sh
           """This symbol is known by Willis as Funtummireku-Denkyemmireku. Rattray refers to it as Funtumfrafu-Denkyemfrafu (by extension, from the proverb from which the symbol is formed). The spelling Funtunfunefu-Denkyemfunefu, which MacDonald employs, is unclear in origin; it is most likely intended to be more phonetically correct than accurate. But in order for the majority of people who are accustomed to it to find it, we have also chosen a spelling that is comparable to what has become the most common spelling."""),
   Symbols(
       name: "Gye Nyame",
-      imgUrl: "assets/adinkra-images/Gye-Nyame.png",
+      imgUrl: "assets/adinkra/Gye-Nyame.png",
       category: "Adinkra",
       details: """Supremacy of God, Omnipotence and Immortality of God
 
@@ -1037,7 +1037,7 @@ God is omnipresent. He is everywhere. You don’t have to go to any particular l
 """),
   Symbols(
       name: "Hwehwemudua",
-      imgUrl: "assets/adinkra-images/Hwehwemudua.png",
+      imgUrl: "assets/adinkra/Hwehwemudua.png",
       category: "Adinkra",
       details: """Excellence, Superior Quality
 
@@ -1066,7 +1066,7 @@ In summary, the "Hwehwemudua" Adinkra symbol, representing measuring rods, finds
       summary: "summary"),
   Symbols(
       name: "Hye Wo nhye",
-      imgUrl: "assets/adinkra-images/Hye-Wo-nhye.png",
+      imgUrl: "assets/adinkra/Hye-Wo-nhye.png",
       category: "Adinkra",
       details: """Imperishability, Endless, Forgiveness, Toughness
 
@@ -1077,7 +1077,7 @@ The literal meaning of Hye Wo Nhye is "Burn you won't burn." It is a metaphor fo
       summary: "summary"),
   Symbols(
       name: "Kete Pa",
-      imgUrl: "assets/adinkra-images/Kete-Pa.png",
+      imgUrl: "assets/adinkra/Kete-Pa.png",
       category: "Adinkra",
       details: """Good Marriage, Love, Faithfulness
 
@@ -1102,7 +1102,7 @@ In summary, the Kete Pa Adinkra symbol serves as a powerful representation of go
       summary: "summary"),
   Symbols(
       name: "Kintinkantan",
-      imgUrl: "assets/adinkra-images/Kintinkantan.png",
+      imgUrl: "assets/adinkra/Kintinkantan.png",
       category: "Adinkra",
       details: """Arrogance, Extravagance
 
@@ -1121,7 +1121,7 @@ In summary, while the traditional meaning of the Kintinkantan symbol is positive
       summary: "summary"),
   Symbols(
       name: "Kuronti ne Akwamu",
-      imgUrl: "assets/adinkra-images/Kuronti-ne-Akwamu.png",
+      imgUrl: "assets/adinkra/Kuronti-ne-Akwamu.png",
       category: "Adinkra",
       details: """Reliance, Democracy
 
@@ -1146,7 +1146,7 @@ In summary, if "Kuronti ne Akwamu" were an Adinkra symbol representing state eld
       summary: "summary"),
   Symbols(
       name: "Kramo Bone Amma Yeanhu Kramo Pa",
-      imgUrl: "assets/adinkra-images/Kramo-Bone-Amma-Yeanhu-Kramo-Pa.png",
+      imgUrl: "assets/adinkra/Kramo-Bone-Amma-Yeanhu-Kramo-Pa.png",
       category: "Adinkra",
       details: """Warning Against Deception and Hypocrisy
 
@@ -1159,7 +1159,7 @@ The Celtic knot known as Solomon's knot is similar to "Kramo Bone." Solomon's kn
       summary: "summary"),
   Symbols(
       name: "Kwatakye Atiko",
-      imgUrl: "assets/adinkra-images/Kwatakye-Atiko.png",
+      imgUrl: "assets/adinkra/Kwatakye-Atiko.png",
       category: "Adinkra",
       details: """Valor, Bravery, Leadership
 
@@ -1185,7 +1185,7 @@ In summary, the Kwatakye Atiko Adinkra symbol serves as a powerful representatio
       summary: "summary"),
   Symbols(
       name: "Mako",
-      imgUrl: "assets/adinkra-images/Mako.png",
+      imgUrl: "assets/adinkra/Mako.png",
       category: "Adinkra",
       details: """ Inequality and uneven development
 
@@ -1219,7 +1219,7 @@ Anglicisation: Apatupre se odii mako nyinaa akyi no, enye ne su nyinaa na eye aw
 """),
   Symbols(
       name: "Mate Masie",
-      imgUrl: "assets/adinkra-images/Mate-Masie.png",
+      imgUrl: "assets/adinkra/Mate-Masie.png",
       category: "Adinkra",
       details: """Knowledge, Wisdom
 
@@ -1248,7 +1248,7 @@ In summary, the Mate Masie Adinkra symbol serves as a powerful representation of
           "Nyansa bun mu ne mate masie; Deep wisdom comes out of listening and keeping what is heard."),
   Symbols(
       name: "Mekyea-Wo",
-      imgUrl: "assets/adinkra-images/Mekyea-Wo.png",
+      imgUrl: "assets/adinkra/Mekyea-Wo.png",
       category: "Adinkra",
       details: """greetings, recognition, and respect
 
@@ -1271,7 +1271,7 @@ In summary, the "Mekyea Wo" Adinkra symbol, if used to signify "recognition and 
       summary: "summary"),
   Symbols(
       name: "Menso Wo Kenten",
-      imgUrl: "assets/adinkra-images/Menso-Wo-Kenten.png",
+      imgUrl: "assets/adinkra/Menso-Wo-Kenten.png",
       category: "Adinkra",
       details: """industry, self-reliance, economic self-determination
 
@@ -1294,7 +1294,7 @@ In summary, the "Menso Wo Kenten" Adinkra symbol, associated with "industry, sel
       summary: "summary"),
   Symbols(
       name: "Mframadan",
-      imgUrl: "assets/adinkra-images/Mframadan.png",
+      imgUrl: "assets/adinkra/Mframadan.png",
       category: "Adinkra",
       details: """Fortitude, Preparedness
 
@@ -1319,7 +1319,7 @@ In summary, the "Mframadan" Adinkra symbol, when associated with "fortitude and 
       summary: "summary"),
   Symbols(
       name: "Mmeramubere",
-      imgUrl: "assets/adinkra-images/Mmeramubere.png",
+      imgUrl: "assets/adinkra/Mmeramubere.png",
       category: "Adinkra",
       details: "warmth, sunshine, vitality.",
       usage:
@@ -1339,7 +1339,7 @@ In summary, the hypothetical use of the "Mmeramubere" Adinkra symbol to represen
       summary: "summary"),
   Symbols(
       name: "Mmere Dane",
-      imgUrl: "assets/adinkra-images/Mmere-Dane.png",
+      imgUrl: "assets/adinkra/Mmere-Dane.png",
       category: "Adinkra",
       details: """Change, Life's Dynamics
 
@@ -1358,7 +1358,7 @@ On a personal level, individuals might choose to adopt the Mmere Dane symbol as 
       summary: "summary"),
   Symbols(
       name: "Mmeramutene",
-      imgUrl: "assets/adinkra-images/Mmeramutene.png",
+      imgUrl: "assets/adinkra/Mmeramutene.png",
       category: "Adinkra",
       details: """A symbol of sunlight, warmth, endurance, and uprightness.""",
       usage:
@@ -1378,7 +1378,7 @@ In summary, the hypothetical use of the "Mmeramutene" Adinkra symbol to represen
       summary: "summary"),
   Symbols(
       name: "Mmusuyidee ( Krapa-musuyidee)",
-      imgUrl: "assets/adinkra-images/Mmusuyidee-(Krapa-musuyidee).png",
+      imgUrl: "assets/adinkra/Mmusuyidee-(Krapa-musuyidee).png",
       category: "Adinkra",
       details: """Good Fortune, Sanctity, Spiritual Strength
 
@@ -1401,7 +1401,7 @@ In summary, the hypothetical use of the "Mmusuyidee" Adinkra symbol to represent
       summary: "summary"),
   Symbols(
       name: "Mpatapo",
-      imgUrl: "assets/adinkra-images/Mpatapo.png",
+      imgUrl: "assets/adinkra/Mpatapo.png",
       category: "Adinkra",
       details: """Reconciliation, Peacemaking
 
@@ -1426,7 +1426,7 @@ In summary, the Mpatapo Adinkra symbol, embodying the concept of the "knot of pa
       summary: "summary"),
   Symbols(
       name: "Mpuannum",
-      imgUrl: "assets/adinkra-images/Mpuannum.png",
+      imgUrl: "assets/adinkra/Mpuannum.png",
       category: "Adinkra",
       details: """Skillfulness, Priestly Office, Loyalty, Adroitness
 
@@ -1451,7 +1451,7 @@ In summary, the hypothetical use of the Mpuannum Adinkra symbol to represent "Sk
       summary: """summary"""),
   Symbols(
       name: "Nkonsonkonson",
-      imgUrl: "assets/adinkra-images/Nkonsonkonson.png",
+      imgUrl: "assets/adinkra/Nkonsonkonson.png",
       category: "Adinkra",
       details: """Unity, Human Relations
 
@@ -1464,7 +1464,7 @@ The "Nkonsonkonson" Adinkra symbol, commonly known as the Chain Link or "union o
       summary: "summary"),
   Symbols(
       name: "Nea Onnim No Sua A Ohu",
-      imgUrl: "Nea-Onnim-No-Sua-A-Ohu.png",
+      imgUrl: "nea.png",
       category: "Adinkra",
       details: """Knowledge
 
@@ -1484,7 +1484,7 @@ In essence, the "Nea Onnim" Adinkra symbol not only enriches Akan cultural pract
   Symbols(
       name: "Nea Ope Se Nkrofoo Ye Ma Wo No, Ye Saa Ara Ma Won",
       imgUrl:
-          "assets/adinkra-images/Nea-Ope-Se-Nkrofoo-Ye-Ma-Wo-No-Ye-Saa-Ara-Ma-Won.png",
+          "assets/adinkra/Nea-Ope-Se-Nkrofoo-Ye-Ma-Wo-No-Ye-Saa-Ara-Ma-Won.png",
       category: "Adinkra",
       details: """Justice
 
@@ -1508,7 +1508,7 @@ In summary, the use of the proverb "Nea Ope Se Nkrofoo Ye Ma Wo No, Ye Saa Ara M
           """Nea ope se nkrofoo ye ma wo no, ye saa ara ma won; Do unto others what you want others to do unto you."""),
   Symbols(
       name: "Nea Ope Se Obedi Hene",
-      imgUrl: "assets/adinkra-images/Nea-Ope-Se-Obedi-Hene.jpg",
+      imgUrl: "assets/adinkra/Nea-Ope-Se-Obedi-Hene.jpg",
       category: "Adinkra",
       details: """Leadership
 
@@ -1531,7 +1531,7 @@ In summary, the use of the "Nea Ope Se Obedi Hene" Adinkra symbol to represent l
       summary: "summary"),
   Symbols(
       name: "Nkotimsefo Mpua",
-      imgUrl: "assets/adinkra-images/Nkotimsefo-Mpua.png",
+      imgUrl: "assets/adinkra/Nkotimsefo-Mpua.png",
       category: "Adinkra",
       details: """Loyalty, Service
 
@@ -1542,7 +1542,7 @@ Nkotimsefo Mpua, an Adinkra emblem, is believed to stand for commitment and pers
       summary: "summary"),
   Symbols(
       name: "Nkrabea",
-      imgUrl: "assets/adinkra-images/Nkrabea.png",
+      imgUrl: "assets/adinkra/Nkrabea.png",
       category: "Adinkra",
       details:
           """A representation of inequality, determinism, fate, and unfair talent distribution. An aphorism that says, ‘Everyone has their own distinct destiny’ and "God's destiny cannot be circumvented’ is ‘Esono onipa biara ne ne nkrabea’ or ‘Onyame nkrabea mu nni kwatibea.’""",
@@ -1565,7 +1565,7 @@ It's essential to note that the reinterpretation of a traditional symbol introdu
       summary: "summary"),
   Symbols(
       name: "Nnamfo Pa Baanu",
-      imgUrl: "assets/adinkra-images/Nnamfo-Pa-Baanu.png",
+      imgUrl: "assets/adinkra/Nnamfo-Pa-Baanu.png",
       category: """Adinkra""",
       details:
           """A representation of camaraderie, friendship, and unity. From the proverbs "Adwen yedwen no baanu" (meaning "Thinking is done in pairs") and "Hu m’ani so ma me nti na atwe mmienu nam," which translate to "It is because of 'blow the dust off my eyes' that two deer walk together." Additionally, "Ayonkofoo baanu goro obaa koro ho a, ntotoee ba" means, in literal translation, "When two friends play with one woman, it brings misunderstanding.""",
@@ -1582,7 +1582,7 @@ Additionally, in personal expressions, individuals might choose to incorporate t
       summary: "summary"),
   Symbols(
       name: "Nkuma Kese",
-      imgUrl: "assets/adinkra-images/Nkuma-Kese.png",
+      imgUrl: "assets/adinkra/Nkuma-Kese.png",
       category: "Adinkra",
       details: """Supremacy, Superiority
 
@@ -1600,7 +1600,7 @@ Environmental meaning: To address the environmental crisis, communities and indi
       summary: "summary"),
   Symbols(
       name: "Nkyemu",
-      imgUrl: "assets/adinkra-images/Nkyemu.png",
+      imgUrl: "assets/adinkra/Nkyemu.png",
       category: "Adinkra",
       details: """Skillfulness, Precision
 
@@ -1617,7 +1617,7 @@ Additionally, during celebratory events or gatherings, Nkyimu could be featured 
       summary: "summary"),
   Symbols(
       name: "Nkyinkyim",
-      imgUrl: "assets/adinkra-images/Nkyinkyim.png",
+      imgUrl: "assets/adinkra/Nkyinkyim.png",
       category: "Adinkra",
       details: """Initiative, Toughness, Adaptability, Resoluteness
 
@@ -1657,7 +1657,7 @@ Literally: Living life is hard to do.
 """),
   Symbols(
       name: "Nnonnowa (Dono Ntoaso)",
-      imgUrl: "assets/adinkra-images/Nnonnowa-(Dono Ntoaso).png",
+      imgUrl: "assets/adinkra/Nnonnowa-(Dono Ntoaso).png",
       category: "Adinkra",
       details: """Valor, Strength
 
@@ -1672,7 +1672,7 @@ During celebratory events or gatherings, it could be featured in decorations or 
       summary: "summary"),
   Symbols(
       name: "Nsaa",
-      imgUrl: "assets/adinkra-images/Nsaa.png",
+      imgUrl: "assets/adinkra/Nsaa.png",
       category: "Adinkra",
       details: """Excellence, Genuineness, Authenticity
 
@@ -1719,7 +1719,7 @@ Ahwene pa nkasa
 """),
   Symbols(
       name: "Nserewa",
-      imgUrl: "assets/adinkra-images/Nserewa.png",
+      imgUrl: "assets/adinkra/Nserewa.png",
       category: "",
       details: """Wealth, Abundance, Affluence
 
@@ -1736,7 +1736,7 @@ In financial or business settings, organizations might adopt the Nserewa symbol 
       summary: "summary"),
   Symbols(
       name: "Nteasee",
-      imgUrl: "assets/adinkra-images/Nteasee.png",
+      imgUrl: "assets/adinkra/Nteasee.png",
       category: "Adinkra",
       details: """The Nteasee symbol is meant to represent working together and
 having an open mind. It is a phrase that is frequently used to
@@ -1759,7 +1759,7 @@ On a personal level, individuals could incorporate the "Nteasee" symbol into per
       summary: "summary"),
   Symbols(
       name: "Nsoromma",
-      imgUrl: "assets/adinkra-images/Nsoromma.png",
+      imgUrl: "assets/adinkra/Nsoromma.png",
       category: "",
       details: """Guardianship
 
@@ -1778,7 +1778,7 @@ Additionally, the "Nsoromma" symbol has a broader cultural and inspirational imp
       summary: "summary"),
   Symbols(
       name: "Nyame Baatanpa (Awurade Baatanfo)",
-      imgUrl: "assets/adinkra-images/Nyame-Baatanpa-(Awurade Baatanfo).png",
+      imgUrl: "assets/adinkra/Nyame-Baatanpa-(Awurade Baatanfo).png",
       category: "Adinkra",
       details: """Caring, Nurturing
 
@@ -1793,7 +1793,7 @@ This symbol could be utilized in various contexts to embody these attributes. In
       summary: "summary"),
   Symbols(
       name: "Nyame Biribi Wo Soro",
-      imgUrl: "assets/adinkra-images/Nyame-Biribi-Wo-Soro.jpg",
+      imgUrl: "assets/adinkra/Nyame-Biribi-Wo-Soro.jpg",
       category: "Adinkra",
       details: """Hope
 
@@ -1837,7 +1837,7 @@ Altar Publishing
       summary: "summary"),
   Symbols(
       name: "Nyame Nnwu Na Mawu",
-      imgUrl: "assets/adinkra-images/Nyame-Nnwu-Na-Mawu.png",
+      imgUrl: "assets/adinkra/Nyame-Nnwu-Na-Mawu.png",
       category: "Adinkra",
       details: """Life after Death
 
@@ -1888,7 +1888,7 @@ Wonwui a wonnim nea wobenya
 """),
   Symbols(
       name: "Nyame Nti",
-      imgUrl: "assets/adinkra-images/Nyame-Nti.png",
+      imgUrl: "assets/adinkra/Nyame-Nti.png",
       category: "Adinkra",
       details: """Faith and Trust in God
 
@@ -1904,7 +1904,7 @@ As a personal emblem, Nyame Nyame Nti could be incorporated into jewelry, clothi
           """Nyame nti mi nnwe wura; By God's grace, I will not eat leaves to survive."""),
   Symbols(
       name: "Nyame Ye Ohene",
-      imgUrl: "assets/adinkra-images/Nyame-Ye-Ohene.png",
+      imgUrl: "assets/adinkra/Nyame-Ye-Ohene.png",
       category: "Adinkra",
       details: """Majesty and Supremacy of God
 
@@ -1918,7 +1918,7 @@ The "Nyame Ye Ohene" Adinkra symbol, often referred to as "God is King" or "Supr
       summary: "summary"),
   Symbols(
       name: "Nyansapo",
-      imgUrl: "assets/adinkra-images/Nyansapo.png",
+      imgUrl: "assets/adinkra/Nyansapo.png",
       category: "Adinkra",
       details: """Wisdom, Ingenuity, Intelligence, Patient
 
@@ -1930,7 +1930,7 @@ The Nyansapo sign is also known as the "Knot of Wisdom" in some quarters. It emb
       summary: "summary"),
   Symbols(
       name: "Odo Nyera Fie Kwan",
-      imgUrl: "assets/adinkra-images/Odo-Nyera-Fie-Kwan.png",
+      imgUrl: "assets/adinkra/Odo-Nyera-Fie-Kwan.png",
       category: "Adinkra",
       details: """Power of Love, Faithfulness
 
@@ -1992,7 +1992,7 @@ Literally: It is when somebody loves you that he comes to your house.
 """),
   Symbols(
       name: "Obohemaa",
-      imgUrl: "assets/adinkra-images/Obohemaa.png",
+      imgUrl: "assets/adinkra/Obohemaa.png",
       category: "Adinkra",
       details: """queen of stones
 
@@ -2009,7 +2009,7 @@ Additionally, on a personal level, individuals may choose to incorporate the Obo
       summary: "summary"),
   Symbols(
       name: "Ohene Aniwa",
-      imgUrl: "assets/adinkra-images/Ohene-Aniwa.png",
+      imgUrl: "assets/adinkra/Ohene-Aniwa.png",
       category: "Adinkra",
       details: """Beauty, Vigilance
 
@@ -2028,7 +2028,7 @@ On a personal level, individuals may choose to incorporate the Ohene Aniwa symbo
       summary: "summary"),
   Symbols(
       name: "Okodee Mmowere",
-      imgUrl: "assets/adinkra-images/Okodee-Mmowere.png",
+      imgUrl: "assets/adinkra/Okodee-Mmowere.png",
       category: "Adinkra",
       details: """Bravery, Strength, Unity
 
@@ -2049,7 +2049,7 @@ On a personal level, individuals may choose to incorporate the Okodee Mmowere sy
       summary: "summary"),
   Symbols(
       name: "Okuafo Pa",
-      imgUrl: "assets/adinkra-images/Okuafo-Pa.png",
+      imgUrl: "assets/adinkra/Okuafo-Pa.png",
       category: "Adinkra",
       details: """Hardwork, Entrepreneurship, Industry, Productivity
 
@@ -2070,7 +2070,7 @@ Okuafoo pa ne obi a oye nsiyefoo, ono na ose : w'afuo so a, woye ne nyinaa; The 
 """),
   Symbols(
       name: "Onyakopon Adom Nti Biribiara Beye Yie",
-      imgUrl: "assets/adinkra-images/Onyakopon-Adom-Nti-Biribiara-Beye-Yie.png",
+      imgUrl: "assets/adinkra/Onyakopon-Adom-Nti-Biribiara-Beye-Yie.png",
       category: "Adinkra",
       details: """Hope, Providence, Faith
 
@@ -2082,7 +2082,7 @@ With God's favour, all will work out for the best. This is the significance of t
       summary: "summary"),
   Symbols(
       name: "Osram Ne Nsoromma",
-      imgUrl: "assets/adinkra-images/Osram-Ne-Nsoromma.png",
+      imgUrl: "assets/adinkra/Osram-Ne-Nsoromma.png",
       category: "Adinkra",
       details: """Love, Faithfulness, Fondness
 
@@ -2101,7 +2101,7 @@ On a broader scale, community events or initiatives focused on resilience and op
       summary: "summary"),
   Symbols(
       name: "Owo Foro Adobe",
-      imgUrl: "assets/adinkra-images/Owo-Foro-Adobe.png",
+      imgUrl: "assets/adinkra/Owo-Foro-Adobe.png",
       category: "Adinkra",
       details: """Owo Foro Adobe
 Steadfastness, Prudence, Diligence, Performing the Impossible
@@ -2121,7 +2121,7 @@ On a personal level, individuals may choose to incorporate the Owo Foro Adobe sy
       summary: "summary"),
   Symbols(
       name: "Owuo Atwedee",
-      imgUrl: "assets/adinkra-images/Owuo-Atwedee.png",
+      imgUrl: "assets/adinkra/Owuo-Atwedee.png",
       category: "Adinkra",
       details: """Death, Mortal nature of man, Fate
 
@@ -2171,7 +2171,7 @@ Kwame Okoampa-Ahoofe gives an apt interpretation of this proverb: Should our fea
 """),
   Symbols(
       name: "Pempamsie",
-      imgUrl: "assets/adinkra-images/Pempamsie.png",
+      imgUrl: "assets/adinkra/Pempamsie.png",
       category: "Adinkra",
       details: """Readiness, Steadfastness, Strength and Unity
 
@@ -2195,7 +2195,7 @@ People can wear the Pempamsie emblem as a visible reminder of their commitment t
           """Pempamsie se, bebebre ahooden ne koroye; That which will not overcome"""),
   Symbols(
       name: "Sankofa",
-      imgUrl: "assets/adinkra-images/sankofa.png",
+      imgUrl: "assets/adinkra/sankofa.png",
       category: "Adinkra",
       details: """Wisdom, Using past experiences to build the future
 
@@ -2258,7 +2258,7 @@ Tete asoeee, wonsoee ho bio Some practices from the past must be done away with
 """),
   Symbols(
       name: "Sankofa (Heart)",
-      imgUrl: "assets/adinkra-images/Sankofa-(Heart).png",
+      imgUrl: "assets/adinkra/Sankofa-(Heart).png",
       category: """Adinkra""",
       details: """Wisdom, Using past experiences to build the future
 
@@ -2319,7 +2319,7 @@ Tete asoeee, wonsoee ho bio Some practices from the past must be done away with
 """),
   Symbols(
       name: "Sepow",
-      imgUrl: "assets/adinkra-images/Sepow.png",
+      imgUrl: "assets/adinkra/Sepow.png",
       category: "Adinkra",
       details: """Justice
 
@@ -2338,7 +2338,7 @@ On a personal level, individuals interested in justice and authority may choose 
       summary: "summary"),
   Symbols(
       name: "Sunsum",
-      imgUrl: "assets/adinkra-images/Sunsum.png",
+      imgUrl: "assets/adinkra/Sunsum.png",
       category: "Adinkra",
       details: """Spirituality, Purity, Everlasting
 
@@ -2360,7 +2360,7 @@ Overall, the Sunsum Adinkra symbol serves as a powerful emblem, encapsulating th
       summary: "summary"),
   Symbols(
       name: "name",
-      imgUrl: "assets/adinkra-images/Tabon.png",
+      imgUrl: "assets/adinkra/Tabon.png",
       category: "Adinkra",
       details: """Courage, Hard Work
 
@@ -2386,7 +2386,7 @@ The Tabon symbol is a versatile and expressive symbol that can be used in many c
       summary: "summary"),
   Symbols(
       name: "Tamfo Bebre",
-      imgUrl: "assets/adinkra-images/Tamfo-Bebre.png",
+      imgUrl: "assets/adinkra/Tamfo-Bebre.png",
       category: "Adinkra",
       details: """Jealousy
 
@@ -2424,7 +2424,7 @@ Literally: If you throw (apply) poison, some of it touches your mouth.
 """),
   Symbols(
       name: "Tumi Te Se Kosua",
-      imgUrl: "assets/adinkra-images/Tumi-Te-Se-Kosua.png",
+      imgUrl: "assets/adinkra/Tumi-Te-Se-Kosua.png",
       category: "Adinkra",
       details: """Delicacy of Political Power, Fragility of Democracy, Restraint
 
@@ -2446,7 +2446,7 @@ On a symbolic level, individuals interested in political philosophy or civic eng
           """Tumi te se kosua, woso mu den a, epae; na se woanso mu yie nso a, efiri wo nsa bo famu ma epae; Power is as fragile as an egg, when held too tightly it may break; but if held too loosely, it may fall."""),
   Symbols(
       name: "Tuo Ne Akofena",
-      imgUrl: "assets/adinkra-images/Tuo-Ne-Akofena.png",
+      imgUrl: "assets/adinkra/Tuo-Ne-Akofena.png",
       category: "Adinkra",
       details:
           """Power, Responsibility, Authority, Legitimacy, National Security and Protection, Military Prowess
@@ -2470,7 +2470,7 @@ The Tuo Ne Akofena symbol is a versatile and expressive symbol that can be used 
       summary: "summary"),
   Symbols(
       name: "Wawa Aba",
-      imgUrl: "assets/adinkra-images/Wawa-Aba.png",
+      imgUrl: "assets/adinkra/Wawa-Aba.png",
       category: "Adinkra",
       details: """Skillfulness
 
@@ -2495,7 +2495,7 @@ Adidas named the official match ball for MTN Africa Cup of Nations (AFCON) 2008 
       summary: "summary"),
   Symbols(
       name: "Wo Nsa Da Mu A",
-      imgUrl: "assets/adinkra-images/Wo-Nsa-Da-Mu-A.png",
+      imgUrl: "assets/adinkra/Wo-Nsa-Da-Mu-A.png",
       category: "Adinkra",
       details: """Democracy, Pluralism
 
@@ -2518,7 +2518,7 @@ On a symbolic level, individuals passionate about democratic principles and plur
           """Wo nsa da mu a, wonni nnya wo; If your hands are in the dish, people do not eat everything and leave you nothing."""),
   Symbols(
       name: "Wuforo Dua Pa A",
-      imgUrl: "assets/adinkra-images/Wuforo-Dua-Pa-A.png",
+      imgUrl: "assets/adinkra/Wuforo-Dua-Pa-A.png",
       category: "Adinkra",
       details: """Support, Cooperation, Encouragement
 

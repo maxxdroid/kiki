@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/get_navigation.dart';
 import 'package:kiki/consts/const_widgets.dart';
+import 'package:kiki/consts/kikiConstSymbols.dart';
 import 'package:kiki/consts/sample_data.dart';
-import 'package:kiki/screens/details_screen.dart';
+import 'package:kiki/screens/mainscreens/details_screen.dart';
 import 'package:kiki/widgets/bottom_navbar.dart';
 import 'package:kiki/widgets/user_appbar.dart';
 import 'package:kiki/widgets/welcome_text.dart';
@@ -99,11 +100,11 @@ class _KikiHomeState extends State<KikiHome> {
                       height: height * 0.2,
                       child: ListView.builder(
                           scrollDirection: Axis.horizontal,
-                          itemCount: newSymbolList.length,
+                          itemCount: 10,
                           itemBuilder: (context, index) {
                             return InkWell(
                               onTap: () {
-                                Get.to(DetailedScreen(symbol: newSymbolList[index],),
+                                Get.to(DetailedScreen(symbol: adinkraSymbol[index],),
                                     transition: Transition.fadeIn);
                               },
                               child: Padding(
@@ -124,13 +125,14 @@ class _KikiHomeState extends State<KikiHome> {
                                       child: Padding(
                                         padding: const EdgeInsets.all(12),
                                         child: Image.asset(
-                                            height: 100,
+                                            height: 110,
                                             width: 90,
-                                            newSymbolList[index].imgUrl),
+                                            fit: BoxFit.cover,
+                                            adinkraSymbol[index].imgUrl),
                                       ),
                                     ),
                                     Text(
-                                      newSymbolList[index].name,
+                                      adinkraSymbol[index].name,
                                       style: TextStyle(color: defaultColor),
                                     )
                                   ],
