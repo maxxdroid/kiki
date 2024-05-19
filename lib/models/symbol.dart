@@ -29,6 +29,31 @@ class Symbols {
     );
   }
 
+  @override
+  bool operator ==(Object other) {
+    if (identical(this, other)) return true;
+
+    return other is Symbols &&
+      other.name == name &&
+      other.category == category &&
+      other.imgUrl == imgUrl &&
+      other.details == details &&
+      other.usage == usage &&
+      other.aka == aka &&
+      other.summary == summary;
+  }
+
+  @override
+  int get hashCode {
+    return name.hashCode ^
+      category.hashCode ^
+      imgUrl.hashCode ^
+      details.hashCode ^
+      usage.hashCode ^
+      aka.hashCode ^
+      summary.hashCode;
+  }
+
   Map<String, dynamic> toJson() {
     return {
       'name': name,

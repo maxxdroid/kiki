@@ -31,6 +31,7 @@ class _DetailedScreenState extends State<DetailedScreen> {
     bookMarkedSymbols = await SharedPrefHelper().getSymbols();
     setState(() {
       isBookmarked = bookMarkedSymbols.contains(widget.symbol);
+      print("..................$isBookmarked");
     });
   }
 
@@ -43,6 +44,8 @@ class _DetailedScreenState extends State<DetailedScreen> {
   void addToBookmarks(Symbols symbols) async {
     setState(() {
       print(bookMarkedSymbols.length);
+      isBookmarked = bookMarkedSymbols.contains(widget.symbol);
+      print("..................$isBookmarked");
       if (!isBookmarked) {
         isBookmarked = true;
         bookMarkedSymbols.add(widget.symbol);
