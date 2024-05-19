@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:kiki/consts/const_widgets.dart';
+import 'package:kiki/functions/sharedpref.dart';
 import 'package:kiki/models/symbol.dart';
 import 'package:kiki/widgets/user_appbar.dart';
 
@@ -15,12 +16,22 @@ class _DetailedScreenState extends State<DetailedScreen> {
   bool isDetailButtonClicked = true;
   bool isUsageButtonClicked = false;
   bool isBookmarked = false;
+  List<Symbols> bookMarkedSymbols = [];
+  
 
   String containerText = "";
   @override
   void initState() {
     containerText = widget.symbol.details;
+    _loadBookmarks();
     super.initState();
+  }
+
+  Future<void> _loadBookmarks() async {
+    bookMarkedSymbols = await SharedPrefHelper().getSymbols();
+    setState(() {
+      isBookmarked = bookMarkedSymbols.contains(widget.symbol);
+    });
   }
 
   void updateText(String text) {
@@ -29,14 +40,19 @@ class _DetailedScreenState extends State<DetailedScreen> {
     });
   }
 
-  void addToBookmarks() {
+  void addToBookmarks(Symbols symbols) async {
     setState(() {
+      print(bookMarkedSymbols.length);
       if (!isBookmarked) {
         isBookmarked = true;
+        bookMarkedSymbols.add(widget.symbol);
+        print(bookMarkedSymbols[0].imgUrl);
       } else {
         isBookmarked = false;
+        bookMarkedSymbols.removeWhere((item) => item.name == widget.symbol.name && item.imgUrl == widget.symbol.imgUrl);
       }
     });
+    await SharedPrefHelper().saveSymbols(bookMarkedSymbols);
   }
 
   @override
@@ -102,7 +118,7 @@ class _DetailedScreenState extends State<DetailedScreen> {
                     children: [
                       GestureDetector(
                         onTap: () {
-                          addToBookmarks();
+                          addToBookmarks(widget.symbol);
                         },
                         child: Image(
                           image: const AssetImage("assets/images/bookmarks.png"),

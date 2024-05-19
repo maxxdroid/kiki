@@ -28,5 +28,16 @@ class Symbols {
       summary: json['summary']
     );
   }
-  toJson() {}
+
+  Map<String, dynamic> toJson() {
+    return {
+      'name': name,
+      'imgUrl': imgUrl,
+      'details': details,
+      'usage': usage,
+      'category': category,
+      'aka': aka,
+      'summary': summary
+    };
+  }
 }
