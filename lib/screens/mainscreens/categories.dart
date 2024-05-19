@@ -47,6 +47,7 @@ class _CategoryState extends State<KikiCategories> {
                     thickness: 1.5,
                   ),
                 ),
+                SizedBox(height: height*0.05,),
                 Padding(
                   padding: const EdgeInsets.symmetric(
                       horizontal: 15.0, vertical: 30),

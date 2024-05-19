@@ -3,6 +3,7 @@ import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:kiki/consts/const_widgets.dart';
 import 'package:kiki/functions/sharedpref.dart';
+import 'package:kiki/main.dart';
 import 'package:kiki/models/symbol.dart';
 import 'package:kiki/widgets/bottom_navbar.dart';
 import 'package:kiki/widgets/user_appbar.dart';
@@ -16,13 +17,33 @@ class Bookmarks extends StatefulWidget {
   State<Bookmarks> createState() => _BookmarksState();
 }
 
-class _BookmarksState extends State<Bookmarks> {
+class _BookmarksState extends State<Bookmarks> with RouteAware {
   List<Symbols> bookMarkedSymbols = [];
 
   @override
   void initState() {
     _loadBookmarks();
     super.initState();
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // Subscribe to route changes
+    routeObserver.subscribe(this, ModalRoute.of(context) as PageRoute);
+  }
+
+  @override
+  void dispose() {
+    // Unsubscribe from route changes
+    routeObserver.unsubscribe(this);
+    super.dispose();
+  }
+
+  @override
+  void didPopNext() {
+    // Called when this route is popped back to (i.e., when returning to this screen)
+    _loadBookmarks();
   }
 
   Future<void> _loadBookmarks() async {
