@@ -29,20 +29,17 @@ class _BookmarksState extends State<Bookmarks> with RouteAware {
   @override
   void didChangeDependencies() {
     super.didChangeDependencies();
-    // Subscribe to route changes
     routeObserver.subscribe(this, ModalRoute.of(context) as PageRoute);
   }
 
   @override
   void dispose() {
-    // Unsubscribe from route changes
     routeObserver.unsubscribe(this);
     super.dispose();
   }
 
   @override
   void didPopNext() {
-    // Called when this route is popped back to (i.e., when returning to this screen)
     _loadBookmarks();
   }
 

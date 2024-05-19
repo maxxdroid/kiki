@@ -842,7 +842,7 @@ In summary, the "Ese Ne Tekrema" Adinkra symbol, with its representation of the 
       summary: "summary"),
   Symbols(
       name: "Fafanto",
-      imgUrl: "assets/adinkra/Fafanto.png",
+      imgUrl: "assets/adinkra/Fafanto.jpg",
       category: "Adinkra",
       details: """Tenderness, Gentleness
 
@@ -1464,7 +1464,7 @@ The "Nkonsonkonson" Adinkra symbol, commonly known as the Chain Link or "union o
       summary: "summary"),
   Symbols(
       name: "Nea Onnim No Sua A Ohu",
-      imgUrl: "nea.png",
+      imgUrl: "assets/adinkra/nea.png",
       category: "Adinkra",
       details: """Knowledge
 
@@ -1822,7 +1822,7 @@ Although that is exactly precisely what the phrase "Nyame biribi wo soro means,"
 """),
   Symbols(
       name: "Nyame Dua",
-      imgUrl: "Nyame-Dua.jpg",
+      imgUrl: "assets/adinkra/Nyame-Dua.jpg",
       category: "Adinkra",
       details: """God's Presence, Protection
 
