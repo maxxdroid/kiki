@@ -4,10 +4,12 @@ import 'package:flutter/material.dart';
 class TextfieldWidget extends StatelessWidget {
   final String hitTextName;
   final IconData surfixIcon;
+  final TextEditingController controller;
   final bool obscureText;
   const TextfieldWidget({
     super.key,
     required this.hitTextName,
+    required this.controller,
     required this.surfixIcon,
     this.obscureText = false,
   });
@@ -29,6 +31,7 @@ class TextfieldWidget extends StatelessWidget {
       ),
       alignment: Alignment.center,
       child: TextFormField(
+        controller: controller,
         obscureText: obscureText,
         decoration: InputDecoration(
           icon: Padding(

@@ -1,8 +1,6 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
-import 'package:get/get_connect/http/src/utils/utils.dart';
 import 'package:kiki/consts/const_widgets.dart';
+import 'package:kiki/functions/sharedpref.dart';
 import 'package:kiki/models/symbol.dart';
 import 'package:kiki/widgets/user_appbar.dart';
 
@@ -18,12 +16,22 @@ class _DetailedScreenState extends State<DetailedScreen> {
   bool isDetailButtonClicked = true;
   bool isUsageButtonClicked = false;
   bool isBookmarked = false;
+  List<Symbols> bookMarkedSymbols = [];
+  
 
   String containerText = "";
   @override
   void initState() {
     containerText = widget.symbol.details;
+    _loadBookmarks();
     super.initState();
+  }
+
+  Future<void> _loadBookmarks() async {
+    bookMarkedSymbols = await SharedPrefHelper().getSymbols();
+    setState(() {
+      isBookmarked = bookMarkedSymbols.contains(widget.symbol);
+    });
   }
 
   void updateText(String text) {
@@ -32,14 +40,18 @@ class _DetailedScreenState extends State<DetailedScreen> {
     });
   }
 
-  void addToBookmarks() {
+  void addToBookmarks(Symbols symbols) async {
     setState(() {
+      isBookmarked = bookMarkedSymbols.contains(widget.symbol);
       if (!isBookmarked) {
         isBookmarked = true;
+        bookMarkedSymbols.add(widget.symbol);
       } else {
         isBookmarked = false;
+        bookMarkedSymbols.removeWhere((item) => item.name == widget.symbol.name && item.imgUrl == widget.symbol.imgUrl);
       }
     });
+    await SharedPrefHelper().saveSymbols(bookMarkedSymbols);
   }
 
   @override
@@ -105,17 +117,17 @@ class _DetailedScreenState extends State<DetailedScreen> {
                     children: [
                       GestureDetector(
                         onTap: () {
-                          addToBookmarks();
+                          addToBookmarks(widget.symbol);
                         },
                         child: Image(
-                          image: AssetImage("assets/images/bookmarks.png"),
+                          image: const AssetImage("assets/images/bookmarks.png"),
                           color: isBookmarked ? Colors.orange : Colors.white,
                           // size: 30,
                         ),
                       ),
                       GestureDetector(
                         onTap: () {},
-                        child: ImageIcon(
+                        child: const ImageIcon(
                             color: Colors.white,
                             size: 30,
                             AssetImage("assets/images/share.png")),
