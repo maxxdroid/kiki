@@ -23,7 +23,7 @@ class Symbols {
       imgUrl: json['imgUrl'],
       details: json['details'],
       usage: json['usage'],
-      category: json['category'],
+      category: json['category'], 
       aka: json['aka'],
       summary: json['summary']
     );

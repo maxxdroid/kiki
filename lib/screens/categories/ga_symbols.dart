@@ -37,12 +37,12 @@ class _GaSymbolsState extends State<GaSymbols> {
                   fontWeight: FontWeight.w700),
             ),
             SizedBox(
-              height: height * 0.8,
+              height: height * 0.9,
               child: GridView.builder(
                 gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 3, // Number of columns in the grid
                   crossAxisSpacing: 10.0, // Horizontal space between grid items
-                  mainAxisSpacing: 10.0, // Vertical space between grid items
+                  mainAxisSpacing: 0.0, // Vertical space between grid items
                   childAspectRatio: 3 / 4, // Aspect ratio of each grid item
                 ),
                 itemCount: getGaSymbols.length,
@@ -56,7 +56,7 @@ class _GaSymbolsState extends State<GaSymbols> {
                     },
                     child: Padding(
                       padding:
-                          const EdgeInsets.all(5.0), // Adjust padding if needed
+                          const EdgeInsets.all(5.0), 
                       child: Column(
                         children: [
                           Container(
@@ -75,15 +75,15 @@ class _GaSymbolsState extends State<GaSymbols> {
                               padding: const EdgeInsets.all(12),
                               child: Image.asset(
                                 getGaSymbols[index].imgUrl,
-                                height: 110,
-                                width: 90,
+                                height: height*0.12,
+                                width: width*0.2,
                                 fit: BoxFit.cover,
                               ),
                             ),
                           ),
                           SizedBox(
                             width: 80,
-                            height: 25,
+                            height: 20,
                             child: Text(
                               overflow: TextOverflow.fade,
                               textAlign: TextAlign.center,

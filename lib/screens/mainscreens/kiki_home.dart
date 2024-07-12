@@ -57,7 +57,7 @@ class _KikiHomeState extends State<KikiHome> {
                       ),
                     ),
                     SizedBox(
-                      height: height * 0.2,
+                      height: height * 0.22,
                       child: ListView.builder(
                           scrollDirection: Axis.horizontal,
                           itemCount: symbolList.length,
@@ -80,26 +80,8 @@ class _KikiHomeState extends State<KikiHome> {
                           }),
                     ),
                     featuredDivider(width),
-                    // SizedBox(
-                    //   height: height * 0.2,
-                    //   child: ListView.builder(
-                    //       scrollDirection: Axis.horizontal,
-                    //       itemCount: symbolList.length,
-                    //       itemBuilder: (context, index) {
-                    //         return Column(
-                    //           children: [
-                    //             Image.asset(symbolList[index].imgUrl),
-                    //             Text(
-                    //               symbolList[index].name,
-                    //               style: TextStyle(color: defaultColor),
-                    //             )
-                    //           ],
-                    //         );
-                    //       }),
-                    // ),
-                    const SizedBox(height: 10,),
                     SizedBox(
-                      height: height * 0.2,
+                      height: height * 0.22,
                       child: ListView.builder(
                           scrollDirection: Axis.horizontal,
                           itemCount: 10,
@@ -143,6 +125,7 @@ class _KikiHomeState extends State<KikiHome> {
                             );
                           }),
                     ),
+                    SizedBox(height: height* 0.2,)
                   ],
                 ),
               ],

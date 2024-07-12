@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
 import 'package:kiki/consts/const_widgets.dart';
 import 'package:kiki/functions/sharedpref.dart';
 import 'package:kiki/main.dart';
@@ -92,13 +91,13 @@ class _BookmarksState extends State<Bookmarks> with RouteAware {
                   ),
                 ),
                 SizedBox(
-              height: height * 0.8,
+              height: height * 0.65,
               child: GridView.builder(
                 gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount: 3, // Number of columns in the grid
-                  crossAxisSpacing: 10.0, // Horizontal space between grid items
-                  mainAxisSpacing: 10.0, // Vertical space between grid items
-                  childAspectRatio: 3 / 4, // Aspect ratio of each grid item
+                  crossAxisCount: 3, 
+                  crossAxisSpacing: 10.0, 
+                  mainAxisSpacing: 10.0, 
+                  childAspectRatio: 3 / 4, 
                 ),
                 itemCount: bookMarkedSymbols.length,
                 itemBuilder: (context, index) {
@@ -111,7 +110,7 @@ class _BookmarksState extends State<Bookmarks> with RouteAware {
                     },
                     child: Padding(
                       padding:
-                          const EdgeInsets.all(5.0), // Adjust padding if needed
+                          const EdgeInsets.all(5.0),
                       child: Column(
                         children: [
                           Container(
@@ -130,8 +129,8 @@ class _BookmarksState extends State<Bookmarks> with RouteAware {
                               padding: const EdgeInsets.all(12),
                               child: Image.asset(
                                 bookMarkedSymbols[index].imgUrl,
-                                height: 110,
-                                width: 90,
+                                height: height*0.12,
+                                width: width*0.2,
                                 fit: BoxFit.cover,
                               ),
                             ),
@@ -143,7 +142,7 @@ class _BookmarksState extends State<Bookmarks> with RouteAware {
                               overflow: TextOverflow.fade,
                               textAlign: TextAlign.center,
                               bookMarkedSymbols[index].name,
-                              style: TextStyle(color: Colors.white),
+                              style: const TextStyle(color: Colors.white),
                             ),
                           ),
                         ],

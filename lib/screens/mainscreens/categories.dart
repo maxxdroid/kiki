@@ -68,7 +68,7 @@ class _CategoryState extends State<KikiCategories> {
                               shape: RoundedRectangleBorder(
                                   borderRadius: BorderRadius.circular(20)),
                               child: Padding(
-                                padding: const EdgeInsets.all(12),
+                                padding: const EdgeInsets.all(10),
                                 child: Image.asset(
                                     "assets/images/adinkra-medium.png"),
                               ),
@@ -89,7 +89,7 @@ class _CategoryState extends State<KikiCategories> {
                               shape: RoundedRectangleBorder(
                                   borderRadius: BorderRadius.circular(20)),
                               child: Padding(
-                                padding: const EdgeInsets.all(12),
+                                padding: const EdgeInsets.all(10),
                                 child: Image.asset(
                                     "assets/images/ewe-dzesi-medium.png"),
                               ),
@@ -115,7 +115,7 @@ class _CategoryState extends State<KikiCategories> {
                               shape: RoundedRectangleBorder(
                                   borderRadius: BorderRadius.circular(20)),
                               child: Padding(
-                                padding: const EdgeInsets.all(12),
+                                padding: const EdgeInsets.all(10),
                                 child: Image.asset(
                                     "assets/images/ga-samai-medium.png"),
                               ),
@@ -135,7 +135,7 @@ class _CategoryState extends State<KikiCategories> {
                 ),
                 mostPopularDivider(width),
                 SizedBox(
-                  height: height * 0.2,
+                  height: height * 0.22,
                   child: ListView.builder(
                       scrollDirection: Axis.horizontal,
                       itemCount: symbolList.length,

@@ -8,13 +8,13 @@ class AuthMethods {
   FirebaseAuth auth = FirebaseAuth.instance;
   signInWithEmailandPAssword(
       String email, String password, BuildContext context) async {
-    showDialog(
-        context: context,
-        builder: (_) {
-          return const LoadingAlert(
-            message: 'Logging in please wait...',
-          );
-        });
+    // showDialog(
+    //     context: context,
+    //     builder: (_) {
+    //       return const LoadingAlert(
+    //         message: 'Logging in please wait...',
+    //       );
+    //     });
     late User? firebseUser;
     await auth
         .signInWithEmailAndPassword(email: email, password: password)
@@ -27,6 +27,7 @@ class AuthMethods {
     }).onError((error, stackTrace) {
       Navigator.of(context);
       // logInErrorHandling(error.toString());
+      print(error.toString());
     });
   }
 
