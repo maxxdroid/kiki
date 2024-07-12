@@ -97,7 +97,7 @@ class _KikiHomeState extends State<KikiHome> {
                     //         );
                     //       }),
                     // ),
-                    SizedBox(height: 10,),
+                    const SizedBox(height: 10,),
                     SizedBox(
                       height: height * 0.2,
                       child: ListView.builder(
