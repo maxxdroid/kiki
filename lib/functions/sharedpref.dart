@@ -17,7 +17,7 @@ class SharedPrefHelper {
     final symbolsList = prefs.getStringList('symbols') ?? [];
     return symbolsList
         .map((json) => Symbols.fromJson(jsonDecode(json)))
-        .toList();
+        .toList();  
   }
 
   // Future<List<Symbols>> saveSymbol (Symbols symbol) async {
