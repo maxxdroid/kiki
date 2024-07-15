@@ -161,7 +161,7 @@ class _KikiHomeState extends State<KikiHome> {
                           }),
                     ),
                     SizedBox(
-                      height: height * 0.1,
+                      height: height * 0.15,
                     )
                   ],
                 ),
