@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/get_navigation.dart';
+import 'package:kiki/auth/auth.dart';
 import 'package:kiki/auth/signUp.dart';
 import 'package:kiki/screens/mainscreens/kiki_home.dart';
+import 'package:kiki/widgets/loading_alert.dart';
 import 'package:kiki/widgets/textfields_widget.dart';
 
 class Login extends StatefulWidget {
@@ -13,8 +15,8 @@ class Login extends StatefulWidget {
 }
 
 class _LoginState extends State<Login> {
-    final TextEditingController _passwordController = TextEditingController();
-    final TextEditingController _emailController = TextEditingController();
+  final TextEditingController _passwordController = TextEditingController();
+  final TextEditingController _emailController = TextEditingController();
   @override
   Widget build(BuildContext context) {
     double height = MediaQuery.of(context).size.width;
@@ -112,20 +114,35 @@ class _LoginState extends State<Login> {
                                         color: Colors.black,
                                         fontWeight: FontWeight.bold),
                                   ),
-                                  Container(
-                                    decoration: const BoxDecoration(
-                                      color: Color(0xFF680179),
-                                      borderRadius:
-                                          BorderRadius.all(Radius.circular(50)),
+                                  InkWell(
+                                    onTap: () {
+                                      showDialog(
+                                          context: context,
+                                          builder: (_) {
+                                            return const LoadingAlert(
+                                              message:
+                                                  'Logging in please wait...',
+                                            );
+                                          });
+                                      AuthMethods().signIn(
+                                          _emailController.text,
+                                          _passwordController.text);
+                                    },
+                                    child: Container(
+                                      decoration: const BoxDecoration(
+                                        color: Color(0xFF680179),
+                                        borderRadius: BorderRadius.all(
+                                            Radius.circular(50)),
+                                      ),
+                                      height: 50,
+                                      width: 150,
+                                      child: const Center(
+                                          child: Text(
+                                        "Sign in",
+                                        style: TextStyle(
+                                            fontSize: 20, color: Colors.white),
+                                      )),
                                     ),
-                                    height: 50,
-                                    width: 150,
-                                    child: const Center(
-                                        child: Text(
-                                      "Sign in",
-                                      style: TextStyle(
-                                          fontSize: 20, color: Colors.white),
-                                    )),
                                   )
                                 ],
                               ),
