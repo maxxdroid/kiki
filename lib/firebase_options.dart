@@ -41,48 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyANF4ojMM8dZBG0RVSzXJxpezNKxRgvZGc',
-    appId: '1:996459901870:web:8c367a95ab3f60205f0e3f',
-    messagingSenderId: '996459901870',
-    projectId: 'kiki-production',
-    authDomain: 'kiki-production.firebaseapp.com',
-    storageBucket: 'kiki-production.appspot.com',
-    measurementId: 'G-040ZSDWRQQ',
+    apiKey: 'AIzaSyDUbVaVM1o9wrnqklT-Ym3jF2YS9ogEEh0',
+    appId: '1:261121895067:web:6f3fae40146c03437c343e',
+    messagingSenderId: '261121895067',
+    projectId: 'kiki-f290c',
+    authDomain: 'kiki-f290c.firebaseapp.com',
+    storageBucket: 'kiki-f290c.appspot.com',
+    measurementId: 'G-RFV153WBFF',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDxsaUpuE9UMjgA-0ZSGEr_DDARiOFch-U',
-    appId: '1:996459901870:android:3d4b61eabf68c6445f0e3f',
-    messagingSenderId: '996459901870',
-    projectId: 'kiki-production',
-    storageBucket: 'kiki-production.appspot.com',
+    apiKey: 'AIzaSyDFEBnLXg4mszX6XbAqhAW8_KZSAdp85RM',
+    appId: '1:261121895067:android:38c2d543fd7ef3b57c343e',
+    messagingSenderId: '261121895067',
+    projectId: 'kiki-f290c',
+    storageBucket: 'kiki-f290c.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCP4T17xG1Vg7cyQTq-pHK9YgSVKgTWMa8',
-    appId: '1:996459901870:ios:e95f3f333aa0275e5f0e3f',
-    messagingSenderId: '996459901870',
-    projectId: 'kiki-production',
-    storageBucket: 'kiki-production.appspot.com',
+    apiKey: 'AIzaSyBxLoAYr1-KFnmVoxvpkbNmetXY3dQltU4',
+    appId: '1:261121895067:ios:ab0546a4214f834d7c343e',
+    messagingSenderId: '261121895067',
+    projectId: 'kiki-f290c',
+    storageBucket: 'kiki-f290c.appspot.com',
     iosBundleId: 'com.example.kiki',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCP4T17xG1Vg7cyQTq-pHK9YgSVKgTWMa8',
-    appId: '1:996459901870:ios:e95f3f333aa0275e5f0e3f',
-    messagingSenderId: '996459901870',
-    projectId: 'kiki-production',
-    storageBucket: 'kiki-production.appspot.com',
+    apiKey: 'AIzaSyBxLoAYr1-KFnmVoxvpkbNmetXY3dQltU4',
+    appId: '1:261121895067:ios:ab0546a4214f834d7c343e',
+    messagingSenderId: '261121895067',
+    projectId: 'kiki-f290c',
+    storageBucket: 'kiki-f290c.appspot.com',
     iosBundleId: 'com.example.kiki',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyANF4ojMM8dZBG0RVSzXJxpezNKxRgvZGc',
-    appId: '1:996459901870:web:ab0ae6ef04ea56a05f0e3f',
-    messagingSenderId: '996459901870',
-    projectId: 'kiki-production',
-    authDomain: 'kiki-production.firebaseapp.com',
-    storageBucket: 'kiki-production.appspot.com',
-    measurementId: 'G-MW1RM7V870',
+    apiKey: 'AIzaSyDUbVaVM1o9wrnqklT-Ym3jF2YS9ogEEh0',
+    appId: '1:261121895067:web:bb38047a2fc5cdeb7c343e',
+    messagingSenderId: '261121895067',
+    projectId: 'kiki-f290c',
+    authDomain: 'kiki-f290c.firebaseapp.com',
+    storageBucket: 'kiki-f290c.appspot.com',
+    measurementId: 'G-ZD9C8XZB98',
   );
+
 }

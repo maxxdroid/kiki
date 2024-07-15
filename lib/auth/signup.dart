@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:kiki/auth/auth.dart';
+import 'package:kiki/widgets/loading_alert.dart';
 import 'package:kiki/widgets/textfields_widget.dart';
 
 import 'login.dart';
@@ -121,12 +122,17 @@ class _SignUpState extends State<SignUp> {
                                       width: size * 0.3,
                                       child: GestureDetector(
                                         onTap: () {
-                                          AuthMethods()
-                                              .signUpWithEmailandPassword(
-                                                  _emailController.text.trim(),
-                                                  _passwordController.text
-                                                      .trim(),
-                                                  context);
+                                          showDialog(
+                                              context: context,
+                                              builder: (_) {
+                                                return const LoadingAlert(
+                                                  message:
+                                                      'Signing Up please wait...',
+                                                );
+                                              });
+                                          AuthMethods().signUp(
+                                              _emailController.text,
+                                              _passwordController.text);
                                         },
                                         child: const Center(
                                             child: Text(

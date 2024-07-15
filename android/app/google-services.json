@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "996459901870",
-    "project_id": "kiki-production",
-    "storage_bucket": "kiki-production.appspot.com"
+    "project_number": "261121895067",
+    "project_id": "kiki-f290c",
+    "storage_bucket": "kiki-f290c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:996459901870:android:3d4b61eabf68c6445f0e3f",
+        "mobilesdk_app_id": "1:261121895067:android:38c2d543fd7ef3b57c343e",
         "android_client_info": {
           "package_name": "com.example.kiki"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDxsaUpuE9UMjgA-0ZSGEr_DDARiOFch-U"
+          "current_key": "AIzaSyDFEBnLXg4mszX6XbAqhAW8_KZSAdp85RM"
         }
       ],
       "services": {
