@@ -4,7 +4,9 @@ import 'package:get/get_navigation/get_navigation.dart';
 import 'package:kiki/consts/const_widgets.dart';
 import 'package:kiki/consts/sample_data.dart';
 import 'package:kiki/screens/categories/adinkraCategories.dart';
+import 'package:kiki/screens/categories/ewe_symbols.dart';
 import 'package:kiki/screens/categories/ga_symbols.dart';
+import 'package:kiki/screens/mainscreens/details_screen.dart';
 import 'package:kiki/widgets/bottom_navbar.dart';
 import 'package:kiki/widgets/user_appbar.dart';
 
@@ -47,7 +49,9 @@ class _CategoryState extends State<KikiCategories> {
                     thickness: 1.5,
                   ),
                 ),
-                SizedBox(height: height*0.05,),
+                SizedBox(
+                  height: height * 0.05,
+                ),
                 Padding(
                   padding: const EdgeInsets.symmetric(
                       horizontal: 15.0, vertical: 30),
@@ -81,7 +85,12 @@ class _CategoryState extends State<KikiCategories> {
                         ),
                       ),
                       InkWell(
-                        onTap: () {},
+                        onTap: () {
+                          Get.to(
+                            const EweSymbols(),
+                            transition: Transition.fadeIn,
+                          );
+                        },
                         child: Column(
                           children: [
                             Card(
@@ -138,16 +147,48 @@ class _CategoryState extends State<KikiCategories> {
                   height: height * 0.22,
                   child: ListView.builder(
                       scrollDirection: Axis.horizontal,
-                      itemCount: symbolList.length,
+                      itemCount: popularSymbols.length,
                       itemBuilder: (context, index) {
-                        return Column(
-                          children: [
-                            Image.asset(symbolList[index].imgUrl),
-                            Text(
-                              symbolList[index].name,
-                              style: TextStyle(color: defaultColor),
-                            )
-                          ],
+                        return InkWell(
+                          onTap: () {
+                            Get.to(
+                                DetailedScreen(
+                                  symbol: popularSymbols[index],
+                                ),
+                                transition: Transition.fadeIn);
+                          },
+                          child: Padding(
+                            padding:
+                                const EdgeInsets.only(left: 10.0, right: 5),
+                            child: Column(
+                              children: [
+                                Container(
+                                  decoration: BoxDecoration(
+                                    color: Colors.white,
+                                    borderRadius: BorderRadius.circular(16),
+                                    boxShadow: const [
+                                      BoxShadow(
+                                          color: Colors.black12,
+                                          spreadRadius: 0,
+                                          blurRadius: 10),
+                                    ],
+                                  ),
+                                  child: Padding(
+                                    padding: const EdgeInsets.all(12),
+                                    child: Image.asset(
+                                        height: 100,
+                                        width: 80,
+                                        fit: BoxFit.cover,
+                                        popularSymbols[index].imgUrl),
+                                  ),
+                                ),
+                                Text(
+                                  popularSymbols[index].name,
+                                  style: TextStyle(color: defaultColor),
+                                )
+                              ],
+                            ),
+                          ),
                         );
                       }),
                 ),

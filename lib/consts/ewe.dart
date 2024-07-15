@@ -3,7 +3,7 @@ import '../models/symbol.dart';
 List<Symbols> eweSymbols = [
   Symbols(
       name: "Aba vuvu (Worn-out Bed)",
-      imgUrl: "assets/Eye-symbols/Aba-vuvu-(Worn-out Bed).png",
+      imgUrl: "assets/ewe/Aba-vuvu-(Worn-out Bed).png",
       category: "Ewe",
       details: """A symbol of gratification
 
@@ -18,7 +18,7 @@ The bed is thought to be a place of solace and relaxation after a demanding day 
       summary: "summary"),
   Symbols(
       name: "ABƆBƆ DZE NA",
-      imgUrl: "assets/Eye-symbols/ABƆBƆ-DZE-NA.png",
+      imgUrl: "assets/ewe/ABƆBƆ-DZE-NA.png",
       category: "Ewe",
       details: """Symbol of harmony
 
@@ -34,7 +34,7 @@ The Abɔbɔ Dze Na symbolizes a space where differences are embraced, conflicts 
       summary: "summary"),
   Symbols(
       name: "Abɔbɔgo",
-      imgUrl: "assets/Eye-symbols/Abɔbɔgo.png",
+      imgUrl: "assets/ewe/Abɔbɔgo.png",
       category: "Ewe",
       details: """Symbol of Insight
 
@@ -50,7 +50,7 @@ The Abɔbɔgo, or snail shell, has deep symbolic meaning in Ewe culture, signify
       summary: "summary"),
   Symbols(
       name: "name",
-      imgUrl: "assets/Eye-symbols/Adata.png",
+      imgUrl: "assets/ewe/Adata.png",
       category: "Ewe",
       details: """A symbol of Variation
 
@@ -65,7 +65,7 @@ The Ewes' primary employment is farming, which means they frequently come into c
       summary: "summary"),
   Symbols(
       name: "Afi Du Ke",
-      imgUrl: "assets/Eye-symbols/Afi-Du-Ke.png",
+      imgUrl: "assets/ewe/Afi-Du-Ke.png",
       category: "Ewe",
       details: """A symbol of caution
 
@@ -81,7 +81,7 @@ In Ewe culture, Afi Du Ke, or The Mouse That Eats a Raffia, serves as a potent s
       summary: "summary"),
   Symbols(
       name: "Afͻtude",
-      imgUrl: "assets/Eye-symbols/Afͻtude.png",
+      imgUrl: "assets/ewe/Afͻtude.png",
       category: "Ewe",
       details: """A symbol of diligence and relentless effort
 
@@ -96,7 +96,7 @@ The palm tree is regarded by the Ewes as the king of all trees. This is because 
       summary: 'summary'),
   Symbols(
       name: "Agaga lolo",
-      imgUrl: "assets/Eye-symbols/Agaga-lolo.png",
+      imgUrl: "assets/ewe/Agaga-lolo.png",
       category: "Ewe",
       details:
           """A symbol of worth that encourages people to appreciate and esteem one another as each individual is unique in their own way and because one person's strength could be another person's weakness. It was derived from the proverb ‘Agaga lolo me ƒle na agaga eve ƒe nu o.’ which means ‘One big cowry cannot be used to pay for two cowries’. 
@@ -108,7 +108,7 @@ The palm tree is regarded by the Ewes as the king of all trees. This is because 
       summary: "summary"),
   Symbols(
       name: "Afͻxͻdzo ",
-      imgUrl: "assets/Eye-symbols/Afͻxͻdzo.png",
+      imgUrl: "assets/ewe/Afͻxͻdzo.png",
       category: "Ewe",
       details:
           """a representation of punishment used to teach individuals that the one who does wrong is punished for their transgressions. It was taken from the proverb ‘Ne anyigba xͻ dzo la, afͻe nyana’ which literally means ‘It is only the foot that knows when the ground is hot’.""",
@@ -118,7 +118,7 @@ The palm tree is regarded by the Ewes as the king of all trees. This is because 
       summary: "summary"),
   Symbols(
       name: "Ame Ŋuti",
-      imgUrl: "assets/Eye-symbols/Ame Ŋuti.png",
+      imgUrl: "assets/ewe/Ame Ŋuti.png",
       category: "Ewe",
       details: """Symbol of Reliance
 
@@ -136,7 +136,7 @@ Ame Ŋuti is frequently used to characterise the relationship between people who
       summary: "summary"),
   Symbols(
       name: "Amedzro nkuga ",
-      imgUrl: "assets/Eye-symbols/Amedzro-nkuga.png",
+      imgUrl: "assets/ewe/Amedzro-nkuga.png",
       category: "Ewe",
       details: """A symbol of confidentiality
 
@@ -151,7 +151,7 @@ In a society, secrecy is essential. Within a family or a society, there are secr
       summary: "summary"),
   Symbols(
       name: "Anyigba sese",
-      imgUrl: "assets/Eye-symbols/Anyigba-sese.png",
+      imgUrl: "assets/ewe/Anyigba-sese.png",
       category: "Ewe",
       details: """A symbol is one of circumspection.
 
@@ -163,7 +163,7 @@ It originated from the proverb ‘Anyigba sese gake agama ɖo na afɔ anyi blewu
       summary: "summary"),
   Symbols(
       name: "Asi ɖeka",
-      imgUrl: "assets/Eye-symbols/Asi-ɖeka.png",
+      imgUrl: "assets/ewe/Asi-ɖeka.png",
       category: "Ewe",
       details: """A symbol of strength and unity
 
@@ -178,7 +178,7 @@ This adage cautions against relying too on one's own efforts, much as the saying
       summary: "summary"),
   Symbols(
       name: "Gomekaɖi",
-      imgUrl: "assets/Eye-symbols/Gomekaɖi.png",
+      imgUrl: "assets/ewe/Gomekaɖi.png",
       category: "Ewe",
       details:
           """The symbol of light which is referred to as ‘gomekaɖi’ (lantern) is taken from the adage ‘Kekeli’ meaning ‘there is light’.
@@ -191,7 +191,7 @@ This adage cautions against relying too on one's own efforts, much as the saying
       summary: "summary"),
   Symbols(
       name: "Atagba",
-      imgUrl: "assets/Eye-symbols/Atagba.png",
+      imgUrl: "assets/ewe/Atagba.png",
       category: "Ewe",
       details: """A symbol of support
 
@@ -206,7 +206,7 @@ Even though each portion of the body has a distinct function, all of the parts w
       summary: "summary"),
   Symbols(
       name: "Atamagui",
-      imgUrl: "assets/Eye-symbols/Atamagui.png",
+      imgUrl: "assets/ewe/Atamagui.png",
       category: "Ewe",
       details:
           """A symbol of kindness generated from the proverb ‘atamagui be ame si nyo dͻme na ame la ɖe woxlěa efe ta ɖe ati’ (the snuff box says that it is the head of a benefactor that is knocked against a tree). It teaches you to be cautious of those who might return the favour, even if you perform well in doing so.""",
@@ -216,7 +216,7 @@ Even though each portion of the body has a distinct function, all of the parts w
       summary: "summary"),
   Symbols(
       name: "Ati alͻ etͻ",
-      imgUrl: "assets/Eye-symbols/Ati-alͻ-etͻ.png",
+      imgUrl: "assets/ewe/Ati-alͻ-etͻ.png",
       category: "Ewe",
       details:
           """A representation of worship that represents God's threefold nature and his watchfulness over each person's existence. The purpose of the sign is to serve as a reminder that God exists and is watching over humanity. This symbol was generated from the proverb ‘Nu etͻ yae wͻ agbe’ which literally means it is three things that make life.""",
@@ -224,24 +224,24 @@ Even though each portion of the body has a distinct function, all of the parts w
           """Ati alͻ etͻ, or three arms, symbolize the tripartite nature of God and His protective presence over individuals' lives, a concept often depicted across various artistic mediums. Textile artisans may intricately weave patterns or motifs inspired by the three arms, creating designs that evoke a sense of divine protection and guidance. These patterns could adorn fabrics or be embroidered onto garments, serving as tangible reminders of the spiritual connection between humanity and the divine. In painting, artists may portray scenes featuring the three arms, symbolizing God's watchful care and guardianship over individuals. These paintings may depict moments of solace or divine intervention, conveying a sense of comfort and assurance. Jewellery designers may craft pieces inspired by the symbolism of the three arms, incorporating elements that represent the divine tripartite nature, such as three interlocking shapes or symbols. These jewellery pieces serve as wearable symbols of faith and divine protection. Moreover, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by the Ati alͻ etͻ, often placed on areas of the body symbolizing spirituality or protection, serving as personal expressions of devotion and belief in divine guidance. Across textiles, painting, jewellery, and body art, the Ati alͻ etͻ serves as a powerful symbol of the tripartite nature of God and His continual protection over individuals' lives, inspiring faith and offering solace within Ewe culture and beyond.""",
       aka: "three arms",
       summary: "summary"),
-  Symbols(
-      name: "Nku kple alͻ ",
-      imgUrl: "assets/Eye-symbols/Nku-kple-alͻ",
-      category: "Ewe",
-      details:
-          """A symbol of tolerance and co-operation, is taken from the proverb ‘Dzre mele ŋku kple alͻ dome o’ literally meaning ‘there is no quarrel between the eye and sleep’. Sleeping when you have your eyes open is not easy. The choice to close one's eyes determines one's capacity for sleep. The symbol is intended to convey the lesson that disagreements between two groups engaged in decision-making for communal growth should not be ignored because these parties' cooperation will determine the fate of the community.""",
-      usage:
-          """Nku kple alͻ, or The Eye and Sleep, symbolizes the importance of tolerance and cooperation, concepts that can be depicted across various artistic mediums. 
+//   Symbols(
+//       name: "Nku kple alͻ ",
+//       imgUrl: "assets/ewe/Nku-kple-alͻ",
+//       category: "Ewe",
+//       details:
+//           """A symbol of tolerance and co-operation, is taken from the proverb ‘Dzre mele ŋku kple alͻ dome o’ literally meaning ‘there is no quarrel between the eye and sleep’. Sleeping when you have your eyes open is not easy. The choice to close one's eyes determines one's capacity for sleep. The symbol is intended to convey the lesson that disagreements between two groups engaged in decision-making for communal growth should not be ignored because these parties' cooperation will determine the fate of the community.""",
+//       usage:
+//           """Nku kple alͻ, or The Eye and Sleep, symbolizes the importance of tolerance and cooperation, concepts that can be depicted across various artistic mediums. 
 
-Textile artisans may intricately weave patterns or motifs inspired by the symbolism of Nku kple alͻ, creating designs that convey the harmony between different elements. These patterns could be incorporated into fabrics or embroidered onto garments, serving as visual representations of the value of tolerance and cooperation within Ewe culture. In painting, artists may portray scenes featuring the eye and sleep motifs, symbolizing the need for understanding and collaboration among individuals. These paintings may depict moments of mutual respect and empathy, conveying a sense of unity and cooperation. Jewellery designers may craft pieces inspired by the symbolism of Nku kple alͻ, incorporating elements that represent the interconnectedness of different perspectives and experiences. 
+// Textile artisans may intricately weave patterns or motifs inspired by the symbolism of Nku kple alͻ, creating designs that convey the harmony between different elements. These patterns could be incorporated into fabrics or embroidered onto garments, serving as visual representations of the value of tolerance and cooperation within Ewe culture. In painting, artists may portray scenes featuring the eye and sleep motifs, symbolizing the need for understanding and collaboration among individuals. These paintings may depict moments of mutual respect and empathy, conveying a sense of unity and cooperation. Jewellery designers may craft pieces inspired by the symbolism of Nku kple alͻ, incorporating elements that represent the interconnectedness of different perspectives and experiences. 
 
-These jewellery pieces serve as wearable symbols of the importance of tolerance and cooperation in fostering harmonious relationships. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Nku kple alͻ, often placed on areas of the body symbolizing understanding or acceptance, serving as personal expressions of the values of tolerance and cooperation. Across textiles, painting, jewellery, and body art, Nku kple alͻ serves as a powerful symbol of the significance of embracing diversity and working together towards common goals, inspiring unity and fostering a sense of community within Ewe culture
-""",
-      aka: "The eye and sleep",
-      summary: "summary"),
+// These jewellery pieces serve as wearable symbols of the importance of tolerance and cooperation in fostering harmonious relationships. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Nku kple alͻ, often placed on areas of the body symbolizing understanding or acceptance, serving as personal expressions of the values of tolerance and cooperation. Across textiles, painting, jewellery, and body art, Nku kple alͻ serves as a powerful symbol of the significance of embracing diversity and working together towards common goals, inspiring unity and fostering a sense of community within Ewe culture
+// """,
+//       aka: "The eye and sleep",
+//       summary: "summary"),
   Symbols(
       name: "Avu du fu",
-      imgUrl: "assets/Eye-symbols/Avu-du-fu.png",
+      imgUrl: "assets/ewe/Avu-du-fu.png",
       category: "Ewe",
       details: """A symbol of caution
 
@@ -259,19 +259,19 @@ Additionally, enthusiasts of body art may choose to adorn themselves with tattoo
 """,
       aka: "A dog chews bones",
       summary: "summary"),
-  Symbols(
-      name: "Da kuɖedzi",
-      imgUrl: "assets/Eye-symbols/Da-kuɖedzi.png",
-      category: "Ewe",
-      details:
-          """symbol of ramifications, warning wrongdoers that even though they are not being punished for their crimes right now, the law will eventually catch up with them. The proverb out of which the symbol was derived is ‘da ku ɖe dzi, me tsia dzi’ meaning ‘a snake that dies up never remains up’""",
-      usage:
-          """Da kuɖedzi, or Snake Dies Up, symbolizes the concept of ramification, representing the far-reaching consequences of actions, a theme that can be depicted across various artistic mediums. Textile artisans may weave intricate patterns or motifs inspired by the imagery of Da kuɖedzi, creating designs that convey the idea of interconnectedness and consequence. These patterns could be incorporated into fabrics or embroidered onto garments, serving as visual representations of the ripple effects of decisions and behaviors. In painting, artists may portray scenes featuring snakes coiling upwards, symbolizing the upward movement of consequences and the need to consider the broader implications of one's actions. These paintings may convey a sense of introspection and awareness, encouraging viewers to reflect on the potential ramifications of their choices. Jewellery designers may craft pieces inspired by the symbolism of Da kuɖedzi, incorporating elements that represent the idea of interconnectedness and cause and effect. These jewellery pieces serve as wearable reminders of the importance of considering the long-term consequences of actions. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Da kuɖedzi, often placed on areas of the body symbolizing reflection or contemplation, serving as personal expressions of the values of mindfulness and awareness. Across textiles, painting, jewellery, and body art, Da kuɖedzi serves as a powerful symbol of the interconnected nature of life and the need to consider the broader implications of our actions.""",
-      aka: "Snake dies up",
-      summary: "summary"),
+  // Symbols(
+  //     name: "Da kuɖedzi",
+  //     imgUrl: "assets/ewe/Da-kuɖedzi.png",
+  //     category: "Ewe",
+  //     details:
+  //         """symbol of ramifications, warning wrongdoers that even though they are not being punished for their crimes right now, the law will eventually catch up with them. The proverb out of which the symbol was derived is ‘da ku ɖe dzi, me tsia dzi’ meaning ‘a snake that dies up never remains up’""",
+  //     usage:
+  //         """Da kuɖedzi, or Snake Dies Up, symbolizes the concept of ramification, representing the far-reaching consequences of actions, a theme that can be depicted across various artistic mediums. Textile artisans may weave intricate patterns or motifs inspired by the imagery of Da kuɖedzi, creating designs that convey the idea of interconnectedness and consequence. These patterns could be incorporated into fabrics or embroidered onto garments, serving as visual representations of the ripple effects of decisions and behaviors. In painting, artists may portray scenes featuring snakes coiling upwards, symbolizing the upward movement of consequences and the need to consider the broader implications of one's actions. These paintings may convey a sense of introspection and awareness, encouraging viewers to reflect on the potential ramifications of their choices. Jewellery designers may craft pieces inspired by the symbolism of Da kuɖedzi, incorporating elements that represent the idea of interconnectedness and cause and effect. These jewellery pieces serve as wearable reminders of the importance of considering the long-term consequences of actions. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Da kuɖedzi, often placed on areas of the body symbolizing reflection or contemplation, serving as personal expressions of the values of mindfulness and awareness. Across textiles, painting, jewellery, and body art, Da kuɖedzi serves as a powerful symbol of the interconnected nature of life and the need to consider the broader implications of our actions.""",
+  //     aka: "Snake dies up",
+  //     summary: "summary"),
   Symbols(
       name: "Dɔmenyo tae",
-      imgUrl: "assets/Eye-symbols/Dɔmenyo-tae.png",
+      imgUrl: "assets/ewe/Dɔmenyo-tae.png",
       category: "Ewe",
       details:
           """Symbol of Generosity which was derived from the proverb ‘Dɔmenyo tae ta mele agalasi o’ meaning ‘due to generosity the crab has no head. It exhorts individuals to consider every act of kindness while preaching about the value of giving.""",
@@ -281,7 +281,7 @@ Additionally, enthusiasts of body art may choose to adorn themselves with tattoo
       summary: "summary"),
   Symbols(
       name: "De tsitsi",
-      imgUrl: "assets/Eye-symbols/De-tsitsi.png",
+      imgUrl: "assets/ewe/De-tsitsi.png",
       category: "Ewe",
       details: """A symbol of wisdom and maturity
 
@@ -296,7 +296,7 @@ Both young and old make up society. Due to their varied life experiences and sta
       summary: "summary"),
   Symbols(
       name: "Koklozi le Kpe Dzi",
-      imgUrl: "assets/Eye-symbols/Koklozi-le-Kpe-Dzi.png",
+      imgUrl: "assets/ewe/Koklozi-le-Kpe-Dzi.png",
       category: "Ewe",
       details:
           """The symbol for caution is "koklozi le kpe dzi," or an egg on a stone. Originating from the saying "Koklozi meʖua ʣe le kpe dzi o," which translates to "the egg does not dance on a rock," the emblem serves as a warning against exceeding one's capabilities and encourages individuals to always strive within their boundaries.""",
@@ -306,7 +306,7 @@ Both young and old make up society. Due to their varied life experiences and sta
       summary: "summary"),
   Symbols(
       name: "Deka nyonyo alo manyomanyo",
-      imgUrl: "assets/Eye-symbols/Deka-nyonyo-alo-manyomanyo.png",
+      imgUrl: "assets/ewe/Deka-nyonyo-alo-manyomanyo.png",
       category: "Ewe",
       details: """A symbol of unity and division
 
@@ -324,7 +324,7 @@ Additionally, enthusiasts of body art may choose to adorn themselves with tattoo
       summary: "summary"),
   Symbols(
       name: "Deti",
-      imgUrl: "assets/Eye-symbols/Deti.png",
+      imgUrl: "assets/ewe/Deti.png",
       category: "Ewe",
       details:
           """The proverb "dŻwŻnu le nyue le mŻ geʂeewo nu" inspired this symbol of versatility, which indicates that a person is either dynamic or versatile in many facets of life. Because of its many uses, the palm tree is referred to as the "king of all trees." The emblem is meant to inspire young people in particular to reach their full potential and contribute positively in all spheres of life in order to sustain the community's growth.
@@ -340,7 +340,7 @@ Additionally, enthusiasts of body art may choose to adorn themselves with tattoo
       summary: "summary"),
   Symbols(
       name: "Devi masԑtonu",
-      imgUrl: 'assets/Eye-symbols/Devi masԑtonu.png',
+      imgUrl: 'assets/ewe/Devi-masԑtonu.png',
       category: "Ewe",
       details: """A symbol of punishment, reproof and correction
 
@@ -355,7 +355,7 @@ Some kids are incredibly resistant to change; they won't budge no matter what gu
       summary: "summary"),
   Symbols(
       name: "Fiayi",
-      imgUrl: "assets/Eye-symbols/Fiayi.png",
+      imgUrl: "assets/ewe/Fiayi.png",
       category: "Ewe",
       details:
           """Chiefs have a symbol called "Fiayi." The emblem, which literally translates as "the royal sword," is used to represent authority and justice. Originating from the proverb "Nukoe wu ame wotsɔ fiayi sẽ atie," which translates to "circumstances compel one to cut a tree with a royal sword," the symbol serves as a teaching tool to emphasise that not every situation in life calls for the same answers; sometimes, it takes going above and beyond to use the seemingly impossible to solve a problem.""",
@@ -368,7 +368,7 @@ In painting, artists may portray scenes featuring the Fiayi as a symbol of justi
       summary: "summary"),
   Symbols(
       name: "Fu Kple Dzidzɔ",
-      imgUrl: "assets/Eye-symbols/Fu-Kple-Dzidzɔ.png",
+      imgUrl: "assets/ewe/Fu-Kple-Dzidzɔ.png",
       category: "Ewe",
       details: """Symbol of Harmony
 
@@ -384,7 +384,7 @@ Suffering and Happiness, or Fu Kple Dzidzʔ, is a symbol of harmony that can be 
       summary: "summary"),
   Symbols(
       name: "GbϽ",
-      imgUrl: "assets/Eye-symbols/GbϽ.png",
+      imgUrl: "assets/ewe/GbϽ.png",
       category: "Ewe",
       details: """Gbͻ tokpo mefia nya vi o
 Literal Translation:A goat with cut ears can't counsel her children
@@ -395,7 +395,7 @@ Literal Translation:A goat with cut ears can't counsel her children
       summary: "summary"),
   Symbols(
       name: "Gui",
-      imgUrl: "assets/Eye-symbols/Gui.png",
+      imgUrl: "assets/ewe/Gui.png",
       category: "Ewe",
       details:
           """The saying "Gui meɖi naneke o, gake ŋudɻwŻnu le eŋu"—which roughly translates to "the gourd looks unimportant, but has its usefulness"—is the source of the usefulness symbol known as the "gui" (gourd) symbol. This means that every individual, regardless of their current location or origin, contributes significantly to society in one way or another.""",
@@ -405,7 +405,7 @@ Literal Translation:A goat with cut ears can't counsel her children
       summary: "summary"),
   Symbols(
       name: "Ha",
-      imgUrl: "assets/Eye-symbols/Ha.png",
+      imgUrl: "assets/ewe/Ha.png",
       category: "Ewe",
       details: """A symbol of propriety
 
@@ -420,7 +420,7 @@ There is custom in a society that needs to be followed. Those who take care of t
       summary: "summary"),
   Symbols(
       name: "Hliha",
-      imgUrl: "assets/Eye-symbols/Hliha.png",
+      imgUrl: "assets/ewe/Hliha.png",
       category: "Ewe",
       details:
           """To underline the importance of supporting one another, a symbol, also referred to as a symbol of support, is employed. The phrase "Ta gbɻlo metsŻa hliha o," which directly translates to "the bare head cannot carry a laterite rock," inspired the emblem. This means that in the same way that a laterite rock requires a cushion to support a person carrying it on their head, so too do individuals need to assist one another to move forward, particularly during trying times.""",
@@ -430,7 +430,7 @@ There is custom in a society that needs to be followed. Those who take care of t
       summary: "summary"),
   Symbols(
       name: "Kavuvu",
-      imgUrl: "assets/Eye-symbols/Kavuvu.png",
+      imgUrl: "assets/ewe/Kavuvu.png",
       category: "Ewe",
       details: """Symbol of patience
 
@@ -449,7 +449,7 @@ These paintings may evoke a sense of calm and tranquility, encouraging viewers t
       summary: "summary"),
   Symbols(
       name: "Koklotsu",
-      imgUrl: "assets/Eye-symbols/Koklotsu.png",
+      imgUrl: "assets/ewe/Koklotsu.png",
       category: "Ewe",
       details:
           """Considered a symbol of caution and understanding which was generated from the proverb ‘Koklotsu eve wo le adzre wɔm, gake wo le wo nɔɛwoƒe ŋkukpɔm’ meaning ‘when two cocks are fighting, they are careful of each other’s eye’. The emblem emphasises how important it is for relationships to coexist peacefully. It counsels individuals to resolve disputes amicably in order to preserve harmony and peace.""",
@@ -457,32 +457,32 @@ These paintings may evoke a sense of calm and tranquility, encouraging viewers t
           """In Ewe culture, Koklotsu, or Cock, symbolizes both caution and understanding, embodying qualities of vigilance and wisdom that can be depicted across various artistic mediums. In fashion, designers may draw inspiration from the majestic appearance of a cock to create clothing pieces that exude a sense of alertness and awareness, incorporating bold colors or dynamic patterns reminiscent of the bird's plumage. Textile artisans may weave fabrics with motifs or patterns that depict scenes of cocks displaying their vigilant nature, using vibrant hues and intricate designs to convey the sense of caution and understanding associated with Koklotsu. In painting, artists may portray scenes featuring cocks as symbols of caution and understanding, with figures engaging in careful observation or contemplation. These paintings may evoke a sense of mindfulness and attentiveness, encouraging viewers to appreciate the importance of being aware of one's surroundings. Jewellery designers may craft pieces inspired by the symbolism of Koklotsu, incorporating elements that represent the idea of caution and understanding, such as cock-shaped pendants or motifs that evoke feelings of awareness and insight. These jewellery pieces serve as wearable reminders of the importance of being vigilant and wise in one's actions. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Koklotsu, often placed on areas of the body symbolizing mindfulness or intuition, serving as personal expressions of the values of caution and understanding. Fashion, textiles, jewellery, paintings, and body art are all influenced by Koklotsu, a potent symbol in Ewe culture and beyond of the value of exercising caution and understanding when navigating life's opportunities and challenges. This helps people approach situations with discernment and wisdom.""",
       aka: "Cock",
       summary: "summary"),
-  Symbols(
-      name: "Kokloxͻ",
-      imgUrl: "assets/Eye-symbols/Kokloxͻ.png",
-      category: "Ewe",
-      details:
-          """Generated from the proverb ‘Kokloxͻ mekpea ŋu na koklo o’ (a fowl is not shy of its coop) is a symbol of contentment. Humility is the ability to be happy with what one has. The emblem encourages people to have the humility to accept and be content wherever they are, no matter how humble the setting may appear. 
+//   Symbols(
+//       name: "Kokloxͻ",
+//       imgUrl: "assets/ewe/Kokloxͻ.png",
+//       category: "Ewe",
+//       details:
+//           """Generated from the proverb ‘Kokloxͻ mekpea ŋu na koklo o’ (a fowl is not shy of its coop) is a symbol of contentment. Humility is the ability to be happy with what one has. The emblem encourages people to have the humility to accept and be content wherever they are, no matter how humble the setting may appear. 
 
-""",
-      usage:
-          """Kokloxͻ, also known as Hen Coop, is a symbol of contentment in Ewe culture. It is a place of safety and comfort where one can find happiness and tranquilly. Several artistic mediums can portray these attributes. In order to produce apparel that evokes a sense of comfort and ease, fashion designers may find inspiration in the protective and cosy character of a hen coop. They may incorporate soft fabrics or loose designs that are reminiscent of the coop's sheltering atmosphere. The feeling of contentment connected with Kokloxͻ is conveyed by textile artisans who use warm colours and inviting designs to weave fabrics with patterns or motifs that reflect scenes of chickens nesting in their coops. In painting, artists may portray idyllic scenes featuring hen coops as symbols of domestic tranquility and happiness, with figures enjoying the simple pleasures of rural life. These paintings may evoke a sense of serenity and peace, encouraging viewers to appreciate the beauty of contentment. Jewellery designers may craft pieces inspired by the symbolism of Kokloxͻ, incorporating elements that represent the idea of comfort and security, such as coop-shaped pendants or motifs that evoke feelings of coziness and happiness. These jewellery pieces serve as wearable reminders of the importance of finding contentment in life's simple pleasures. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Kokloxͻ, often placed on areas of the body symbolizing relaxation or tranquility, serving as personal expressions of the values of contentment and peace. In Ewe culture and beyond, KokloxŁ is a potent symbol of the value of finding happiness and contentment in one's surroundings that can be found in a variety of media, including clothing, textiles, jewellery, body art, and paintings. It encourages people to cherish their homes and recognise the advantages of living in peace.""",
-      aka: "Hen coop",
-      summary: "summary"),
-  Symbols(
-      name: "Kpakpa",
-      imgUrl: "assets/Eye-symbols/Kpakpa.png",
-      category: "Ewe",
-      details: """‘Kpakpavi medoa akloe o’ 
-Literal Translation: A nestling dove should not doze
-""",
-      usage:
-          """In Ewe culture, Kpakpa, or Dove, symbolizes caution, embodying qualities of vigilance and awareness that can be depicted across various forms of visual communication. In visual communication, designers may incorporate the imagery of Kpakpa to convey messages of caution and mindfulness, using the dove's graceful form and watchful demeanor to evoke a sense of alertness and awareness in viewers. Textile artisans may weave fabrics with patterns or motifs that depict scenes of doves in flight, using subtle colors and delicate designs to convey the sense of caution and vigilance associated with Kpakpa. In painting, artists may portray scenes featuring doves as symbols of caution and awareness, with figures engaging in careful observation or contemplation. These paintings may evoke a sense of mindfulness and attentiveness, encouraging viewers to appreciate the importance of being alert and cautious in their surroundings. Jewellery designers may craft pieces inspired by the symbolism of Kpakpa, incorporating elements that represent the idea of caution and vigilance, such as dove-shaped pendants or motifs that evoke feelings of watchfulness and readiness. These jewellery pieces serve as wearable reminders of the importance of staying alert and mindful of potential risks. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Kpakpa, often placed on areas of the body symbolizing vigilance or awareness, serving as personal expressions of the values of caution and mindfulness. Across visual communication, textiles, painting, jewellery, and body art, Kpakpa serves as a powerful symbol of the importance of staying vigilant and aware of potential dangers within Ewe culture and beyond, inspiring individuals to approach situations with caution and mindfulness.""",
-      aka: "Dove",
-      summary: "summary"),
+// """,
+//       usage:
+//           """Kokloxͻ, also known as Hen Coop, is a symbol of contentment in Ewe culture. It is a place of safety and comfort where one can find happiness and tranquilly. Several artistic mediums can portray these attributes. In order to produce apparel that evokes a sense of comfort and ease, fashion designers may find inspiration in the protective and cosy character of a hen coop. They may incorporate soft fabrics or loose designs that are reminiscent of the coop's sheltering atmosphere. The feeling of contentment connected with Kokloxͻ is conveyed by textile artisans who use warm colours and inviting designs to weave fabrics with patterns or motifs that reflect scenes of chickens nesting in their coops. In painting, artists may portray idyllic scenes featuring hen coops as symbols of domestic tranquility and happiness, with figures enjoying the simple pleasures of rural life. These paintings may evoke a sense of serenity and peace, encouraging viewers to appreciate the beauty of contentment. Jewellery designers may craft pieces inspired by the symbolism of Kokloxͻ, incorporating elements that represent the idea of comfort and security, such as coop-shaped pendants or motifs that evoke feelings of coziness and happiness. These jewellery pieces serve as wearable reminders of the importance of finding contentment in life's simple pleasures. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Kokloxͻ, often placed on areas of the body symbolizing relaxation or tranquility, serving as personal expressions of the values of contentment and peace. In Ewe culture and beyond, KokloxŁ is a potent symbol of the value of finding happiness and contentment in one's surroundings that can be found in a variety of media, including clothing, textiles, jewellery, body art, and paintings. It encourages people to cherish their homes and recognise the advantages of living in peace.""",
+//       aka: "Hen coop",
+//       summary: "summary"),
+//   Symbols(
+//       name: "Kpakpa",
+//       imgUrl: "assets/ewe/Kpakpa.png",
+//       category: "Ewe",
+//       details: """‘Kpakpavi medoa akloe o’ 
+// Literal Translation: A nestling dove should not doze
+// """,
+//       usage:
+//           """In Ewe culture, Kpakpa, or Dove, symbolizes caution, embodying qualities of vigilance and awareness that can be depicted across various forms of visual communication. In visual communication, designers may incorporate the imagery of Kpakpa to convey messages of caution and mindfulness, using the dove's graceful form and watchful demeanor to evoke a sense of alertness and awareness in viewers. Textile artisans may weave fabrics with patterns or motifs that depict scenes of doves in flight, using subtle colors and delicate designs to convey the sense of caution and vigilance associated with Kpakpa. In painting, artists may portray scenes featuring doves as symbols of caution and awareness, with figures engaging in careful observation or contemplation. These paintings may evoke a sense of mindfulness and attentiveness, encouraging viewers to appreciate the importance of being alert and cautious in their surroundings. Jewellery designers may craft pieces inspired by the symbolism of Kpakpa, incorporating elements that represent the idea of caution and vigilance, such as dove-shaped pendants or motifs that evoke feelings of watchfulness and readiness. These jewellery pieces serve as wearable reminders of the importance of staying alert and mindful of potential risks. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Kpakpa, often placed on areas of the body symbolizing vigilance or awareness, serving as personal expressions of the values of caution and mindfulness. Across visual communication, textiles, painting, jewellery, and body art, Kpakpa serves as a powerful symbol of the importance of staying vigilant and aware of potential dangers within Ewe culture and beyond, inspiring individuals to approach situations with caution and mindfulness.""",
+//       aka: "Dove",
+//       summary: "summary"),
   Symbols(
       name: "Kpakpaluvui",
-      imgUrl: "assets/Eye-symbols/Kpakpaluvui.png",
+      imgUrl: "assets/ewe/Kpakpaluvui.png",
       category: "Ewe",
       details:
           """The butterfly is seen as the beauty in cloths and represents ubiquity, a
@@ -494,7 +494,7 @@ character of the nomadic butterfly.
       summary: "summary"),
   Symbols(
       name: "Sabala",
-      imgUrl: "assets/Eye-symbols/Sabala.png",
+      imgUrl: "assets/ewe/Sabala.png",
       category: "Ewe",
       details:
           """It is taken  from the Proverb : Sabala le nogo gake mɔ le eme Yes. It looks like an onion. It is an abstract depiction of an onion. Sabala is a symbol of.
@@ -505,19 +505,19 @@ Sabala, or Onion, symbolizes individualism, coexistence, and tolerance, represen
           """This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Sabala to depict the layers of individuality and diversity within society, using the onion's concentric rings to represent the multifaceted nature of humanity and the importance of tolerance and acceptance. Textile artisans may weave fabrics with patterns or motifs that depict scenes of onions growing in fields, using a range of colors and textures to convey the richness of diversity and the interconnectedness of all living things. In painting, artists may portray scenes featuring onions as symbols of individualism and coexistence, with figures surrounded by a tapestry of layered forms representing the complex interplay of personalities and perspectives. These paintings may evoke a sense of unity and harmony, encouraging viewers to embrace the uniqueness of each individual while fostering mutual respect and understanding. Jewellery designers may craft pieces inspired by the symbolism of Sabala, incorporating elements that represent the idea of individualism and tolerance, such as onion-shaped pendants or motifs that evoke feelings of interconnectedness and acceptance. These jewellery pieces serve as wearable reminders of the importance of celebrating diversity and fostering inclusivity within society. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Sabala, often placed on areas of the body symbolizing unity or diversity, serving as personal expressions of the values of individualism, coexistence, and tolerance. Across visual communication, textiles, painting, jewellery, and body art, Sabala serves as a powerful symbol of the richness of diversity and the importance of embracing individuality while fostering mutual respect and understanding within Ewe culture and beyond.""",
       aka: "Onion",
       summary: "summary"),
-  Symbols(
-      name: "Kpͻtimakpa",
-      imgUrl: "assets/Eye-symbols/Kpͻtimakpa.png",
-      category: "Ewe",
-      details:
-          """A symbol of defiance was generated from the proverb ‘mele te xeyixi sia xeyixi’ meaning we are stable in all situations. It gives people advice on how to survive and persevere in the face of life's uncertainty. It educates kids to be resourceful and independent in handling real-world challenges.""",
-      usage:
-          """This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Kpͻtimakpa to represent the self-sufficiency and strength inherent in the plant's ability to thrive in harsh conditions, using its sturdy leaves and vibrant colors to evoke a sense of resilience and determination. Textile artisans may weave fabrics with patterns or motifs that depict scenes of Kpͻtimakpa growing in arid landscapes, using earthy tones and bold designs to convey the plant's resilience and self-reliance. In painting, artists may portray scenes featuring Kpͻtimakpa as symbols of self-reliance and perseverance, with figures surrounded by the plant's hearty foliage as they navigate life's challenges. These paintings may evoke a sense of empowerment and fortitude, encouraging viewers to embrace their own inner strength and resourcefulness. Jewellery designers may craft pieces inspired by the symbolism of Kpͻtimakpa, incorporating elements that represent the idea of self-reliance and resilience, such as Jethropa plant-shaped pendants or motifs that evoke feelings of endurance and self-sufficiency. These jewellery pieces serve as wearable reminders of the importance of trusting in one's own abilities and resilience. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Kpͻtimakpa, often placed on areas of the body symbolizing strength or perseverance, serving as personal expressions of the values of self-reliance and determination. Across visual communication, textiles, painting, jewellery, and body art, Kpͻtimakpa serves as a powerful symbol of the ability to thrive and endure in the face of adversity, inspiring individuals to trust in their own resilience and embrace their capacity for self-reliance within Ewe culture and beyond.""",
-      aka: "Jethropa plant",
-      summary: "summary"),
+  // Symbols(
+  //     name: "Kpͻtimakpa",
+  //     imgUrl: "assets/ewe/Kpͻtimakpa.png",
+  //     category: "Ewe",
+  //     details:
+  //         """A symbol of defiance was generated from the proverb ‘mele te xeyixi sia xeyixi’ meaning we are stable in all situations. It gives people advice on how to survive and persevere in the face of life's uncertainty. It educates kids to be resourceful and independent in handling real-world challenges.""",
+  //     usage:
+  //         """This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Kpͻtimakpa to represent the self-sufficiency and strength inherent in the plant's ability to thrive in harsh conditions, using its sturdy leaves and vibrant colors to evoke a sense of resilience and determination. Textile artisans may weave fabrics with patterns or motifs that depict scenes of Kpͻtimakpa growing in arid landscapes, using earthy tones and bold designs to convey the plant's resilience and self-reliance. In painting, artists may portray scenes featuring Kpͻtimakpa as symbols of self-reliance and perseverance, with figures surrounded by the plant's hearty foliage as they navigate life's challenges. These paintings may evoke a sense of empowerment and fortitude, encouraging viewers to embrace their own inner strength and resourcefulness. Jewellery designers may craft pieces inspired by the symbolism of Kpͻtimakpa, incorporating elements that represent the idea of self-reliance and resilience, such as Jethropa plant-shaped pendants or motifs that evoke feelings of endurance and self-sufficiency. These jewellery pieces serve as wearable reminders of the importance of trusting in one's own abilities and resilience. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Kpͻtimakpa, often placed on areas of the body symbolizing strength or perseverance, serving as personal expressions of the values of self-reliance and determination. Across visual communication, textiles, painting, jewellery, and body art, Kpͻtimakpa serves as a powerful symbol of the ability to thrive and endure in the face of adversity, inspiring individuals to trust in their own resilience and embrace their capacity for self-reliance within Ewe culture and beyond.""",
+  //     aka: "Jethropa plant",
+  //     summary: "summary"),
   Symbols(
       name: "Lagla Xoxo",
-      imgUrl: "assets/Eye-symbols/Lagla-Xoxo.png",
+      imgUrl: "assets/ewe/Lagla-Xoxo.png",
       category: "Ewe",
       details: """Symbol of Knowledge
 
@@ -528,24 +528,24 @@ Literal Translation: Old bones from former hunting cannot be used to prepare tod
           """It is possible to effectively communicate this symbolism through a variety of visual communication formats. Using the worn texture and elaborate patterns of ancient bones to generate a sense of history and tradition, designers may use the imagery of Lagla Xoxo to depict the breadth of knowledge and wisdom passed down through the ages in visual communication. Textile artisans may weave fabrics with patterns or motifs that depict scenes of Lagla Xoxo amidst ancient artifacts or symbols of learning, using earthy tones and intricate designs to convey the richness of knowledge and wisdom. In painting, artists may portray scenes featuring Lagla Xoxo as symbols of knowledge and enlightenment, with figures surrounded by the bones of their ancestors as they seek to gain insight and understanding. These paintings may evoke a sense of reverence and respect for the wisdom of those who came before, encouraging viewers to appreciate the value of learning from the past. Jewellery designers may craft pieces inspired by the symbolism of Lagla Xoxo, incorporating elements that represent the idea of knowledge and wisdom, such as bone-shaped pendants or motifs that evoke feelings of insight and enlightenment. These jewellery pieces serve as wearable reminders of the importance of seeking knowledge and understanding. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Lagla Xoxo, often placed on areas of the body symbolizing intellect or enlightenment, serving as personal expressions of the values of knowledge and wisdom. Across visual communication, textiles, painting, jewellery, and body art, Lagla Xoxo serves as a powerful symbol of the richness of knowledge and wisdom passed down through generations, inspiring individuals to honor the wisdom of their ancestors and seek enlightenment within Ewe culture and beyond.""",
       aka: "Old bones",
       summary: "summary"),
-  Symbols(
-      name: "Nu Kple Ge",
-      imgUrl: "assets/Eye-symbols/Nu-Kple-Ge.png",
-      category: "Ewe",
-      details: """Symbol of sharing.
+//   Symbols(
+//       name: "Nu Kple Ge",
+//       imgUrl: "assets/ewe/Nu-kple-alͻ.png",
+//       category: "Ewe",
+//       details: """Symbol of sharing.
 
-The ‘nu kple ge’ (mouth and beard) symbol which is a symbol of sharing. It is derived from the proverb ‘Ne nyo na nua eyae wogbãna ɖe ge me’which literally means ‘it is when the mouth is full of food, that some fall into the beard’. This emblem highlights the necessity for members of the community to support one another since, in addition to family members, the indigenous people of that community also gain from an individual's great accomplishment. If not everyone in the community gains something, at least the neighbours receive modest signs of gratitude.
-""",
-      usage:
-          """Nu Kple Ge, or Mouth and Beard, is a sign of sharing, communication, and the interdependence of people in a society in Ewe culture. It is possible to effectively communicate this symbolism through a variety of visual communication formats. Using the mouth and beard as symbols of verbal exchange and connection, designers can use Nu Kple Ge imagery to symbolise the act of sharing and communicating in visual communication. In order to communicate the feeling of togetherness and camaraderie connected with Nu Kple Ge, textile craftsmen may weave fabrics with patterns or motifs that show scenes of people conversing or sharing meals. Warm colours and vibrant designs are used in these designs. 
+// The ‘nu kple ge’ (mouth and beard) symbol which is a symbol of sharing. It is derived from the proverb ‘Ne nyo na nua eyae wogbãna ɖe ge me’which literally means ‘it is when the mouth is full of food, that some fall into the beard’. This emblem highlights the necessity for members of the community to support one another since, in addition to family members, the indigenous people of that community also gain from an individual's great accomplishment. If not everyone in the community gains something, at least the neighbours receive modest signs of gratitude.
+// """,
+//       usage:
+//           """Nu Kple Ge, or Mouth and Beard, is a sign of sharing, communication, and the interdependence of people in a society in Ewe culture. It is possible to effectively communicate this symbolism through a variety of visual communication formats. Using the mouth and beard as symbols of verbal exchange and connection, designers can use Nu Kple Ge imagery to symbolise the act of sharing and communicating in visual communication. In order to communicate the feeling of togetherness and camaraderie connected with Nu Kple Ge, textile craftsmen may weave fabrics with patterns or motifs that show scenes of people conversing or sharing meals. Warm colours and vibrant designs are used in these designs. 
 
-In painting, artists may portray scenes featuring Nu Kple Ge as symbols of sharing and connection, with figures depicted in close proximity as they engage in dialogue or share a meal. These paintings may evoke a sense of unity and cooperation, encouraging viewers to appreciate the importance of mutual support and collaboration within a community. Jewellery designers may craft pieces inspired by the symbolism of Nu Kple Ge, incorporating elements that represent the idea of sharing and communication, such as mouth and beard-shaped pendants or motifs that evoke feelings of connection and camaraderie. These jewellery pieces serve as wearable reminders of the value of coming together and sharing experiences with others. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Nu Kple Ge, often placed on areas of the body symbolizing connection or community, serving as personal expressions of the values of sharing and communication. Across visual communication, textiles, painting, jewellery, and body art, Nu Kple Ge serves as a powerful symbol of the importance of sharing and communication in fostering unity and cooperation within Ewe culture and beyond, inspiring individuals to come together and support one another in the spirit of communal harmony.
-""",
-      aka: "Mouth and beard",
-      summary: "summary"),
+// In painting, artists may portray scenes featuring Nu Kple Ge as symbols of sharing and connection, with figures depicted in close proximity as they engage in dialogue or share a meal. These paintings may evoke a sense of unity and cooperation, encouraging viewers to appreciate the importance of mutual support and collaboration within a community. Jewellery designers may craft pieces inspired by the symbolism of Nu Kple Ge, incorporating elements that represent the idea of sharing and communication, such as mouth and beard-shaped pendants or motifs that evoke feelings of connection and camaraderie. These jewellery pieces serve as wearable reminders of the value of coming together and sharing experiences with others. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Nu Kple Ge, often placed on areas of the body symbolizing connection or community, serving as personal expressions of the values of sharing and communication. Across visual communication, textiles, painting, jewellery, and body art, Nu Kple Ge serves as a powerful symbol of the importance of sharing and communication in fostering unity and cooperation within Ewe culture and beyond, inspiring individuals to come together and support one another in the spirit of communal harmony.
+// """,
+//       aka: "Mouth and beard",
+//       summary: "summary"),
   Symbols(
       name: "Nya ga o",
-      imgUrl: "assets/Eye-symbols/Nya-ga-o.png",
+      imgUrl: "assets/ewe/Nya-ga-o.png",
       category: "Ewe",
       details: """A symbol of order and respect
 
@@ -558,25 +558,25 @@ When a child is observed interacting with adults about matters, it is deemed tha
           """Nya ga o, or Big Matters, is a symbol of order and respect in Ewe culture, signifying the value of hierarchy and deference to authority. It is possible to effectively communicate this symbolism through a variety of visual communication formats. Using symbols of authority and respect to imply a sense of reverence and commitment to traditional values, designers may use Nya ga o iconography to illustrate the importance of hierarchical systems and the necessity for order in society. Rich colours and elaborate designs are used by textile artisans to create fabrics with patterns or motifs that portray scenes of people acting in reverence or following protocol, conveying the sense of respect and order associated with Nya ga o. These paintings may evoke a sense of dignity and formality, encouraging viewers to appreciate the importance of upholding tradition and honoring authority. Jewellery designers may craft pieces inspired by the symbolism of Nya ga o, incorporating elements that represent the idea of order and respect, such as symbols of authority or motifs that evoke feelings of reverence and deference. These jewellery pieces serve as wearable reminders of the importance of respecting hierarchy and observing protocol. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Nya ga o, often placed on areas of the body symbolizing authority or respect, serving as personal expressions of the values of order and reverence. Across visual communication, textiles, painting, jewellery, and body art, Nya ga o serves as a powerful symbol of the importance of maintaining order and showing respect for authority within Ewe culture and beyond, inspiring individuals to uphold tradition and honor those in positions of power.""",
       aka: "Big matters",
       summary: "summary"),
-  Symbols(
-      name: "Nͻviwͻwͻ ",
-      imgUrl: "Nͻviwͻwͻ",
-      category: "Ewe",
-      details: """‘Amenovi menoa ati dzi wodua gbogboa o.’
-Literal Translation: One’s own brother cannot be on a tree and that person eats the green
-fruits of that tree.
+//   Symbols(
+//       name: "Nͻviwͻwͻ ",
+//       imgUrl: "assets/ewe/Nͻviwͻwͻ",
+//       category: "Ewe",
+//       details: """‘Amenovi menoa ati dzi wodua gbogboa o.’
+// Literal Translation: One’s own brother cannot be on a tree and that person eats the green
+// fruits of that tree.
 
-A mark of preference
+// A mark of preference
 
-This adage illustrates the value of family support for one another. Favouritism occurs when a close relative oversees something that his other relatives should benefit from the most. It promotes fraternal affection in tight relationships. Three abstract pictures are shown in the symbol, the central one standing out and enveloping the left image.
-""",
-      usage:
-          """Nͻviwͻwͻ, or Brotherly Love, is a sign of favouritism in Ewe culture, expressing the difficult task of managing preferences within groups as well as the intricate dynamics of familial relationships. This symbolism can be expressed in a number of ways when communicating visually. When it comes to visual communication, designers can use the imagery of Nͻviwͻwͻ to illustrate the subtleties of favouritism. They can also use pictures of family members or siblings in different situations to illustrate the intricacies of relationship relationships. In order to convey the tension and imbalance that come with favouritism, textile artists may weave fabrics with patterns or motifs that show scenes of sibling rivalry or unfair treatment. They can do this by utilising contrasting colours and emotive designs. Scenes with Nͻviwͻwͻ may be painted by artists as emblems of favouritism and its effects, with characters portrayed in conflict or with animosity. These paintings may evoke a sense of emotional complexity and ambiguity, encouraging viewers to reflect on the impact of favoritism within families and communities. Jewellery designers may craft pieces inspired by the symbolism of Nͻviwͻwͻ, incorporating elements that represent the idea of favoritism and its effects, such as sibling-themed pendants or motifs that evoke feelings of rivalry and jealousy. These jewellery pieces serve as wearable reminders of the challenges inherent in navigating familial relationships. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Nͻviwͻwͻ, often placed on areas of the body symbolizing familial bonds or emotional conflict, serving as personal expressions of the complexities of favoritism within families. Across visual communication, textiles, painting, jewellery, and body art, Nͻviwͻwͻ serves as a powerful symbol of the challenges of navigating favoritism within Ewe culture and beyond, inspiring individuals to reflect on the complexities of familial relationships and strive for greater equity and understanding within their communities.""",
-      aka: "Brotherly love",
-      summary: "summary"),
+// This adage illustrates the value of family support for one another. Favouritism occurs when a close relative oversees something that his other relatives should benefit from the most. It promotes fraternal affection in tight relationships. Three abstract pictures are shown in the symbol, the central one standing out and enveloping the left image.
+// """,
+//       usage:
+//           """Nͻviwͻwͻ, or Brotherly Love, is a sign of favouritism in Ewe culture, expressing the difficult task of managing preferences within groups as well as the intricate dynamics of familial relationships. This symbolism can be expressed in a number of ways when communicating visually. When it comes to visual communication, designers can use the imagery of Nͻviwͻwͻ to illustrate the subtleties of favouritism. They can also use pictures of family members or siblings in different situations to illustrate the intricacies of relationship relationships. In order to convey the tension and imbalance that come with favouritism, textile artists may weave fabrics with patterns or motifs that show scenes of sibling rivalry or unfair treatment. They can do this by utilising contrasting colours and emotive designs. Scenes with Nͻviwͻwͻ may be painted by artists as emblems of favouritism and its effects, with characters portrayed in conflict or with animosity. These paintings may evoke a sense of emotional complexity and ambiguity, encouraging viewers to reflect on the impact of favoritism within families and communities. Jewellery designers may craft pieces inspired by the symbolism of Nͻviwͻwͻ, incorporating elements that represent the idea of favoritism and its effects, such as sibling-themed pendants or motifs that evoke feelings of rivalry and jealousy. These jewellery pieces serve as wearable reminders of the challenges inherent in navigating familial relationships. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Nͻviwͻwͻ, often placed on areas of the body symbolizing familial bonds or emotional conflict, serving as personal expressions of the complexities of favoritism within families. Across visual communication, textiles, painting, jewellery, and body art, Nͻviwͻwͻ serves as a powerful symbol of the challenges of navigating favoritism within Ewe culture and beyond, inspiring individuals to reflect on the complexities of familial relationships and strive for greater equity and understanding within their communities.""",
+//       aka: "Brotherly love",
+//       summary: "summary"),
   Symbols(
       name: "Ŋkukplealɔ̃",
-      imgUrl: "assets/Eye-symbols/Ŋkukplealɔ̃.png",
+      imgUrl: "assets/ewe/Ŋkukplealɔ̃.png",
       category: "Ewe",
       details: """Symbol of tolerance and co-operation
 
@@ -590,7 +590,7 @@ eye and sleep
       summary: "summary"),
   Symbols(
       name: "Trԑ",
-      imgUrl: "assets/Eye-symbols/Trԑ.png",
+      imgUrl: "assets/ewe/Trԑ.png",
       category: "Ewe",
       details: """A symbol of peace
 
@@ -604,7 +604,7 @@ Among the Ewes, the calabash symbolises family ties and friendliness among the c
       summary: "summary"),
   Symbols(
       name: "Vivɔɛ",
-      imgUrl: "assets/Eye-symbols/Vivɔɛ.png",
+      imgUrl: "assets/ewe/Vivɔɛ.png",
       category: "Ewe",
       details: """Symbol of contentment
 
@@ -616,22 +616,22 @@ Literal Translation: A thigh smeared with a bad child’s faeces cannot be scrap
           """This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Vivɔɛ to represent the idea of contentment and inner peace, using depictions of mischievous children as a reminder to find joy and fulfillment in life's ups and downs. Textile artisans may weave fabrics with patterns or motifs that depict scenes of playful children amidst scenes of everyday life, using vibrant colors and whimsical designs to evoke a sense of joy and contentment. In painting, artists may portray scenes featuring Vivɔɛ as symbols of contentment and resilience, with figures depicted in acts of playfulness or mischief. These paintings may evoke a sense of light-heartedness and optimism, encouraging viewers to embrace life with a sense of humor and acceptance. Jewellery designers may craft pieces inspired by the symbolism of Vivɔɛ, incorporating elements that represent the idea of contentment and joy, such as child-shaped pendants or motifs that evoke feelings of happiness and spontaneity. These jewellery pieces serve as wearable reminders of the importance of finding joy in the present moment. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Vivɔɛ, often placed on areas of the body symbolizing playfulness or spontaneity, serving as personal expressions of the values of contentment and resilience. Across visual communication, textiles, painting, jewellery, and body art, Vivɔɛ serves as a powerful symbol of the importance of embracing life's imperfections and finding happiness in the present moment within Ewe culture and beyond, inspiring individuals to cultivate a sense of contentment and joy in their everyday lives.""",
       aka: "Bad child",
       summary: "summary"),
-  Symbols(
-      name: "Xletivi",
-      imgUrl: "assets/Eye-symbols/Xletivi.png",
-      category: "Ewe",
-      details: """The Ewes believe that the stars help to
-determine the destiny, mission or fate of a
-person. This symbol is therefore important in weaving.
-Xletivi 
-""",
-      usage:
-          """In visual communication, designers may utilize the imagery of Xletivi to represent the idea of destiny and the path one follows in life, using depictions of stars as symbols of guidance and direction. Textile artisans may weave fabrics with patterns or motifs that depict scenes of stars shining brightly in the night sky, using shimmering threads and celestial designs to evoke a sense of wonder and purpose. In painting, artists may portray scenes featuring Xletivi as symbols of destiny and aspiration, with figures depicted reaching towards the stars or navigating their way through the darkness. These paintings may evoke a sense of hope and determination, encouraging viewers to follow their dreams and pursue their true calling. Jewellery designers may craft pieces inspired by the symbolism of Xletivi, incorporating elements that represent the idea of destiny and guidance, such as star-shaped pendants or motifs that evoke feelings of inspiration and illumination. These jewellery pieces serve as wearable reminders of the importance of staying true to oneself and following one's path in life. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Xletivi, often placed on areas of the body symbolizing aspiration or enlightenment, serving as personal expressions of the values of destiny and purpose. Across visual communication, textiles, painting, jewellery, and body art, Xletivi serves as a powerful symbol of the journey of life and the guiding light that leads individuals towards their destiny within Ewe culture and beyond, inspiring individuals to embrace their true calling and pursue their dreams with courage and conviction.""",
-      aka: "Star",
-      summary: "summary"),
+//   Symbols(
+//       name: "Xletivi",
+//       imgUrl: "assets/ewe/Xletivi.png",
+//       category: "Ewe",
+//       details: """The Ewes believe that the stars help to
+// determine the destiny, mission or fate of a
+// person. This symbol is therefore important in weaving.
+// Xletivi 
+// """,
+//       usage:
+//           """In visual communication, designers may utilize the imagery of Xletivi to represent the idea of destiny and the path one follows in life, using depictions of stars as symbols of guidance and direction. Textile artisans may weave fabrics with patterns or motifs that depict scenes of stars shining brightly in the night sky, using shimmering threads and celestial designs to evoke a sense of wonder and purpose. In painting, artists may portray scenes featuring Xletivi as symbols of destiny and aspiration, with figures depicted reaching towards the stars or navigating their way through the darkness. These paintings may evoke a sense of hope and determination, encouraging viewers to follow their dreams and pursue their true calling. Jewellery designers may craft pieces inspired by the symbolism of Xletivi, incorporating elements that represent the idea of destiny and guidance, such as star-shaped pendants or motifs that evoke feelings of inspiration and illumination. These jewellery pieces serve as wearable reminders of the importance of staying true to oneself and following one's path in life. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Xletivi, often placed on areas of the body symbolizing aspiration or enlightenment, serving as personal expressions of the values of destiny and purpose. Across visual communication, textiles, painting, jewellery, and body art, Xletivi serves as a powerful symbol of the journey of life and the guiding light that leads individuals towards their destiny within Ewe culture and beyond, inspiring individuals to embrace their true calling and pursue their dreams with courage and conviction.""",
+//       aka: "Star",
+//       summary: "summary"),
   Symbols(
       name: "Yamewu",
-      imgUrl: "assets/Eye-symbols/Yamewu.png",
+      imgUrl: "assets/ewe/Yamewu.png",
       category: "Ewe",
       details:
           """There is an Ewe adage that says ‘an airplane does not toot horns. Horns belong to cars’.
@@ -644,7 +644,7 @@ impossible from people who cannot meet their demands.
       summary: "summary"),
   Symbols(
       name: "Zego Yibɔ",
-      imgUrl: "assets/Eye-symbols/Zego Yibɔ.png",
+      imgUrl: "assets/ewe/Zego Yibɔ.png",
       category: "Ewe",
       details: """Symbol of caution with judgement
 
@@ -657,7 +657,7 @@ Literal Translation: The white porridge comes out of the black pot
       summary: "summary"),
   Symbols(
       name: "Zi kpi",
-      imgUrl: "assets/Eye-symbols/Zi-kpi.png",
+      imgUrl: "assets/ewe/Zi-kpi.png",
       category: "Ewe",
       details: """A symbol of patience and tolerance
 
@@ -672,7 +672,7 @@ There are usually two parties to a quarrel. It is quite rare to witness a single
       summary: "summary"),
   Symbols(
       name: "Zegbagbã",
-      imgUrl: "assets/Eye-symbols/Zegbagbã.png",
+      imgUrl: "assets/ewe/Zegbagbã.png",
       category: "Ewe",
       details: """Symbol of imperfection
 

@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:flutter/material.dart';
 import 'package:kiki/consts/const_widgets.dart';
 import 'package:kiki/functions/sharedpref.dart';
@@ -86,9 +88,10 @@ class _DetailedScreenState extends State<DetailedScreen> {
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
                   SizedBox(
-                    width: 200,
+                    width: size*0.5,
                     child: Text(
                       widget.symbol.name,
+                      overflow: TextOverflow.clip,
                       style: const TextStyle(
                           fontSize: 35,
                           fontWeight: FontWeight.w800,
@@ -96,12 +99,16 @@ class _DetailedScreenState extends State<DetailedScreen> {
                     ),
                   ),
                   SizedBox(height: size * 0.005),
-                  const Text(
-                    "\"Except God\"",
-                    style: TextStyle(
-                        fontSize: 20,
-                        fontWeight: FontWeight.w500,
-                        color: Colors.amber),
+                  SizedBox(
+                    width: size*.5,
+                    child: Text(
+                      "'${widget.symbol.aka}'",
+                      overflow: TextOverflow.clip,
+                      style: TextStyle(
+                          fontSize: 20,
+                          fontWeight: FontWeight.w500,
+                          color: Colors.amber),
+                    ),
                   ),
                   SizedBox(height: size * 0.01),
                   SizedBox(

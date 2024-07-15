@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
         "Kiki home" : (context) => const KikiHome(),
         "categories" :(context) => const KikiCategories(),
       },
-      home: const SplashScreen(),
+      home: const SplashScreen(), 
     );
   }
 }

@@ -45,9 +45,13 @@ class _KikiHomeState extends State<KikiHome> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const MyAppBar(),
-                    SizedBox(height: height*0.05,),
+                    SizedBox(
+                      height: height * 0.05,
+                    ),
                     const WelcomeText(),
-                    SizedBox(height: height*0.05,),
+                    SizedBox(
+                      height: height * 0.05,
+                    ),
                     const Padding(
                       padding: EdgeInsets.only(top: 10.0, left: 8, right: 8),
                       child: Text(
@@ -56,25 +60,52 @@ class _KikiHomeState extends State<KikiHome> {
                             TextStyle(color: Color(0xFFFFC700), fontSize: 15),
                       ),
                     ),
+                    const SizedBox(height: 10,),
                     SizedBox(
                       height: height * 0.22,
                       child: ListView.builder(
                           scrollDirection: Axis.horizontal,
-                          itemCount: symbolList.length,
+                          itemCount: popularSymbols.length,
                           itemBuilder: (context, index) {
                             return InkWell(
                               onTap: () {
-                                Get.to(DetailedScreen(symbol: symbolList[index],),
+                                Get.to(
+                                    DetailedScreen(
+                                      symbol: popularSymbols[index],
+                                    ),
                                     transition: Transition.fadeIn);
                               },
-                              child: Column(
-                                children: [
-                                  Image.asset(symbolList[index].imgUrl),
-                                  Text(
-                                    symbolList[index].name,
-                                    style: TextStyle(color: defaultColor),
-                                  )
-                                ],
+                              child: Padding(
+                                padding:
+                                    const EdgeInsets.only(left: 10.0, right: 5),
+                                child: Column(
+                                  children: [
+                                    Container(
+                                      decoration: BoxDecoration(
+                                        color: Colors.white,
+                                        borderRadius: BorderRadius.circular(16),
+                                        boxShadow: const [
+                                          BoxShadow(
+                                              color: Colors.black12,
+                                              spreadRadius: 0,
+                                              blurRadius: 10),
+                                        ],
+                                      ),
+                                      child: Padding(
+                                        padding: const EdgeInsets.all(12),
+                                        child: Image.asset(
+                                            height: 100,
+                                            width: 80,
+                                            fit: BoxFit.cover,
+                                            popularSymbols[index].imgUrl),
+                                      ),
+                                    ),
+                                    Text(
+                                      popularSymbols[index].name,
+                                      style: TextStyle(color: defaultColor),
+                                    )
+                                  ],
+                                ),
                               ),
                             );
                           }),
@@ -88,11 +119,15 @@ class _KikiHomeState extends State<KikiHome> {
                           itemBuilder: (context, index) {
                             return InkWell(
                               onTap: () {
-                                Get.to(DetailedScreen(symbol: adinkraSymbol[index],),
+                                Get.to(
+                                    DetailedScreen(
+                                      symbol: adinkraSymbol[index],
+                                    ),
                                     transition: Transition.fadeIn);
                               },
                               child: Padding(
-                                padding: const EdgeInsets.only(left: 10.0, right: 5),
+                                padding:
+                                    const EdgeInsets.only(left: 10.0, right: 5),
                                 child: Column(
                                   children: [
                                     Container(
@@ -125,7 +160,9 @@ class _KikiHomeState extends State<KikiHome> {
                             );
                           }),
                     ),
-                    SizedBox(height: height* 0.2,)
+                    SizedBox(
+                      height: height * 0.15,
+                    )
                   ],
                 ),
               ],

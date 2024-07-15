@@ -2026,27 +2026,27 @@ On a personal level, individuals may choose to incorporate the Ohene Aniwa symbo
 """,
       aka: """King's Eye""",
       summary: "summary"),
-  Symbols(
-      name: "Okodee Mmowere",
-      imgUrl: "assets/adinkra/Okodee-Mmowere.png",
-      category: "Adinkra",
-      details: """Bravery, Strength, Unity
+//   Symbols(
+//       name: "Okodee Mmowere",
+//       imgUrl: "assets/adinkra/Okodee-Mmowere.png",
+//       category: "Adinkra",
+//       details: """Bravery, Strength, Unity
 
-The Adinkra symbol Okodee Mmowere is a representation of an eagle's talons. Another name for it is Okodee Mmowere. It makes sense that it would be connected to the attributes of an eagle, which stands for power, bravery, and strength. 
+// The Adinkra symbol Okodee Mmowere is a representation of an eagle's talons. Another name for it is Okodee Mmowere. It makes sense that it would be connected to the attributes of an eagle, which stands for power, bravery, and strength. 
 
-The eagle is a formidable bird that soars to great heights above the ground. It can seize prey and remove it with its powerful talons. With the aid of the symbol, people are inspired to be bold and resilient, to overcome challenges, and to fulfil their goals.
-""",
-      usage:
-          """The Adinkra symbol "Okodee Mmowere," representing Eagle's Talons, holds profound meanings of bravery, strength, and unity.
+// The eagle is a formidable bird that soars to great heights above the ground. It can seize prey and remove it with its powerful talons. With the aid of the symbol, people are inspired to be bold and resilient, to overcome challenges, and to fulfil their goals.
+// """,
+//       usage:
+//           """The Adinkra symbol "Okodee Mmowere," representing Eagle's Talons, holds profound meanings of bravery, strength, and unity.
 
- Culturally, Okodee Mmowere could be prominently featured in traditional artifacts, fabrics, or ceremonies, symbolizing the powerful attributes associated with the eagle, such as bravery and strength. In organizational contexts, businesses might adopt this symbol to convey a commitment to courage, resilience, and unity among team members, potentially incorporating it into branding or mission statements. 
+//  Culturally, Okodee Mmowere could be prominently featured in traditional artifacts, fabrics, or ceremonies, symbolizing the powerful attributes associated with the eagle, such as bravery and strength. In organizational contexts, businesses might adopt this symbol to convey a commitment to courage, resilience, and unity among team members, potentially incorporating it into branding or mission statements. 
 
-During communal events or gatherings, Okodee Mmowere could be displayed in decorations, clothing, or accessories, visually underscoring the importance of bravery and unity within the community. 
+// During communal events or gatherings, Okodee Mmowere could be displayed in decorations, clothing, or accessories, visually underscoring the importance of bravery and unity within the community. 
 
-On a personal level, individuals may choose to incorporate the Okodee Mmowere symbol into personal items or wear it as a visual reminder of their commitment to facing challenges with bravery, leveraging strength, and fostering unity in both personal and collective endeavors.
-""",
-      aka: "Eagle's Talons",
-      summary: "summary"),
+// On a personal level, individuals may choose to incorporate the Okodee Mmowere symbol into personal items or wear it as a visual reminder of their commitment to facing challenges with bravery, leveraging strength, and fostering unity in both personal and collective endeavors.
+// """,
+//       aka: "Eagle's Talons",
+//       summary: "summary"),
   Symbols(
       name: "Okuafo Pa",
       imgUrl: "assets/adinkra/Okuafo-Pa.png",
