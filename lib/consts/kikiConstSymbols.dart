@@ -2049,7 +2049,7 @@ On a personal level, individuals may choose to incorporate the Ohene Aniwa symbo
 //       summary: "summary"),
   Symbols(
       name: "Okuafo Pa",
-      imgUrl: "assets/adinkra/Okuafo-Pa.png",
+      imgUrl: "assets/adinkra-images/Okuafo-Pa.png",
       category: "Adinkra",
       details: """Hardwork, Entrepreneurship, Industry, Productivity
 
