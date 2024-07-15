@@ -112,22 +112,22 @@ The wish of the tortoise is that there would never be the sound of a gun shot in
           """Akromadio, symbolizing the interdependence of nations in Ga culture, offers a profound theme for artistic expression across various mediums. In visual communication, Akromadio can be depicted through imagery that highlights connections between different cultures, economies, and societies. This could manifest in designs for international conferences, global initiatives, or diplomatic events, conveying the message of interconnectedness and mutual reliance. Textiles provide a rich canvas for weaving Akromadio motifs into intricate patterns, symbolizing the weaving together of diverse cultures and economies into a harmonious fabric of interdependence. In painting, Akromadio can be portrayed through vibrant and dynamic compositions that depict the flow of ideas, goods, and people across borders, celebrating the beauty of cultural exchange and collaboration. Jewelry designers can translate Akromadio into striking pieces that symbolize unity and cooperation, incorporating elements from various cultures to represent the interconnected nature of humanity. In body art, Akromadio can be tattooed onto the skin, serving as a personal reminder of the importance of global solidarity and understanding. Across these mediums, Akromadio serves as a powerful symbol of the interconnectedness of nations, inviting viewers to embrace the idea that our collective well-being is dependent on fostering cooperation and understanding among all peoples.""",
       aka: "(nations are interdependent",
       summary: "summary"),
-  Symbols(
-      name: "Alagba tԑ",
-      imgUrl: "assets/Ga/Alagba-tԑ.png",
-      category: "Ga",
-      details: """This symbol represents "Forgotten Gem" or "Hidden Potential"
+//   Symbols(
+//       name: "Alagba tԑ",
+//       imgUrl: "assets/Ga/Alagba-tԑ.png",
+//       category: "Ga",
+//       details: """This symbol represents "Forgotten Gem" or "Hidden Potential"
 
-No one is useless in this world.
+// No one is useless in this world.
 
-This is related to a Alagba Alagba which literally means stone. It is believed that a stone laying on the floor may seem useless but can be very usefull at the appropriate time.
+// This is related to a Alagba Alagba which literally means stone. It is believed that a stone laying on the floor may seem useless but can be very usefull at the appropriate time.
 
-Something you think is useless can be useful.
-""",
-      usage:
-          """Alagba tɛ can be depicted through imagery that portrays overlooked or discarded objects being transformed into something valuable and meaningful. Designs may feature the stone as a central motif, surrounded by vibrant colors or dynamic compositions, symbolizing the latent potential waiting to be unlocked. Textiles provide a tactile canvas for weaving Alagba tɛ motifs into patterns, serving as a reminder of the beauty and significance found in the unexpected. In painting, Alagba tɛ can be portrayed amidst lush landscapes or abstract compositions, evoking a sense of discovery and renewal. Jewelry designers can translate Alagba tɛ into striking pieces, such as pendants or earrings, adorned with gemstone-like details to symbolize the hidden beauty within. In body art, Alagba tɛ can be tattooed onto the skin, serving as a personal emblem of resilience and transformation. Across these mediums, Alagba tɛ serves as a powerful symbol of the potential for growth and renewal, reminding viewers to look beyond initial impressions and recognize the hidden beauty within.""",
-      aka: "rejected stone",
-      summary: "summary"),
+// Something you think is useless can be useful.
+// """,
+//       usage:
+//           """Alagba tɛ can be depicted through imagery that portrays overlooked or discarded objects being transformed into something valuable and meaningful. Designs may feature the stone as a central motif, surrounded by vibrant colors or dynamic compositions, symbolizing the latent potential waiting to be unlocked. Textiles provide a tactile canvas for weaving Alagba tɛ motifs into patterns, serving as a reminder of the beauty and significance found in the unexpected. In painting, Alagba tɛ can be portrayed amidst lush landscapes or abstract compositions, evoking a sense of discovery and renewal. Jewelry designers can translate Alagba tɛ into striking pieces, such as pendants or earrings, adorned with gemstone-like details to symbolize the hidden beauty within. In body art, Alagba tɛ can be tattooed onto the skin, serving as a personal emblem of resilience and transformation. Across these mediums, Alagba tɛ serves as a powerful symbol of the potential for growth and renewal, reminding viewers to look beyond initial impressions and recognize the hidden beauty within.""",
+//       aka: "rejected stone",
+//       summary: "summary"),
   Symbols(
       name: "Asamankama",
       imgUrl: "assets/Ga/Asamankama.png",
@@ -138,20 +138,20 @@ Something you think is useless can be useful.
           """Asamankama, representing caution in Ga culture, inspires a range of artistic interpretations across various mediums. In visual communication, Asamankama can be employed as a cautionary symbol in designs aimed at promoting safety or risk awareness. Its thorny appearance and symbolic association with caution can be incorporated into posters, signage, or advertisements to convey messages of vigilance and prudence. Textiles offer a tactile canvas for weaving Asamankama motifs into patterns, serving as a reminder of the need for careful consideration and mindfulness in daily life. In painting, Asamankama can be depicted as a central motif amidst landscapes or still lifes, evoking a sense of wariness and the importance of navigating obstacles with caution. Jewelry designers can translate Asamankama into bold pieces, such as statement necklaces or earrings, adorned with thorn-like details to symbolize the need for cautious decision-making. In body art, Asamankama can be tattooed onto the skin, serving as a permanent reminder of the importance of exercising caution and foresight in one's actions. Across these mediums, Asamankama serves as a poignant symbol of the value of prudence and the necessity of approaching life's challenges with care and thoughtfulness.""",
       aka: "thorny medicinal plant",
       summary: "summary"),
-  Symbols(
-      name: "ashinɔ ",
-      imgUrl: "assets/Ga/asseashinɔ.png",
-      category: "Ga",
-      details: """Togetherness or unity
+//   Symbols(
+//       name: "ashinɔ ",
+//       imgUrl: "assets/Ga/asseashinɔ.png",
+//       category: "Ga",
+//       details: """Togetherness or unity
 
-A string of beads does not get lost when it falls in the presence of elders.
+// A string of beads does not get lost when it falls in the presence of elders.
 
-There is no misunderstanding that cannot be settled peacefully.
-""",
-      usage:
-          """Ashinɔ, symbolizing togetherness or unity in Ga culture, serves as a rich source of inspiration for artistic expression across various mediums. In visual communication, ashinɔ can be depicted as a central motif in designs aimed at promoting community cohesion or solidarity. Its interconnectedness and vibrant colors can be incorporated into posters, banners, or digital graphics to convey messages of unity and collaboration. Textiles provide a versatile canvas for weaving ashinɔ motifs into intricate patterns, symbolizing the weaving together of diverse individuals into a harmonious whole. In painting, ashinɔ can be portrayed as a focal point surrounded by swirling forms or overlapping shapes, representing the interconnectedness and strength found in unity. Jewelry designers can translate ashinɔ into stunning pieces, such as bracelets or necklaces, adorned with beads of various colors and sizes to symbolize the beauty of diversity within unity. In body art, ashinɔ can be tattooed onto the skin, serving as a personal emblem of one's commitment to fostering togetherness and solidarity. Across these mediums, ashinɔ serves as a powerful symbol of the strength and beauty that emerges when individuals come together in unity and cooperation.""",
-      aka: "beads",
-      summary: "summary"),
+// There is no misunderstanding that cannot be settled peacefully.
+// """,
+//       usage:
+//           """Ashinɔ, symbolizing togetherness or unity in Ga culture, serves as a rich source of inspiration for artistic expression across various mediums. In visual communication, ashinɔ can be depicted as a central motif in designs aimed at promoting community cohesion or solidarity. Its interconnectedness and vibrant colors can be incorporated into posters, banners, or digital graphics to convey messages of unity and collaboration. Textiles provide a versatile canvas for weaving ashinɔ motifs into intricate patterns, symbolizing the weaving together of diverse individuals into a harmonious whole. In painting, ashinɔ can be portrayed as a focal point surrounded by swirling forms or overlapping shapes, representing the interconnectedness and strength found in unity. Jewelry designers can translate ashinɔ into stunning pieces, such as bracelets or necklaces, adorned with beads of various colors and sizes to symbolize the beauty of diversity within unity. In body art, ashinɔ can be tattooed onto the skin, serving as a personal emblem of one's commitment to fostering togetherness and solidarity. Across these mediums, ashinɔ serves as a powerful symbol of the strength and beauty that emerges when individuals come together in unity and cooperation.""",
+//       aka: "beads",
+//       summary: "summary"),
   Symbols(
       name: "Aspaaterε",
       imgUrl: "assets/Ga/Aspaaterε.png",
@@ -248,7 +248,7 @@ Antswele can be fashioned into exquisite pendants or bracelets by jewellery make
       summary: "summary"),
   Symbols(
       name: "Awεn bε nmɔ",
-      imgUrl: "assets/Ga/Awεn-bε-nmɔ",
+      imgUrl: "assets/Ga/Awεn-bε-nmɔ.png",
       category: "Ga",
       details: """Symbol of hard work and diligence.
 
@@ -273,23 +273,24 @@ Jewelry designers can translate Awale Tɛ into elegant pieces such as pendants a
 """,
       aka: "marble stone",
       summary: "summary"),
-  Symbols(
-      name: "Haatso",
-      imgUrl: "assets/Ga/Haatso.png",
-      category: "Ga",
-      details: """A symbol precision and carefulness.
+//   Symbols(
+//       name: "Haatso",
+//       imgUrl: "assets/Ga/Haatso.png",
+//       category: "Ga",
+//       details: """A symbol precision and carefulness.
 
-Ashwɛɛ yɛ haatso shishi, nɔokɔ tso shishi ashwɛɔ yɛ.
+// Ashwɛɛ yɛ haatso shishi, nɔokɔ tso shishi ashwɛɔ yɛ.
 
-No one plays under the candle wood tree but under the swamp ebony tree. 
+// No one plays under the candle wood tree but under the swamp ebony tree. 
 
-Literally this proverb teaches that one should be mindful of when and how to act in a given situation.
-""",
-      usage:
-          """A variety of artistic creations in a variety of media are influenced by haatso, a Ga cultural symbol for accuracy and caution. Haatso can be represented visually in a way that communicates exactness and painstaking attention to detail. As a visual aid for understanding the value of meticulous planning and execution, designs may include precise groupings of candlewood motifs or surround them with precision-related symbols. 
+// Literally this proverb teaches that one should be mindful of when and how to act in a given situation.
+// """,
+//       usage:
+//           """A variety of artistic creations in a variety of media are influenced by haatso, a Ga cultural symbol for accuracy and caution. Haatso can be represented visually in a way that communicates exactness and painstaking attention to detail. As a visual aid for understanding the value of meticulous planning and execution, designs may include precise groupings of candlewood motifs or surround them with precision-related symbols. 
 
-Textiles offer a tactile surface on which Haatso motifs can be woven into patterns, signifying the dexterity of craftsmanship and the requirement for accuracy in each thread. Haatso can be depicted in paintings with calm surroundings or simple compositions that convey a sense of methodical planning and organisation. Jewellery designers can use Haatso to create sophisticated items that represent the beauty of attention to detail and precision, like pendants or earrings, embellished with textures or designs inspired by Candlewood. As a personal symbol of the dedication to care and attention to detail, Haatso can be tattooed onto the skin as body art. Haatso is a potent representation of the need of accuracy and caution in reaching greatness in all undertakings throughout these media.
-""",
-      aka: "Candlewood",
-      summary: "summary"),
+// Textiles offer a tactile surface on which Haatso motifs can be woven into patterns, signifying the dexterity of craftsmanship and the requirement for accuracy in each thread. Haatso can be depicted in paintings with calm surroundings or simple compositions that convey a sense of methodical planning and organisation. Jewellery designers can use Haatso to create sophisticated items that represent the beauty of attention to detail and precision, like pendants or earrings, embellished with textures or designs inspired by Candlewood. As a personal symbol of the dedication to care and attention to detail, Haatso can be tattooed onto the skin as body art. Haatso is a potent representation of the need of accuracy and caution in reaching greatness in all undertakings throughout these media.
+// """,
+//       aka: "Candlewood",
+//       summary: "summary"),
+
 ];

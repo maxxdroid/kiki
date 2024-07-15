@@ -23,10 +23,46 @@ class Symbols {
       imgUrl: json['imgUrl'],
       details: json['details'],
       usage: json['usage'],
-      category: json['category'],
+      category: json['category'], 
       aka: json['aka'],
       summary: json['summary']
     );
   }
-  toJson() {}
+
+  @override
+  bool operator ==(Object other) {
+    if (identical(this, other)) return true;
+
+    return other is Symbols &&
+      other.name == name &&
+      other.category == category &&
+      other.imgUrl == imgUrl &&
+      other.details == details &&
+      other.usage == usage &&
+      other.aka == aka &&
+      other.summary == summary;
+  }
+
+  @override
+  int get hashCode {
+    return name.hashCode ^
+      category.hashCode ^
+      imgUrl.hashCode ^
+      details.hashCode ^
+      usage.hashCode ^
+      aka.hashCode ^
+      summary.hashCode;
+  }
+
+  Map<String, dynamic> toJson() {
+    return {
+      'name': name,
+      'imgUrl': imgUrl,
+      'details': details,
+      'usage': usage,
+      'category': category,
+      'aka': aka,
+      'summary': summary
+    };
+  }
 }

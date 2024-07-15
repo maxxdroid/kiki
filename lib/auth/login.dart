@@ -2,20 +2,27 @@ import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/get_navigation.dart';
 import 'package:kiki/auth/signUp.dart';
-import 'package:kiki/screens/kiki_home.dart';
+import 'package:kiki/screens/mainscreens/kiki_home.dart';
 import 'package:kiki/widgets/textfields_widget.dart';
 
-
-class Login extends StatelessWidget {
+class Login extends StatefulWidget {
   const Login({super.key});
 
+  @override
+  State<Login> createState() => _LoginState();
+}
+
+class _LoginState extends State<Login> {
+    final TextEditingController _passwordController = TextEditingController();
+    final TextEditingController _emailController = TextEditingController();
   @override
   Widget build(BuildContext context) {
     double height = MediaQuery.of(context).size.width;
     return Container(
       decoration: const BoxDecoration(
           image: DecorationImage(
-              image: AssetImage('assets/images/splashScreen.png'), fit: BoxFit.cover)),
+              image: AssetImage('assets/images/splashScreen.png'),
+              fit: BoxFit.cover)),
       child: Scaffold(
           backgroundColor: Colors.transparent,
           body: Column(
@@ -79,14 +86,16 @@ class Login extends StatelessWidget {
                             ),
                             SizedBox(height: height * 0.03),
 
-                            const TextfieldWidget(
+                            TextfieldWidget(
                               hitTextName: 'Username',
                               surfixIcon: Icons.person,
+                              controller: _emailController,
                             ),
-                            const TextfieldWidget(
+                            TextfieldWidget(
                               hitTextName: 'Password',
                               surfixIcon: Icons.key_rounded,
                               obscureText: true,
+                              controller: _passwordController,
                             ),
 
                             Padding(
@@ -124,12 +133,13 @@ class Login extends StatelessWidget {
                             SizedBox(height: height * 0.1),
                             GestureDetector(
                               onTap: () {
-                                Get.to(const KikiHome(), transition: Transition.circularReveal);
+                                Get.to(const KikiHome(),
+                                    transition: Transition.circularReveal);
                               },
                               child: const Text(
                                 "Skip Login",
-                                style:
-                                    TextStyle(fontSize: 25, color: Colors.black),
+                                style: TextStyle(
+                                    fontSize: 25, color: Colors.black),
                               ),
                             ),
                             SizedBox(height: height * 0.05),
