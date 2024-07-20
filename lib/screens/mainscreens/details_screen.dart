@@ -1,10 +1,14 @@
 // ignore_for_file: prefer_const_constructors
 
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:kiki/consts/const_widgets.dart';
 import 'package:kiki/functions/sharedpref.dart';
 import 'package:kiki/models/symbol.dart';
 import 'package:kiki/widgets/user_appbar.dart';
+import 'package:share_it/share_it.dart';
+
 
 class DetailedScreen extends StatefulWidget {
   final Symbols symbol;
@@ -36,6 +40,8 @@ class _DetailedScreenState extends State<DetailedScreen> {
     });
   }
 
+
+
   void updateText(String text) {
     setState(() {
       containerText = text;
@@ -55,6 +61,19 @@ class _DetailedScreenState extends State<DetailedScreen> {
     });
     await SharedPrefHelper().saveSymbols(bookMarkedSymbols);
   }
+
+  void share() {
+    final shareText =
+        "${widget.symbol.name}, " " ${widget.symbol.aka}'";
+    ShareIt.text(
+      content: shareText,
+      androidSheetTitle: 'Share Kiki',
+    );
+
+  }
+
+
+
 
   @override
   Widget build(BuildContext context) {
@@ -133,7 +152,9 @@ class _DetailedScreenState extends State<DetailedScreen> {
                         ),
                       ),
                       GestureDetector(
-                        onTap: () {},
+                        onTap: () {
+                          share();
+                        },
                         child: const ImageIcon(
                             color: Colors.white,
                             size: 30,
@@ -242,7 +263,8 @@ class _DetailedScreenState extends State<DetailedScreen> {
               decoration: const BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.only(
-                    topLeft: Radius.circular(0), topRight: Radius.circular(25)),
+                    topLeft: Radius.circular(0),
+                    topRight: Radius.circular(25)),
               ),
               child: Center(
                 child: SingleChildScrollView(
