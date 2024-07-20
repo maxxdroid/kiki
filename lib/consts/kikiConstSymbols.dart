@@ -25,7 +25,7 @@ Moreover, the "Aban" Adinkra symbol has found relevance in contemporary applicat
 In essence, the "Aban" Adinkra symbol continues to be a powerful emblem that celebrates the strength of unity, encouraging collaboration, and emphasizing the interconnectedness of individuals within the Akan community and beyond.
 """,
       aka: "Fence",
-      summary: "summary"),
+      summary: ""),
   Symbols(
       name: "Abe Dua",
       imgUrl: "assets/adinkra/Abe-Dua.png",
@@ -46,7 +46,7 @@ Moreover, the "Abe Dua" symbol has broader cultural and spiritual implications. 
 In essence, the "Abe Dua" Adinkra symbol continues to be a meaningful emblem that celebrates strength, resilience, and the enduring spirit within the Akan culture, serving as a reminder of the importance of facing challenges with vitality and determination.
 """,
       aka: "Palm Tree",
-      summary: "summary"),
+      summary: ""),
   Symbols(
       name: "Abode Santann",
       imgUrl: "assets/adinkra/abode-santann.png",
@@ -77,7 +77,7 @@ Home decor items, such as wall art, sculptures, or decorative pieces, may featur
 In summary, the Abode Santann Adinkra symbol finds diverse applications in personal expression, art, architecture, ceremonies, education, and even corporate branding. Its enduring cultural significance and the universal appeal of its messages related to the cosmos and omnipresence make it a meaningful and versatile symbol in various aspects of life.
 """,
       aka: "Totality of the universe",
-      summary: "summary"),
+      summary: ""),
   Symbols(
       name: "Abusua Pa",
       imgUrl: "assets/adinkra/abusua-pa.png",
@@ -120,7 +120,7 @@ In essence, the history of the " Adinkrahene " Adinkra symbol is a testament to 
 """,
       aka:
           "Adinkra King. Chief of all the Adinkra designs; Forms the basis of Adinkra printing",
-      summary: "summary"),
+      summary: ""),
   Symbols(
       name: "Adwera",
       imgUrl: "assets/adinkra/adwera.png",
@@ -144,7 +144,7 @@ In summary, the Adwera Adinkra symbol holds significance in cultural, personal, 
 """,
       aka: "Watery Shrub",
       summary:
-          """Adwera nsuo, wo ne nkwansuo, nsu korogyenn a wohuru nso wonhye; Water of life, you are the pure crystal clean water that boils but, does not burn."""),
+          """Adwera nsuo, wo ne nkwansuo, nsu korogyenn a wohuru nso wonhye"""),
   Symbols(
       name: "Adwo",
       imgUrl: "assets/adinkra/adwo.png",
@@ -329,7 +329,7 @@ Moreover, in settings related to counseling or mentorship, the "Ananse Ntentan" 
 In this hypothetical context, the "Ananse Ntentan" becomes a versatile symbol representing not only the cultural richness of Akan folklore but also embodying timeless values of wisdom and creativity applicable in various aspects of life.
 """,
       aka: "Spider Web",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Ani Bere A Enso Gya",
       imgUrl: "assets/adinkra/ani-bere-a-enso-gya.png",
@@ -457,7 +457,7 @@ The "Aya" symbol could also be integrated into wellness and mental health initia
 In summary, the "Aya" Adinkra symbol, with its representation of endurance, resilience, and strength, holds potential applications in personal adornment, artistic expressions, communal celebrations, and wellness initiatives. Its versatility allows for meaningful interpretations across various aspects of life, making it a symbol that resonates with the enduring spirit found within the Akan culture and beyond.
 """,
       aka: "The Fern",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Bese Saka",
       imgUrl: "assets/adinkra/bese-saka.png",
@@ -537,7 +537,7 @@ Artists and designers may incorporate the "Boa Me Na Me Mmoa Wo" symbol into the
 In essence, "Boa Me Na Me Mmoa Wo" serves as a poignant reminder of the reciprocal nature of assistance and cooperation. Its applications in personal relationships, families, communities, education, business, and the arts highlight its versatility in conveying a message of interconnectedness and shared responsibility within the Akan cultural context.
 """,
       aka: "Help Me to Help You",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Boafo Ye Na",
       imgUrl: "assets/adinkra/boafo-ye-na.png",
@@ -565,7 +565,7 @@ Artists and designers may use the "Boafo Ye Na" symbol in their creations to con
 In essence, "Boafo Ye Na" serves as a symbol of reciprocal aid, emphasizing the idea that those who extend help will receive help in return. Its applications in personal relationships, families, communities, education, and the workplace highlight its versatility in conveying a message of mutual support within the Akan cultural context.
 """,
       aka: "The rarity of a willing helper.",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Dame Dame",
       imgUrl: "assets/adinkra/Dame-Dame.png",
@@ -588,7 +588,7 @@ During cultural and community events, the "Dame Dame" symbol could be featured t
 In artistic expressions, the "Dame Dame" symbol could be incorporated into visual arts to convey messages of endurance and persistence. Artists and designers might use the symbol in paintings, sculptures, or textile designs, creating pieces that celebrate the beauty found in the repetition and constancy of life's patterns.
 """,
       aka: "A Board Game",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Denkyem",
       imgUrl: "assets/adinkra/Denkyem.png",
@@ -627,7 +627,7 @@ During community events or gatherings, the "Dono" symbol might be utilized to hi
 The "Dono" Adinkra symbol, with its association with drums, represents a cultural legacy tied to rhythm, music, and community expression within the Akan context. Its applications in cultural celebrations, artistic expressions, education, craftsmanship, and community events emphasize its versatility in symbolizing the dynamic cultural heritage of the Akan people.
 """,
       aka: "Drum",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Duafe",
       imgUrl: "assets/adinkra/Duafe.png",
@@ -656,7 +656,7 @@ During cultural events, festivals, or ceremonies, the "Duafe" symbol might be pr
 In summary, the "Duafe" Adinkra symbol, with its emphasis on beauty and feminine attributes, finds applications in personal adornment, beauty-related businesses, empowerment initiatives, education, artistic expressions, and cultural celebrations. Its versatility makes it a meaningful and culturally rich symbol within the Akan tradition.
 """,
       aka: "Wooden Comb",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Dwannimmen",
       imgUrl: "assets/adinkra/Dwannimmen.png",
@@ -695,14 +695,7 @@ In summary, the "Dwennimmen" Adinkra symbol, with its representation of strength
 Dwennimmen is a key element in the University of Ghana's logo. The founders of the top university in Ghana made a wise decision since it serves as a timely reminder that, despite the fact that strength and knowledge grow with time, it is still possible to use them both with humility and an understanding that they are gifts that should be shared with all people.
 """,
       aka: "Ram's Horn",
-      summary: """Akan proverbs on pride and humility
-•	Abofra bo nnwa na ommo akyekyedee
-•	Aserewa su agyekuku su a ne to pae
-•	Wode kokuromoti ko ayie a yedo sotoro gya wo kwan
-•	Akan proverbs on sheep
-•	Dee odwan pe na ode ne fufu bo
-Dwannini ye asisie a, ode n'akorana na...; It is the heart and not the horns that leads a ram to bully.
-"""),
+      summary: "Akan proverbs on pride and humility"),
   Symbols(
       name: "Dwantire",
       imgUrl: "assets/adinkra/Dwantire.png",
@@ -761,7 +754,7 @@ Artists and designers may incorporate the "Eban" symbol into their creations to 
 In summary, the "Eban" Adinkra symbol, with its representation of safety and protection, finds applications in architectural design, community events, education, personal spaces, personal adornment, and artistic expressions. Its versatile symbolism makes it a meaningful emblem that resonates with the values of security and unity within the Akan cultural tradition.
 """,
       aka: "Fence",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Epa",
       imgUrl: "assets/adinkra/Epa.png",
@@ -788,7 +781,7 @@ The "Epa" symbol may be embraced within communities that are actively engaged in
 In summary, the "Epa" Adinkra symbol, with its representation of justice and captivity, finds applications in social justice initiatives, education, artistic expressions, commemorative events, personal expression, and community engagement. Its powerful symbolism makes it a meaningful emblem in discussions about human rights and the ongoing pursuit of justice within the Akan cultural context.
 """,
       aka: "Handcuffs",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Esono Anantam",
       imgUrl: "assets/adinkra/Esono-Anantam.png",
@@ -862,7 +855,7 @@ In the context of personal adornment, individuals may choose to wear jewelry or 
 In summary, the "Fafanto" Adinkra symbol, representing the Butterfly, finds applications in personal growth, education, artistic expressions, community events, and personal adornment. Its positive symbolism aligns with themes of transformation, beauty, and regeneration within the Akan cultural context.
 """,
       aka: "Butterfly",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Fawohodie",
       imgUrl: "assets/adinkra/Fawohodie.png",
@@ -889,7 +882,7 @@ In the context of personal adornment, individuals may choose to wear jewelry or 
 In summary, the "Fawohodie" Adinkra symbol, representing Independence, finds applications in historical commemorations, education, business, community events, artistic expressions, and personal adornment. Its powerful symbolism aligns with themes of freedom and self-determination within the Akan cultural context.
 """,
       aka: "Freedom",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Fihankra",
       imgUrl: "assets/adinkra/Fihankra.png",
@@ -936,7 +929,7 @@ This modification is perceived as a warning against retaining feelings of envy, 
 """,
       usage: "usage",
       aka: "A Yellow-Flowered Plant",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Funtumfunefu Denkyemfunefu",
       imgUrl: "assets/adinkra/Funtumfunefu-Denkyemfunefu.png",
@@ -949,7 +942,7 @@ Funtumfunefu Denkyemfunefu is a representation of two mythological crocodiles sh
           """The uses of the "Funtumfunefu Denkyemfunefu" symbol extend beyond traditional Adinkra cloth, finding expression in various forms of art, jewelry, and contemporary design. It serves as a powerful emblem for unity and collaboration, making it relevant not only in cultural ceremonies but also in modern contexts. The symbol is a reminder of the strength derived from collective effort and the shared responsibility of individuals within a community. In essence, the "Funtumfunefu Denkyemfunefu" Adinkra symbol weaves together symbolism, historical roots, and practical applications, embodying a timeless message of unity and collaboration in the face of diversity.""",
       aka: "Siamese Crocodiles",
       summary:
-          """This symbol is known by Willis as Funtummireku-Denkyemmireku. Rattray refers to it as Funtumfrafu-Denkyemfrafu (by extension, from the proverb from which the symbol is formed). The spelling Funtunfunefu-Denkyemfunefu, which MacDonald employs, is unclear in origin; it is most likely intended to be more phonetically correct than accurate. But in order for the majority of people who are accustomed to it to find it, we have also chosen a spelling that is comparable to what has become the most common spelling."""),
+          """This symbol is known by Willis as Funtummireku-Denkyemmireku. Rattray refers to it as Funtumfrafu-Denkyemfrafu (by extension, from the proverb from which the symbol is formed)"""),
   Symbols(
       name: "Gye Nyame",
       imgUrl: "assets/adinkra/Gye-Nyame.png",
@@ -1000,40 +993,6 @@ In summary, the "Gye Nyame" Adinkra symbol, representing the omnipotence of God,
 Literally: Nobody teaches a child God.
 
 God is all around us, and even little children can observe his creation, which helps us to understand him. Therefore, no one is needed to remind even young children that the Supreme Being, or obooadee, is a creator.
-
-It is a rare Akan who does not believe in God due to the high prevalence of this worldview. It is implied that it is ridiculous for an adult to deny God's existence if they say that even young children do not require confirmation of His existence.
-
-2. Nyame nwu na mawu
-Literally: God won’t die for me to die.
-
-The only one who keeps man alive is God. Since God is eternal, it is impossible for God to die before man to die if the two are joined in spirit. Man is hence eternal. The saying "Nyame bewe ansa na mawu," which literally translates to "God will die before I die," better illustrates this point. When someone uses this proverb to threaten another person, it could be an indication that he is not afraid of death or what people can do to him.
-
-Another way to translate this adage is "Nyame bewu na mawu." This directly translates to "I would have died by the time God dies." Indeed, this demonstrates God's immortality as well—at least in relation to humans. I'm not clear, though, how that is meant to have the same meaning as "God will die before I die."
-
-3. Baakofo nsa nso Nyame ani kata
-Literally: One person’s hand won’t be enough to cover God’s eye.
-
-All things related to God are also great and powerful, for God is all-powerful and tremendous. God is too powerful for one person to overthrow, resist, or cease being who he is.
-
-
-When there is a big task that needs to be completed, this adage is used to beg for assistance from others. After that, the enormous task resembles God's eye, and the contributions from the contributors resemble hands reaching out to cover it. The task can be completed more quickly the more hands there are.
-
-Does this imply that God is all-pervasive, aware of all that occurs, and that no one can prevent God from seeing what they are doing in secret?
-
-4. Aboa a onni dua no, Nana Nyame na opra ne ho
-Literally: For the animal who does not have a tail, it is God who brushes his body.
-
-Animals remove flies and other objects from their bodies by using their tails. If an animal doesn't have a tail, what should it do?
-
-
-This adage serves as a reminder that God sustains his creation. Even if some people may not possess the same traits as others, everyone is taken care of. Because of this, even those who appear to be at a disadvantage have strengths that help them.
-
-It also means that God stands up for the weak. This proverb bears similarities to another one: "Wobu koto kwasea a, Nyame hwe to to," which directly translates to, "God sees your buttocks (your shame) if you cheat the crab (presumably by bending over to pick him from the ground)."
-
-5. Worepe asem aka akyere Onyame a, ka kyere mframa
-Literally: If you want to say something to God say it to the wind.
-
-God is omnipresent. He is everywhere. You don’t have to go to any particular location to talk to him.
 """),
   Symbols(
       name: "Hwehwemudua",
@@ -1063,7 +1022,7 @@ During community events or gatherings focused on fairness and accountability, th
 In summary, the "Hwehwemudua" Adinkra symbol, representing measuring rods, finds applications in justice, education, business, personal development, artistic expressions, and community initiatives. Its symbolism underscores the cultural values of accuracy, fairness, and the pursuit of excellence within the Akan cultural context.
 """,
       aka: " Measuring Rod",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Hye Wo nhye",
       imgUrl: "assets/adinkra/Hye-Wo-nhye.png",
@@ -1074,7 +1033,7 @@ The literal meaning of Hye Wo Nhye is "Burn you won't burn." It is a metaphor fo
 """,
       usage: "usage",
       aka: "That Which Cannot Be Burnt",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Kete Pa",
       imgUrl: "assets/adinkra/Kete-Pa.png",
@@ -1099,7 +1058,7 @@ On a personal level, individuals may adopt Kete Pa as a symbol of their commitme
 In summary, the Kete Pa Adinkra symbol serves as a powerful representation of goodness, benevolence, and positive actions. Its applications span from community and educational settings to businesses and personal spheres, where it encourages a culture of kindness, recognition of achievements, and the celebration of positive contributions to the well-being of others.
 """,
       aka: "Good Bed",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Kintinkantan",
       imgUrl: "assets/adinkra/Kintinkantan.png",
@@ -1118,7 +1077,7 @@ In educational or organizational environments, the Kintinkantan symbol, reinterp
 In summary, while the traditional meaning of the Kintinkantan symbol is positive, individuals can choose to reinterpret symbols for specific purposes or convey alternative messages. However, it's crucial to be aware that such reinterpretations might not align with the original cultural context and meanings associated with the symbol.
 """,
       aka: "Puffed Up Extravagance",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Kuronti ne Akwamu",
       imgUrl: "assets/adinkra/Kuronti-ne-Akwamu.png",
@@ -1143,7 +1102,7 @@ Furthermore, the symbol might be integrated into official documentation, seals, 
 In summary, if "Kuronti ne Akwamu" were an Adinkra symbol representing state elders, its uses would likely span ceremonial, educational, and governance contexts, symbolizing the wisdom and leadership of elders in the cultural fabric of the Akan community.
 """,
       aka: "State Elders",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Kramo Bone Amma Yeanhu Kramo Pa",
       imgUrl: "assets/adinkra/Kramo-Bone-Amma-Yeanhu-Kramo-Pa.png",
@@ -1156,7 +1115,7 @@ The Celtic knot known as Solomon's knot is similar to "Kramo Bone." Solomon's kn
 """,
       usage: "usage",
       aka: "The bad make it difficult for the good to be noticed.",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Kwatakye Atiko",
       imgUrl: "assets/adinkra/Kwatakye-Atiko.png",
@@ -1182,7 +1141,7 @@ On a personal level, individuals may adopt Kwatakye Atiko as a symbol of their c
 In summary, the Kwatakye Atiko Adinkra symbol serves as a powerful representation of bravery and fearlessness. Its applications extend from community and educational settings to businesses, cultural events, and personal contexts, where it encourages individuals to embody the courageous spirit of the Asante warriors in their endeavors.
 """,
       aka: "Hair of the Hero Kwatakye",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Mako",
       imgUrl: "assets/adinkra/Mako.png",
@@ -1198,24 +1157,8 @@ This proverb warns the affluent to assist the less fortunate, implying that they
       usage: "usage",
       aka: "peppers",
       summary: """AKAN PROVERBS ON INEQUALITY
-1. Nsatea nyinaa nnyɛ pɛ
+Nsatea nyinaa nnyɛ pɛ
 Anglicisation: Nsatea nyinaa nnye pe Literal meaning: All fingers are not the same.
-
-2. Wosene wo yɔnko a ɔtan wo
-Anglicisation: Wosene wo yonko a otan wo Literally meaning: If you are greater than your friend he hates you.
-
-AKAN PROVERBS ON PEPPER (MAKO)
-1. Mako nnyɛ dɛ a ɛnte mma wo yɔnko sɛ ɔnwe
-Anglicisation: Mako nnye de a ente mma wo yonko se onwe
-
-2. Mako yɛ ya nanso aboa bi ne ne mma te mu
-Anglicisation: Mako ye ya nanso aboa bi ne ne mma te mu
-
-3. Apatuprɛ se odi mako na ɛyɛ ne ya mpo a, ɔde yɛ ne to aduro
-Anglicisation: Apatupre se odi mako na eye ne ya mpo a ode ye ne to aduro
-
-4. Apatuprɛ se odii mako nyinaa akyi no, ɛnyɛ ne su nyinaa na ɛyɛ awerɛhoɔ
-Anglicisation: Apatupre se odii mako nyinaa akyi no, enye ne su nyinaa na eye awerehoo
 """),
   Symbols(
       name: "Mate Masie",
@@ -1268,7 +1211,7 @@ On a personal level, individuals might choose to incorporate the "Mekyea Wo" sym
 In summary, the "Mekyea Wo" Adinkra symbol, if used to signify "recognition and respect," could permeate cultural, educational, organizational, and personal spheres, becoming a visual representation of the shared values of acknowledging achievements and treating others with esteem and regard.
 """,
       aka: "I greet you",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Menso Wo Kenten",
       imgUrl: "assets/adinkra/Menso-Wo-Kenten.png",
@@ -1291,7 +1234,7 @@ On a personal level, individuals might choose to incorporate the "Menso Wo Kente
 In summary, the "Menso Wo Kenten" Adinkra symbol, associated with "industry, self-reliance, and economic self-determination," could find meaningful applications in cultural, educational, organizational, and personal contexts. It becomes a visual expression of the values underlying economic endeavors, emphasizing the importance of hard work, self-reliance, and the pursuit of economic empowerment.
 """,
       aka: """“I am not carrying your basket.”""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Mframadan",
       imgUrl: "assets/adinkra/Mframadan.png",
@@ -1316,7 +1259,7 @@ On a personal level, individuals might choose to incorporate the "Mframadan" sym
 In summary, the "Mframadan" Adinkra symbol, when associated with "fortitude and preparedness," could find meaningful applications in cultural, educational, organizational, celebratory, and personal contexts, becoming a visual embodiment of strength, resilience, and readiness for the journey ahead.
 """,
       aka: """Wind-Resistant House""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Mmeramubere",
       imgUrl: "assets/adinkra/Mmeramubere.png",
@@ -1336,7 +1279,7 @@ On a personal level, individuals might choose to incorporate the "Mmeramubere" s
 In summary, the hypothetical use of the "Mmeramubere" Adinkra symbol to represent "warmth, sunshine, and vitality" could find applications in cultural, educational, organizational, celebratory, and personal contexts. It becomes a visual embodiment of positive energy, vibrancy, and the warmth associated with the sun's rays.
 """,
       aka: "Female cross",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Mmere Dane",
       imgUrl: "assets/adinkra/Mmere-Dane.png",
@@ -1355,7 +1298,7 @@ In the realm of business and innovation, the adoption of the Mmere Dane symbol c
 On a personal level, individuals might choose to adopt the Mmere Dane symbol as a deeply meaningful emblem, representing their awareness of the continual changes in their lives and the inherent significance of adapting to new circumstances. In this context, the symbol becomes a poignant reminder of the cyclical and transformative nature of time, encouraging personal growth and resilience in the face of change. However, it is crucial to recognize that the symbolic interpretation of a non-traditional symbol may vary, and it's advisable to consider the cultural context and seek guidance from experts to ensure a respectful and accurate application of the symbol.
 """,
       aka: """Time Changes""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Mmeramutene",
       imgUrl: "assets/adinkra/Mmeramutene.png",
@@ -1375,7 +1318,7 @@ On a personal level, individuals might choose to incorporate the "Mmeramutene" s
 In summary, the hypothetical use of the "Mmeramutene" Adinkra symbol to represent "warmth, sunshine, and vitality" could find applications in cultural, educational, organizational, celebratory, and personal contexts. It becomes a visual embodiment of positive energy, vibrancy, and the warmth associated with the sun's rays.
 """,
       aka: "Male cross",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Mmusuyidee ( Krapa-musuyidee)",
       imgUrl: "assets/adinkra/Mmusuyidee-(Krapa-musuyidee).png",
@@ -1398,7 +1341,7 @@ On a personal level, individuals might choose to incorporate the "Mmusuyidee" sy
 In summary, the hypothetical use of the "Mmusuyidee" Adinkra symbol to represent "Good Fortune, Sanctity, and Spiritual Strength" could find meaningful applications in cultural, educational, organizational, celebratory, and personal contexts. It becomes a visual embodiment of positive spiritual energy, emphasizing the removal of negativity and the embrace of sanctity and well-being.
 """,
       aka: """That which removes ill luck or evil""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Mpatapo",
       imgUrl: "assets/adinkra/Mpatapo.png",
@@ -1423,7 +1366,7 @@ On a personal level, individuals might choose to incorporate the Mpatapo symbol 
 In summary, the Mpatapo Adinkra symbol, embodying the concept of the "knot of pacification/reconciliation," finds meaningful applications in cultural, educational, organizational, ceremonial, and personal contexts. It becomes a visual expression of the cultural emphasis on unity and the resolution of conflicts, contributing to the promotion of peace and harmony in various spheres of life.
 """,
       aka: """Knot of Reconciliation""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Mpuannum",
       imgUrl: "assets/adinkra/Mpuannum.png",
@@ -1448,7 +1391,7 @@ On a personal level, individuals might choose to incorporate the Mpuannum symbol
 In summary, the hypothetical use of the Mpuannum Adinkra symbol to represent "Skillfulness, Priestly Office, Loyalty, and Adroitness" could find meaningful applications in cultural, educational, organizational, ceremonial, and personal contexts. It becomes a visual embodiment of values and qualities associated with specialized skills, loyalty, and adroitness in diverse spheres of life.
 """,
       aka: """Five Tufts of Hair""",
-      summary: """summary"""),
+      summary: " "),
   Symbols(
       name: "Nkonsonkonson",
       imgUrl: "assets/adinkra/Nkonsonkonson.png",
@@ -1480,7 +1423,7 @@ Beyond education, the "Nea Onnim" symbol finds application in motivational and s
 In essence, the "Nea Onnim" Adinkra symbol not only enriches Akan cultural practices but also serves as a universal emblem promoting the enduring value of knowledge and the transformative power of continuous learning.
 """,
       aka: """He who does not know can know from Learning""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nea Ope Se Nkrofoo Ye Ma Wo No, Ye Saa Ara Ma Won",
       imgUrl:
@@ -1528,7 +1471,7 @@ On a personal level, individuals might choose to incorporate the "Nea Ope Se Obe
 In summary, the use of the "Nea Ope Se Obedi Hene" Adinkra symbol to represent leadership can find meaningful applications in cultural, educational, organizational, ceremonial, and personal contexts. It becomes a visual embodiment of the qualities expected from those in positions of leadership, fostering a sense of responsibility, influence, and integrity.
 """,
       aka: """He Who Wants to be King""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nkotimsefo Mpua",
       imgUrl: "assets/adinkra/Nkotimsefo-Mpua.png",
@@ -1562,7 +1505,7 @@ On a personal level, individuals might choose to incorporate the reinterpreted "
 It's essential to note that the reinterpretation of a traditional symbol introduces new meanings that may not align with its original cultural context. When using symbols in unconventional ways, cultural sensitivity is crucial to avoid misrepresentation or misunderstanding.
 """,
       aka: "Destiny",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nnamfo Pa Baanu",
       imgUrl: "assets/adinkra/Nnamfo-Pa-Baanu.png",
@@ -1579,7 +1522,7 @@ Within social settings, this symbol might find a place in friendship ceremonies,
 Additionally, in personal expressions, individuals might choose to incorporate this symbol into personal items or gifts, using it as a reminder of the significance of strong friendships and the unity that arises from genuine companionship.
 """,
       aka: "Two good friends",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nkuma Kese",
       imgUrl: "assets/adinkra/Nkuma-Kese.png",
@@ -1597,7 +1540,7 @@ Environmental meaning: To address the environmental crisis, communities and indi
       usage:
           """Within cultural expressions, it could be incorporated into traditional artifacts, fabrics, or ceremonies to symbolize the greatness and superiority inherent in the Akan cultural heritage. In organizational settings, the adoption of the Nkuma Kese symbol might convey a commitment to excellence and supremacy in values, products, or services. As part of branding, it becomes a visual representation of an organization's dedication to standing out and achieving superiority. Additionally, during ceremonial events or gatherings, Nkuma Kese could be featured in decorations, clothing, or accessories, underscoring the importance of acknowledging and celebrating greatness and supremacy within the community.""",
       aka: "The Great Okra",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nkyemu",
       imgUrl: "assets/adinkra/Nkyemu.png",
@@ -1614,7 +1557,7 @@ In cultural expressions, Nkyimu might be featured in traditional artifacts, fabr
 Additionally, during celebratory events or gatherings, Nkyimu could be featured in decorations or accessories, visually signifying the value placed on skillfulness and precision within the community.
 """,
       aka: """The crossed divisions made on Adinkra cloth before printing""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nkyinkyim",
       imgUrl: "assets/adinkra/Nkyinkyim.png",
@@ -1641,19 +1584,6 @@ Lastly, Nkyinkim can be found in the logo of Accra-based human capital developme
           """Obra kwan ye nkyinkyimiie; Life's path is full of ups and downs; twists and turns.
 
 The source of inspiration for the Nkyinkyim design
-
-The primary element of Nkyinkyim's design, a wavy line, represents the meandering path of life's journey. To live and prosper in these turns and turns, one needs to be adaptable and strong. The saying "ņbra kwan yɛ nkyinkyimii," which translates to "Life's road is twisted," is linked to this symbol.
-
-AKAN PROVERBS ON LIFE
-1. Obra ne wo ara wo bo
-Twi orthography: Ɔbra ne wo ara wo bɔ
-
-Literally: Life is what you make of it.
-
-2. Obra ye bo na
-Twi orthography: Ɔbra ye bɔ na
-
-Literally: Living life is hard to do.
 """),
   Symbols(
       name: "Nnonnowa (Dono Ntoaso)",
@@ -1669,7 +1599,7 @@ The Dono Ntoaso is a representation of cooperation, alertness, kindness, celebra
 During celebratory events or gatherings, it could be featured in decorations or accessories, visually underscoring the collective valor and strength within the community. Additionally, as a personal emblem, individuals might choose to incorporate the Dono Ntoaso symbol into items or wear it to symbolize their own strength and resilience in the face of challenges.
 """,
       aka: "Double Drum",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nsaa",
       imgUrl: "assets/adinkra/Nsaa.png",
@@ -1696,26 +1626,6 @@ ICGC theme logo for 2020 “The year of excellence.”
           """Nea onnim nsaa oto n'ago; He who does not know authentic Nsaa will buy the fakes.
 
 Due to the expertise of its artisans, Bonwire's kente weaving has received praise from all around the world. Over the years, rhythms praising their talent and ethics have resonated with the timeless song by Ephram Amu. The following is the first verse:
-
-Verse 1
-Akyinakyin akyinkyin ama mahu nneema
-Akyinakyin akyinkyin ama mate nsem a
-Asante Bonwire kente nwene minhunuu bi da o
-Asante Bonwire kente nwene mentee bi da o
-Kwame dee onim adee ye kente nwene abo ne gye
-Ne nsa, ne nan, ne nsateaa se egyegye nie
-
-Chorus
-Kro kro kro kro hi hi hi hi
-Kro hi kro hi kro kro kro hi hi kro kro kro hi hi kro hi kro kro hi kro na aye me de o aye me de o
-Bonwire kente nwene no aye me de o abo me gye
-
-AKAN PROVERBS RELATED TO QUALITY, AUTHENTICITY, AND EXCELLENCE
-Ohohoo na oware obaa kwadwofoo (lazy woman)
-Ohohoo na owe dwanfunu
-Nea yennim no awia no yenso kanea nhwe n’anim anadwo
-Obi mfa ne koree-ntakra nkosesa opete-ntakra
-Ahwene pa nkasa
 """),
   Symbols(
       name: "Nserewa",
@@ -1733,7 +1643,7 @@ Culturally, Nserewa may find a place in traditional artifacts, fabrics, or cerem
 In financial or business settings, organizations might adopt the Nserewa symbol in branding or marketing to convey a sense of wealth and affluence. During celebratory events or gatherings, the symbol could be featured in decorations, clothing, or accessories, visually emphasizing the abundance and prosperity within the community. Additionally, individuals may choose to incorporate the Nserewa symbol into personal items or adornments as a visual reminder and representation of their aspirations for financial success and affluence.
 """,
       aka: "Cowries",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nteasee",
       imgUrl: "assets/adinkra/Nteasee.png",
@@ -1756,7 +1666,7 @@ For businesses and organizations, it could convey a commitment to fostering a wo
 On a personal level, individuals could incorporate the "Nteasee" symbol into personal items or wear it as a visual representation of their commitment to understanding, collaboration, and an open-minded approach in their interactions and relationships. In summary, the "Nteasee" Adinkra symbol could find meaningful applications in various cultural, educational, organizational, collaborative, and personal contexts, embodying the values associated with understanding, cooperation, and an open-minded attitude.
 """,
       aka: "Understanding",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nsoromma",
       imgUrl: "assets/adinkra/Nsoromma.png",
@@ -1775,7 +1685,7 @@ In spiritual and ceremonial contexts, the "Nsoromma" symbol may be featured on A
 Additionally, the "Nsoromma" symbol has a broader cultural and inspirational impact. It is integrated into various art forms, decorations, and cultural expressions, conveying a message of hope and encouragement. The symbol's representation of stars as celestial guides resonates universally, transcending cultural boundaries, and serves as a timeless emblem of inspiration, reminding individuals to strive for their unique and radiant destinies.
 """,
       aka: "Child of the Heavens",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nyame Baatanpa (Awurade Baatanfo)",
       imgUrl: "assets/adinkra/Nyame-Baatanpa-(Awurade Baatanfo).png",
@@ -1790,7 +1700,7 @@ The Adinkra symbol "Nyame Baatanpa," which translates to "God the good parent," 
 This symbol could be utilized in various contexts to embody these attributes. In religious or spiritual settings, Nyame Baatanpa might be incorporated into sacred spaces, religious texts, or rituals to visually emphasize the caring and nurturing aspect of the divine. Within familial or educational environments, it could serve as a symbol of guidance and love, encouraging caring and nurturing behaviors. Additionally, as part of personal adornments or decorations, Nyame Baatanpa becomes a tangible reminder of the divine qualities of caring and nurturing, fostering a sense of comfort and compassion in daily life.
 """,
       aka: "God the good parent",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nyame Biribi Wo Soro",
       imgUrl: "assets/adinkra/Nyame-Biribi-Wo-Soro.jpg",
@@ -1834,7 +1744,7 @@ The logo of the Methodist Church, Ghana
 Altar Publishing
 """,
       aka: "Altar of God",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nyame Nnwu Na Mawu",
       imgUrl: "assets/adinkra/Nyame-Nnwu-Na-Mawu.png",
@@ -1876,15 +1786,6 @@ Additionally, Nyame Nnwu Na Mawu could be integrated into memorial art, gravesto
 """,
       aka: """God never dies, therefore I cannot die""",
       summary: """AKAN PROVERBS RELATING TO NYAME NWU NA MAWU
-
-These proverbs are explained under Owuo Atwedee.
-
-Yebewu nti yenna
-Wonnim owuo a hwe nna
-Owuo tiri mu ye den
-Abuburo nkosua, adee a ebeye yie nsee da
-Nyame nkuu wo a wonwui
-Wonwui a wonnim nea wobenya
 """),
   Symbols(
       name: "Nyame Nti",
@@ -1915,7 +1816,7 @@ The "Nyame Ye Ohene" Adinkra symbol, often referred to as "God is King" or "Supr
 
 """,
       aka: "God is King",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nyansapo",
       imgUrl: "assets/adinkra/Nyansapo.png",
@@ -1927,7 +1828,7 @@ The Nyansapo sign is also known as the "Knot of Wisdom" in some quarters. It emb
       usage:
           """The Kwame Nkrumah University of Science and Technology (KNUST) uses Nyansapo in their logo and uses the associated proverb as their motto.""",
       aka: "Wisdom Knot",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Odo Nyera Fie Kwan",
       imgUrl: "assets/adinkra/Odo-Nyera-Fie-Kwan.png",
@@ -1957,39 +1858,8 @@ In the context of cultural ceremonies, particularly weddings and anniversaries, 
 Furthermore, the "Odo Nnyew Fie Kwan" symbol extends beyond its traditional uses to find expression in contemporary art, literature, and design. Its universal message about the cyclical nature of love transcends cultural boundaries, making it relevant in diverse contexts where the enduring power of love is celebrated. In essence, the "Odo Nnyew Fie Kwan" Adinkra symbol serves as a timeless and cultural emblem, reminding individuals of the profound and cyclical nature of love that remains steadfast even as life's journey unfolds.
 """,
       aka: "Love never loses its way home",
-      summary: """AKAN PROVERBS ABOUT LOVE
-1. Odo ye owu
-Literally: Love is death.
-An alternative interpretation of this would be "Love is unto death."
-
-To be in love is to be willing to give your life for another person. The Christian belief that a man can never show greater love than to give his life for his friends is fully supported by this.
-
-
-Odo ye owu in marriage could imply that a couple is bound by life together and that the only thing that can break them apart is death.
-
-When someone calls their significant other "odo ye owu," it can mean that they genuinely care about them and may even be willing to go to great lengths for them.
-
-2. Nsuo a edo wo na eko w’ahina mu
-Literally: It is the water (river) that loves you that enters your pot.
-
-When someone uses a pot to collect water from a river or stream, water may go inside of it. It is assumed that the water won't enter your pot if it doesn't love you.
-
-When it comes to romantic relationships, this could imply that a person would approach you or become interested in your personal matters if they truly loved you.
-
-3. Obaa do wo a na obo wo ka
-Literally: It is when a woman loves you that she spends your money.
-
-Even though it could hurt to have someone else spend your money, it might be a show of love when they bother you in this way. If a woman doesn't love you, she won't even consider spending your money on you, even though it would make you feel as like she has made a commitment to the relationship. The adage bears similarities to the statement "Se Nyame do wo a na oso wo hwe," which translates to mean "God tests you because he loves you." Testing could be challenging, but God doesn't test people he doesn't care about.
-
-4. Obi do wo a na oba wo fie
-Literally: It is when somebody loves you that he comes to your house.
-
-5. Other sayings on love and marriage
-•	Woreko awaree a bisa
-•	Awaree nye nsafufuo na yeaso ahwe
-•	Awaree kwan ware
-•	Oyere te se kuntu: wode kata wo ho a na wo ho keka wo; se woyi gu ho nso a na awo de wo
-"""),
+      summary: "AKAN PROVERBS ABOUT LOVE Odo ye owu Literally: Love is death. An alternative interpretation of this would be Love is unto death."
+  ),
   Symbols(
       name: "Obohemaa",
       imgUrl: "assets/adinkra/Obohemaa.png",
@@ -2006,7 +1876,7 @@ Culturally, Obohemaa may be integrated into traditional artifacts, fabrics, or c
 Additionally, on a personal level, individuals may choose to incorporate the Obohemaa symbol into jewelry or personal items, using it as a tangible representation of their appreciation for the gems and precious moments in life, or as a reminder of personal value and worth.
 """,
       aka: "Diamond",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Ohene Aniwa",
       imgUrl: "assets/adinkra/Ohene-Aniwa.png",
@@ -2025,7 +1895,7 @@ Culturally, Ohene Aniwa might find expression in traditional artifacts, fabrics,
 On a personal level, individuals may choose to incorporate the Ohene Aniwa symbol into personal items or adornments, using it as a visual representation of their appreciation for beauty and their vigilant approach to life.
 """,
       aka: """King's Eye""",
-      summary: "summary"),
+      summary: " "),
 //   Symbols(
 //       name: "Okodee Mmowere",
 //       imgUrl: "assets/adinkra/Okodee-Mmowere.png",
@@ -2079,7 +1949,7 @@ With God's favour, all will work out for the best. This is the significance of t
 """,
       usage: "usage",
       aka: "By God's grace, all will be well",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Osram Ne Nsoromma",
       imgUrl: "assets/adinkra/Osram-Ne-Nsoromma.png",
@@ -2098,7 +1968,7 @@ Within religious or spiritual gatherings, the symbol could be prominently featur
 On a broader scale, community events or initiatives focused on resilience and optimism could adopt this symbol, visually representing the shared belief that, with God's grace, all things will ultimately be well. 
 """,
       aka: """The Moon and the Star""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Owo Foro Adobe",
       imgUrl: "assets/adinkra/Owo-Foro-Adobe.png",
@@ -2118,7 +1988,7 @@ In organizational settings, businesses might adopt the Owo Foro Adobe symbol to 
 On a personal level, individuals may choose to incorporate the Owo Foro Adobe symbol into personal items or wear it as a visual reminder of their dedication to diligence, prudence, and the belief in achieving remarkable feats. 
 """,
       aka: """Snake Climbing the Palm Tree""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Owuo Atwedee",
       imgUrl: "assets/adinkra/Owuo-Atwedee.png",
@@ -2140,35 +2010,7 @@ The usage of the Owuo Atwedee sign can provoke thoughtful meditation on the comm
 """,
       aka: "Ladder of Death",
       summary:
-          """Owu atwedee obaako nforo; All men shall climb the ladder of death.
-
-AKAN PROVERBS ON DEATH
-1. Owuo tiri mu ye den
-Literally: Death is wicked. Or, more literally, the inside of death’s head is hard.
-
-2. Nyame nkuu wo a wonwui
-Literally: If God hasn’t killed you, you are not dead yet.
-
-3. Agya bi wu a, agya bi te ase
-Literally: When one father dies, another father lives.
-
-The raising of children is a communal activity in Akan societies. With such an arrangement, a child could have many fathers, where a father is an older male who takes some responsibility for raising the child. In such a situation, if one’s biological father dies or is absent, there are many others to collectively play his role.
-
-It is also used when a substitute is found for something valuable or someone important.
-
-4. Feree ne animguasee dee, fanyinam owuo
-Literally: Given the choice between shame and disgrace, death is a better option.
-
-5. Owuo kura adee a nkwa ntumi nnye
-Literally: When death is holding something, life cannot wrest it from him.
-
-6. Yebewu nti yenna?
-Literally: We will die so we won’t sleep?
-
-Kwame Okoampa-Ahoofe gives an apt interpretation of this proverb: Should our fear of death prevent us from sleeping?
-
-7. Nea wasunti awuo no, yenfa mmirika nko n’ayie
-"""),
+          "Owu atwedee obaako nforo; All men shall climb the ladder of death."),
   Symbols(
       name: "Pempamsie",
       imgUrl: "assets/adinkra/Pempamsie.png",
@@ -2239,23 +2081,7 @@ Other companies such as Sogakofe Beach Resort and Spa have also adopted the Sank
 Learning From the Past
 """,
       summary:
-          """Se wo were fin a wo sankofa a yennkyi; It is not a taboo to return to fetch something you forgot earlier on.
-
-THE ORAL TRADITION'S PRESERVATION AND DISSEMINATION OF HISTORY
-
-The idea that history has a lot to teach is undeniable, but in civilizations where culture and values are passed down only orally, the need to respect the elders as the keepers of these lessons and to pay attention to their lessons is stronger.
-
-Thus, the people who know history are just as essential as the history itself. Furthermore, in order to prevent their discoveries and contributions from being lost forever, it is imperative that the literary and narrative monuments established by the elders through their music, storytelling, and art—such as those found in Ananse and other stories—be preserved.
-
-AKAN APHORISMS RELATING TO THE MEANING OF SANKOFA
-Tete wo bi ka, tete wo bi kyere
-Wo were fi na wosan kofa a yenkyiri
-Okyem tete a eka ne mmeremu
-Tete na atete ama amanfoo anya bi apempam
-Kuntu hwane a eko nakyi
-Tete asoeee, wonsoee ho bio Some practices from the past must be done away with
-
-"""),
+          "Se wo were fin a wo sankofa a yennkyi; It is not a taboo to return to fetch something you forgot earlier on."),
   Symbols(
       name: "Sankofa (Heart)",
       imgUrl: "assets/adinkra/Sankofa-(Heart).png",
@@ -2300,23 +2126,7 @@ Cassandra Wilson recorded the song "Sankofa", which appeared on her 1993 album B
 """,
       aka: "Learning From the Past",
       summary:
-          """Se wo were fin a wo sankofa a yennkyi; It is not a taboo to return to fetch something you forgot earlier on.
-
-THE ORAL TRADITION'S PRESERVATION AND DISSEMINATION OF HISTORY
-
-The idea that history has a lot to teach is undeniable, but in civilizations where culture and values are passed down only orally, the need to respect the elders as the keepers of these lessons and to pay attention to their lessons is stronger.
-
-Thus, the people who know history are just as essential as the history itself. Furthermore, in order to prevent their discoveries and contributions from being lost forever, it is imperative that the literary and narrative monuments established by the elders through their music, storytelling, and art—such as those found in Ananse and other stories—be preserved.
-
-AKAN APHORISMS RELATING TO THE MEANING OF SANKOFA
-Tete wo bi ka, tete wo bi kyere
-Wo were fi na wosan kofa a yenkyiri
-Okyem tete a eka ne mmeremu
-Tete na atete ama amanfoo anya bi apempam
-Kuntu hwane a eko nakyi
-Tete asoeee, wonsoee ho bio Some practices from the past must be done away with
-
-"""),
+          "Se wo were fin a wo sankofa a yennkyi; It is not a taboo to return to fetch something you forgot earlier on"),
   Symbols(
       name: "Sepow",
       imgUrl: "assets/adinkra/Sepow.png",
@@ -2335,7 +2145,7 @@ During discussions or initiatives focused on social justice and equity, Sepow co
 On a personal level, individuals interested in justice and authority may choose to incorporate the Sepow symbol into personal items, perhaps as jewelry or decorations, as a reminder of the importance of using authority judiciously for the betterment of society. In summary, the Sepow Adinkra symbol can find meaningful applications in cultural, legal, law enforcement, social justice, and personal contexts, embodying the themes of justice and authoritative responsibility.
 """,
       aka: """Knife""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Sunsum",
       imgUrl: "assets/adinkra/Sunsum.png",
@@ -2357,9 +2167,9 @@ In commemorative or memorial contexts, Sunsum might find a place in funerary rit
 Overall, the Sunsum Adinkra symbol serves as a powerful emblem, encapsulating the themes of spirituality, purity, and the everlasting nature of the soul, making it relevant in cultural, personal, spiritual, and commemorative contexts.
 """,
       aka: "The Soul",
-      summary: "summary"),
+      summary: " "),
   Symbols(
-      name: "name",
+      name: "Tabon",
       imgUrl: "assets/adinkra/Tabon.png",
       category: "Adinkra",
       details: """Courage, Hard Work
@@ -2383,7 +2193,7 @@ The Tabon symbol is a versatile and expressive symbol that can be used in many c
 
 """,
       aka: "Paddle",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Tamfo Bebre",
       imgUrl: "assets/adinkra/Tamfo-Bebre.png",
@@ -2467,7 +2277,7 @@ A rifle and a state sword are shown in the Adinkra sign Tuo Ne Akofena, which is
 The Tuo Ne Akofena symbol is a versatile and expressive symbol that can be used in many creative and innovative ways. It is a symbol that reflects the rich and diverse culture of the West African Akan people, and their wisdom and philosophy of life..
 """,
       aka: """Gun and State Sword""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Wawa Aba",
       imgUrl: "assets/adinkra/Wawa-Aba.png",
@@ -2492,7 +2302,7 @@ The Wawa Aba symbol is a versatile and expressive symbol that can be used in man
 Adidas named the official match ball for MTN Africa Cup of Nations (AFCON) 2008 Wawa Aba.
 """,
       aka: """Seed of the Wawa Tree""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Wo Nsa Da Mu A",
       imgUrl: "assets/adinkra/Wo-Nsa-Da-Mu-A.png",
@@ -2540,10 +2350,7 @@ The Wuforo Dua Pa A symbol is a versatile and expressive symbol that can be used
       aka: """When You Climb a Good Tree""",
       summary: """AKAN PROVERBS ON TREES (NNUA, SINGULAR: DUA)
 
-1. Nnua a eben na etwie
+Nnua a eben na etwie
 Literally: It is trees that are close that rub against each other
-
-2. Dua-bata-boo, ne twe ye twa na
-Literally: It is hard to cut a tree which is attached to a rock
 """),
 ];
