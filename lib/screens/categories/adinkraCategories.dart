@@ -36,8 +36,8 @@ class _AdinkraCategoriesState extends State<AdinkraCategories> {
                   color: Colors.white,
                   fontWeight: FontWeight.w700),
             ),
-            SizedBox(
-              height: height * 0.9,
+              SizedBox(
+                height: height * 0.9,
               child: GridView.builder(
                 gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 3, // Number of columns in the grid
