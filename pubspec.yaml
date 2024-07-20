@@ -24,7 +24,6 @@ dependencies:
   fluttertoast: ^8.2.6
   url_launcher: ^6.1.10
   share_it: ^0.7.0
-  share_plus:
 
 dev_dependencies:
   flutter_test:
@@ -45,14 +44,18 @@ flutter:
     - assets/adinkra/
     - assets/Ga/
     - assets/ewe/
- 
+
   fonts:
+    - family: capecoast
+      fonts:
+        - asset: assets/fonts/capecoast.TTF
+
     - family: Montserrat
       fonts:
         - asset: assets/fonts/Montserrat-Black.ttf
         - asset: assets/fonts/Montserrat-Italic.ttf
           style: italic
         - asset: assets/fonts/Montserrat-Medium.ttf
-          weight: 400
+          weight: 500
         - asset: assets/fonts/Montserrat-Bold.ttf
           weight: 700

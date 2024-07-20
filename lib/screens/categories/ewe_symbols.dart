@@ -37,7 +37,7 @@ class _EweSymbolsState extends State<EweSymbols> {
                   fontWeight: FontWeight.w700),
             ),
             SizedBox(
-              height: height * 0.9,
+              height: height * 0.85,
               child: GridView.builder(
                 gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 3, // Number of columns in the grid

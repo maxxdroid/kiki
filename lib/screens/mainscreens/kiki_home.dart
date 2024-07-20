@@ -19,6 +19,7 @@ class KikiHome extends StatefulWidget {
 class _KikiHomeState extends State<KikiHome> {
   final int _selectedIndex = 0;
 
+
   @override
   Widget build(BuildContext context) {
     var width = MediaQuery.of(context).size.width;
@@ -102,7 +103,7 @@ class _KikiHomeState extends State<KikiHome> {
                                     ),
                                     Text(
                                       popularSymbols[index].name,
-                                      style: TextStyle(color: defaultColor),
+                                      style: TextStyle(color: defaultColor, fontFamily: 'capecoast',),
                                     )
                                   ],
                                 ),
@@ -152,7 +153,7 @@ class _KikiHomeState extends State<KikiHome> {
                                     ),
                                     Text(
                                       adinkraSymbol[index].name,
-                                      style: TextStyle(color: defaultColor),
+                                      style: TextStyle(color: defaultColor,fontFamily: 'capecoast',),
                                     )
                                   ],
                                 ),
