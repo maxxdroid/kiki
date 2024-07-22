@@ -2,6 +2,8 @@
 
 import '../models/symbol.dart';
 
+// List<Symbols> allSymbols =
+
 List<Symbols> adinkraSymbol = [
   Symbols(
       name: "Aban",

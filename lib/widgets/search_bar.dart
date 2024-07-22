@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:kiki/screens/mainscreens/profile.dart';
-import 'package:kiki/screens/mainscreens/search.dart';
 
-class MyAppBar extends StatefulWidget {
-  const MyAppBar({super.key});
+class MySearchAppBar extends StatefulWidget {
+  const MySearchAppBar({super.key});
 
   @override
-  State<MyAppBar> createState() => _MyAppBarState();
+  State<MySearchAppBar> createState() => _MySearchAppBarState();
 }
 
-class _MyAppBarState extends State<MyAppBar> {
+class _MySearchAppBarState extends State<MySearchAppBar> {
   @override
   Widget build(BuildContext context) {
+    var width = MediaQuery.of(context).size.width;
     return Padding(
       padding:
           const EdgeInsets.only(top: 30.0, left: 10, right: 10, bottom: 10),
@@ -21,27 +21,16 @@ class _MyAppBarState extends State<MyAppBar> {
         children: [
           Row(
             children: [
-              Image.asset(
-                height: 40,
-                // width: 10,
-                "assets/images/kiki.png",
-                fit: BoxFit.cover,
-              ),
-              const SizedBox(
-                width: 10,
-              ),
-              GestureDetector(
-                onTap: () {
-                  Get.to(()=> const Search());
-                },
-                child: Image.asset(
-                  height: 30,
-                  // width: 10,
-                  "assets/images/search.png",
-                  fit: BoxFit.cover,
-                  alignment: Alignment.bottomCenter,
+              SizedBox(
+                width: width * .5,
+                child: const Text(
+                  "Search",
+                  style: TextStyle(
+                      fontSize: 26,
+                      color: Colors.white,
+                      fontWeight: FontWeight.w700),
                 ),
-              ),
+              )
             ],
           ),
           Row(
@@ -58,7 +47,7 @@ class _MyAppBarState extends State<MyAppBar> {
                 width: 10,
               ),
               GestureDetector(
-                onTap: (){
+                onTap: () {
                   Get.to(const Profile(), transition: Transition.fadeIn);
                 },
                 child: CircleAvatar(
@@ -83,7 +72,9 @@ class _MyAppBarState extends State<MyAppBar> {
         });
       },
       items: const [
-        DropdownMenuItem(child: Icon(Icons.home),),
+        DropdownMenuItem(
+          child: Icon(Icons.home),
+        ),
       ],
     );
   }
