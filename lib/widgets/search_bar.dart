@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:kiki/screens/mainscreens/profile.dart';
-import 'package:kiki/screens/mainscreens/search.dart';
 
 class MySearchAppBar extends StatefulWidget {
   const MySearchAppBar({super.key});
@@ -13,7 +12,6 @@ class MySearchAppBar extends StatefulWidget {
 class _MySearchAppBarState extends State<MySearchAppBar> {
   @override
   Widget build(BuildContext context) {
-    var height = MediaQuery.of(context).size.height;
     var width = MediaQuery.of(context).size.width;
     return Padding(
       padding:
