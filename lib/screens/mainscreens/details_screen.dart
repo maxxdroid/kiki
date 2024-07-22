@@ -74,6 +74,8 @@ class _DetailedScreenState extends State<DetailedScreen> {
   @override
   Widget build(BuildContext context) {
     double size = MediaQuery.of(context).size.width;
+    
+    double height = MediaQuery.of(context).size.height;
 
     return SafeArea(
       child: Scaffold(
@@ -129,12 +131,14 @@ class _DetailedScreenState extends State<DetailedScreen> {
                     ),
                     SizedBox(height: size * 0.01),
                     SizedBox(
-                      width: size * .4,
-                      child: Text(
-                        textAlign: TextAlign.start,
-                        // "It expresses the omnipotence \n and supremacy of God \n in all affairs.",
-                        "${widget.symbol.summary}",
-                        style: TextStyle(fontSize: 15, color: Colors.white),
+                      height:height * .15,
+                      width: size * .5,
+                      child: SingleChildScrollView(
+                        child: Text(
+                          // textAlign: TextAlign.start,
+                          widget.symbol.summary,
+                          style:const TextStyle(fontSize: 15, color: Colors.white, overflow: TextOverflow.fade),
+                        ),
                       ),
                     ),
                     SizedBox(height: size * 0.02),

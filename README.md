@@ -25,5 +25,7 @@ An a mobile app that contains all the Ghanaian Symbols and their various meaning
     </tr>
     <tr>
         <td><img src="assets/images/s2.png" width=250px height=500px/></td>
+        <td><img src="assets/images/s10.png" width=250px height=500px /></td>
+        <td><img src="assets/images/s11.png" width=250px height=500px/></td>
     </tr>
 </table>
