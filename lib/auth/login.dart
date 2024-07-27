@@ -111,7 +111,7 @@ class _LoginState extends State<Login> {
                                     const Text(
                                       "Forget password ?",
                                       style: TextStyle(
-                                          fontSize: 15,
+                                          fontSize: 12,
                                           color: Colors.black,
                                           fontWeight: FontWeight.bold),
                                     ),
@@ -135,7 +135,7 @@ class _LoginState extends State<Login> {
                                           borderRadius: BorderRadius.all(
                                               Radius.circular(50)),
                                         ),
-                                        height: 50,
+                                        height: 40,
                                         width: 150,
                                         child: const Center(
                                             child: Text(
@@ -157,7 +157,7 @@ class _LoginState extends State<Login> {
                                 child: const Text(
                                   "Skip Login",
                                   style: TextStyle(
-                                      fontSize: 25, color: Colors.black),
+                                      fontSize: 20, color: Colors.black),
                                 ),
                               ),
                               SizedBox(height: height * 0.05),

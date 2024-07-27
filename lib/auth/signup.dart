@@ -163,7 +163,7 @@ class _SignUpState extends State<SignUp> {
                                                   const Login()),
                                         );
                                       },
-                                      child: const Text("I want to Sign Up!")),
+                                      child: const Text("I want to Log-in!")),
                                 ],
                               )
                             ],
