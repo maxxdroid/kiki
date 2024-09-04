@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 <p>
-An a mobile app that contains all the Ghanaian Symbols and their various meanings.
+A mobile app that contains all the Ghanaian Symbols and their various meanings.
 </p>
 
 
