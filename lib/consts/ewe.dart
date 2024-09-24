@@ -15,7 +15,7 @@ The bed is thought to be a place of solace and relaxation after a demanding day 
       usage:
           """The Aba vuvu, or Worn-out Bed, holds significant symbolism within Ewe culture, embodying the essence of gratification and contentment. Beyond its literal interpretation as a bed that has served its purpose over time, it represents the culmination of hard work, perseverance, and the attainment of comfort. In Ewe tradition, the Aba vuvu is often utilized as a metaphor for achievement and satisfaction in various contexts. It can symbolize the completion of a long journey, the fulfillment of one's goals, or the reward for enduring challenges. Additionally, the Aba vuvu serves as a reminder of the importance of rest and relaxation, emphasizing the need to appreciate and enjoy the fruits of one's labor. Whether used in storytelling, artistic expression, or everyday conversation, the Aba vuvu stands as a powerful symbol of fulfillment and contentedness in Ewe culture, inspiring individuals to strive for their aspirations while cherishing the moments of tranquility and satisfaction along the way.""",
       aka: "Worn-out Bed",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "ABƆBƆ DZE NA",
       imgUrl: "assets/ewe/ABƆBƆ-DZE-NA.png",
@@ -31,7 +31,7 @@ Literal Translation: When the snail travels abroad, it finds shelter with the to
 The Abɔbɔ Dze Na symbolizes a space where differences are embraced, conflicts are resolved peacefully, and collective well-being is prioritized. Whether utilized in storytelling, artistic representations, or cultural rituals, the image of The Snail Lodge serves as a reminder of the values of tolerance, empathy, and collaboration. It inspires individuals and communities to strive for harmony in their interactions, recognizing that true unity arises from the acceptance and celebration of each other's unique identities and perspectives.
 """,
       aka: "The snail lodge",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Abɔbɔgo",
       imgUrl: "assets/ewe/Abɔbɔgo.png",
@@ -47,9 +47,9 @@ The Abɔbɔgo, or snail shell, has deep symbolic meaning in Ewe culture, signify
       usage:
           """In Ewe tradition, the Abɔbɔgo is often utilized as a metaphor for the journey of self-discovery and the acquisition of wisdom. Just as the snail retreats into its shell for protection and reflection, individuals are encouraged to delve deep within themselves to gain insight into their own thoughts, feelings, and experiences. The Abɔbɔgo symbolizes the importance of inner reflection and contemplation in gaining clarity and understanding. Whether used in storytelling, artistic representations, or spiritual practices, the image of the snail shell serves as a powerful reminder of the transformative power of insight and the continuous quest for knowledge and enlightenment in Ewe culture.""",
       aka: "Snail shell",
-      summary: "summary"),
+      summary: " "),
   Symbols(
-      name: "name",
+      name: "Adata",
       imgUrl: "assets/ewe/Adata.png",
       category: "Ewe",
       details: """A symbol of Variation
@@ -62,7 +62,7 @@ The Ewes' primary employment is farming, which means they frequently come into c
       usage:
           """In Ewe tradition, Adata is often employed as a metaphor for the diverse array of experiences, perspectives, and identities found within society. Just as grass thrives in various environments, adapting to different conditions and climates, individuals and communities are encouraged to embrace their unique qualities and differences, recognizing that diversity is essential for resilience and growth. Whether utilized in storytelling, artistic expressions, or cultural rituals, the image of Adata serves as a powerful reminder of the beauty and strength inherent in variation. It inspires a celebration of diversity and an appreciation for the richness it brings to the fabric of life in Ewe culture and beyond.""",
       aka: "Grass",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Afi Du Ke",
       imgUrl: "assets/ewe/Afi-Du-Ke.png",
@@ -78,7 +78,7 @@ In Ewe culture, Afi Du Ke, or The Mouse That Eats a Raffia, serves as a potent s
       usage:
           """The symbolism of Afi Du Ke emphasizes the importance of being aware of one's surroundings and anticipating potential risks or consequences. Whether employed in storytelling, artistic representations, or everyday conversations, the image of Afi Du Ke serves as a reminder to approach life with prudence and mindfulness, recognizing that foresight and caution are essential for navigating the complexities of existence in Ewe culture and beyond.""",
       aka: "The mouse that eats a raffia",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Afͻtude",
       imgUrl: "assets/ewe/Afͻtude.png",
@@ -93,7 +93,7 @@ The palm tree is regarded by the Ewes as the king of all trees. This is because 
       usage:
           """Afͻtude serves as a powerful metaphor for the value of hard work and persistence in achieving one's goals. Just as extracting palm wine requires repeated strikes and careful attention, success in life often necessitates sustained effort and resilience in the face of challenges. The image of Afͻtude inspires individuals to pursue their aspirations with diligence and determination, recognizing that progress is often achieved through consistent and unwavering commitment. Whether utilized in storytelling, artistic representations, or cultural rituals, Afͻtude symbolizes the transformative power of perseverance and the rewards that come from relentless dedication in Ewe culture and beyond.""",
       aka: "A stroke of a palm tree",
-      summary: 'summary'),
+      summary: ' '),
   Symbols(
       name: "Agaga lolo",
       imgUrl: "assets/ewe/Agaga-lolo.png",
@@ -105,7 +105,7 @@ The palm tree is regarded by the Ewes as the king of all trees. This is because 
       usage:
           """Agaga lolo is often employed in ceremonial contexts, such as traditional rituals, weddings, or other significant events, to represent blessings, prosperity, and the recognition of esteemed individuals or families. Its presence underscores the importance of honoring and valuing not only material wealth but also the intangible qualities that enrich community life, such as wisdom, integrity, and generosity. Whether used in cultural practices, artistic representations, or everyday discourse, Agaga lolo serves as a potent reminder of the enduring significance of value and the interconnectedness of material wealth and spiritual abundance in Ewe culture and tradition.""",
       aka: "the big cowry",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Afͻxͻdzo ",
       imgUrl: "assets/ewe/Afͻxͻdzo.png",
@@ -115,7 +115,7 @@ The palm tree is regarded by the Ewes as the king of all trees. This is because 
       usage:
           """The image of Afͻxͻdzo is often invoked to warn against the repercussions of actions that violate societal norms or moral principles. Just as one's feet would feel the burning sensation of heat, individuals are reminded of the discomfort and pain that may accompany the consequences of their misdeeds. Afͻxͻdzo symbolizes the idea of accountability and the necessity of facing the penalties for one's actions. Whether utilized in storytelling, cultural rituals, or everyday discourse, the imagery of Hot Feet serves as a stark reminder of the importance of ethical behavior and the inevitability of facing punishment for wrongdoing in Ewe culture and society.""",
       aka: "Hot feet",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Ame Ŋuti",
       imgUrl: "assets/ewe/Ame Ŋuti.png",
@@ -133,7 +133,7 @@ Ame Ŋuti is frequently used to characterise the relationship between people who
       usage:
           """Used in storytelling, poetic expressions, or everyday conversations, the imagery of Staying by One's Side serves as a powerful reminder of the importance of dependable relationships and the comfort found in knowing that one is not alone. Ame Ŋuti inspires individuals to cultivate strong bonds built on trust and mutual support, fostering a sense of security and interconnectedness within the community and beyond.""",
       aka: "Staying by one’s side",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Amedzro nkuga ",
       imgUrl: "assets/ewe/Amedzro-nkuga.png",
@@ -148,7 +148,7 @@ In a society, secrecy is essential. Within a family or a society, there are secr
       usage:
           """The symbolism of Amedzro nkuga emphasizes the importance of maintaining confidentiality and respecting the privacy of others. Whether utilized in storytelling, cultural rituals, or interpersonal interactions, the image of A Stranger with Big Eyes serves as a reminder of the value of discretion and the trustworthiness of those who can keep secrets. Amedzro nkuga inspires individuals to honor the sanctity of confidentiality and to cultivate relationships based on mutual respect and trust within Ewe culture and society.""",
       aka: "A stranger with big eyes",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Anyigba sese",
       imgUrl: "assets/ewe/Anyigba-sese.png",
@@ -160,7 +160,7 @@ It originated from the proverb ‘Anyigba sese gake agama ɖo na afɔ anyi blewu
 """,
       usage: "usage",
       aka: "Solid earth",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Asi ɖeka",
       imgUrl: "assets/ewe/Asi-ɖeka.png",
@@ -175,7 +175,7 @@ This adage cautions against relying too on one's own efforts, much as the saying
       usage:
           """The imagery of Solid Earth inspires individuals to stand firm in their values and principles, recognizing that strength lies in unity and collective action. Anyigba sese serves as a reminder of the enduring power that arises when people come together in solidarity, fostering a sense of belonging and resilience.""",
       aka: "One hand",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Gomekaɖi",
       imgUrl: "assets/ewe/Gomekaɖi.png",
@@ -188,7 +188,7 @@ This adage cautions against relying too on one's own efforts, much as the saying
       usage:
           """Used in cultural rituals, or everyday discourse, the image of the lantern inspires individuals to seek out the light of wisdom, compassion, and understanding. Gomekaɖi symbolizes the triumph of positivity over negativity, of clarity over obscurity, and serves as a beacon of hope that guides individuals towards a brighter and more enlightened future in Ewe culture""",
       aka: "lantern",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Atagba",
       imgUrl: "assets/ewe/Atagba.png",
@@ -203,7 +203,7 @@ Even though each portion of the body has a distinct function, all of the parts w
       usage:
           """In various forms of artistic expression within Ewe culture, the symbol of Atagba, or Thigh, resonates as a powerful representation of support and unity. In textiles, intricate patterns or motifs resembling interconnected lines or bands evoke the supportive structure of the thigh, woven into fabrics or embroidered onto garments. Paintings depict scenes of individuals offering assistance, symbolizing the concept of Atagba through visual narratives of solidarity. Jewellery designs incorporate shapes inspired by the thigh, serving as wearable reminders of stability and mutual aid. Additionally, body art such as tattoos or body paint may feature Atagba-inspired designs, often placed on areas symbolizing strength, reinforcing the values of solidarity and assistance. Across these mediums, Atagba serves as a poignant reminder of the interconnectedness of individuals and the importance of standing by each other in times of need within Ewe culture.""",
       aka: "Thigh",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Atamagui",
       imgUrl: "assets/ewe/Atamagui.png",
@@ -213,7 +213,7 @@ Even though each portion of the body has a distinct function, all of the parts w
       usage:
           """In Ewe cultural expression, the Atamagui, or snuff box, embodies the symbolism of kindness and generosity, which can be reflected across various artistic mediums. In textiles, artisans may incorporate motifs or patterns inspired by the snuff box, depicting intricate designs reminiscent of its ornate craftsmanship. These patterns could be woven into fabrics or embroidered onto garments, serving as visual representations of the value of kindness and compassion within Ewe culture. Paintings may portray scenes of individuals exchanging snuff, symbolizing acts of kindness and camaraderie, while jewellery designers may craft pieces inspired by the elegant shape and decorative elements of the snuff box, creating wearable reminders of the importance of generosity and goodwill. Additionally, body art enthusiasts may choose to adorn themselves with tattoos or body paint featuring designs inspired by the Atamagui, often placed on areas symbolizing benevolence or community, serving as personal expressions of the values of kindness and compassion. Across textiles, painting, jewellery, and body art, the Atamagui serves as a poignant symbol of the enduring significance of kindness and generosity within Ewe culture, encouraging individuals to embrace these virtues in their interactions with others.""",
       aka: "snuff box",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Ati alͻ etͻ",
       imgUrl: "assets/ewe/Ati-alͻ-etͻ.png",
@@ -223,7 +223,7 @@ Even though each portion of the body has a distinct function, all of the parts w
       usage:
           """Ati alͻ etͻ, or three arms, symbolize the tripartite nature of God and His protective presence over individuals' lives, a concept often depicted across various artistic mediums. Textile artisans may intricately weave patterns or motifs inspired by the three arms, creating designs that evoke a sense of divine protection and guidance. These patterns could adorn fabrics or be embroidered onto garments, serving as tangible reminders of the spiritual connection between humanity and the divine. In painting, artists may portray scenes featuring the three arms, symbolizing God's watchful care and guardianship over individuals. These paintings may depict moments of solace or divine intervention, conveying a sense of comfort and assurance. Jewellery designers may craft pieces inspired by the symbolism of the three arms, incorporating elements that represent the divine tripartite nature, such as three interlocking shapes or symbols. These jewellery pieces serve as wearable symbols of faith and divine protection. Moreover, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by the Ati alͻ etͻ, often placed on areas of the body symbolizing spirituality or protection, serving as personal expressions of devotion and belief in divine guidance. Across textiles, painting, jewellery, and body art, the Ati alͻ etͻ serves as a powerful symbol of the tripartite nature of God and His continual protection over individuals' lives, inspiring faith and offering solace within Ewe culture and beyond.""",
       aka: "three arms",
-      summary: "summary"),
+      summary: " "),
 //   Symbols(
 //       name: "Nku kple alͻ ",
 //       imgUrl: "assets/ewe/Nku-kple-alͻ",
@@ -258,7 +258,7 @@ These patterns could be woven into fabrics or embroidered onto garments, serving
 Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Avu du fu, often placed on areas of the body symbolizing mindfulness or awareness, serving as personal expressions of the values of caution and vigilance. Across textiles, painting, jewellery, and body art, Avu du fu serves as a powerful symbol of the necessity to approach life with caution and mindfulness, inspiring individuals to navigate challenges with care and consideration.
 """,
       aka: "A dog chews bones",
-      summary: "summary"),
+      summary: " "),
   // Symbols(
   //     name: "Da kuɖedzi",
   //     imgUrl: "assets/ewe/Da-kuɖedzi.png",
@@ -278,7 +278,7 @@ Additionally, enthusiasts of body art may choose to adorn themselves with tattoo
       usage:
           """Dɔmenyo tae, or Due to Generosity, symbolizes the virtue of generosity, a concept that can be depicted across various artistic mediums. Textile artisans may weave intricate patterns or motifs inspired by the imagery of Dɔmenyo tae, creating designs that convey the idea of giving and sharing. These patterns could be incorporated into fabrics or embroidered onto garments, serving as visual representations of the spirit of generosity within Ewe culture. In painting, artists may portray scenes featuring acts of generosity, such as individuals sharing food or resources with others. These paintings may convey a sense of warmth and community, encouraging viewers to embrace the practice of giving. Jewellery designers may craft pieces inspired by the symbolism of Dɔmenyo tae, incorporating elements that represent the idea of generosity and abundance. These jewellery pieces serve as wearable reminders of the importance of sharing and giving back to others. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Dɔmenyo tae, often placed on areas of the body symbolizing kindness or compassion, serving as personal expressions of the values of generosity and altruism. Across textiles, painting, jewellery, and body art, Dɔmenyo tae serves as a powerful symbol of the importance of giving and sharing within Ewe culture and beyond, inspiring individuals to cultivate a spirit of generosity in their interactions with others.""",
       aka: "due to Generosity",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "De tsitsi",
       imgUrl: "assets/ewe/De-tsitsi.png",
@@ -293,7 +293,7 @@ Both young and old make up society. Due to their varied life experiences and sta
       usage:
           """In Ewe culture, De tsitsi, or Old Palm, symbolizes wisdom and maturity, concepts that can be depicted across various artistic mediums. Textile artisans may weave patterns or motifs inspired by the imagery of De tsitsi, creating designs that convey the idea of wisdom gained through experience. These patterns could be incorporated into fabrics or embroidered onto garments, serving as visual representations of the depth of knowledge and insight that comes with age. In painting, artists may portray scenes featuring old palms, symbolizing the passage of time and the accumulation of wisdom. These paintings may convey a sense of reverence and respect for the elderly, encouraging viewers to appreciate the value of life experience. Jewellery designers may craft pieces inspired by the symbolism of De tsitsi, incorporating elements that represent the idea of wisdom and maturity. These jewellery pieces serve as wearable reminders of the importance of learning from the past and embracing the wisdom of age. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by De tsitsi, often placed on areas of the body symbolizing knowledge or insight, serving as personal expressions of the values of wisdom and maturity. Across textiles, painting, jewellery, and body art, De tsitsi serves as a powerful symbol of the significance of life experience and the wisdom gained through the passage of time within Ewe culture and beyond, inspiring individuals to embrace the lessons of the past and approach life with maturity and insight.""",
       aka: "Old palm",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Koklozi le Kpe Dzi",
       imgUrl: "assets/ewe/Koklozi-le-Kpe-Dzi.png",
@@ -303,7 +303,7 @@ Both young and old make up society. Due to their varied life experiences and sta
       usage:
           """Koklozi le Kpe Dzi, or Egg on a Stone, symbolizes cautiousness and the need for careful consideration, concepts that can be depicted across various artistic mediums. Textile artisans may incorporate motifs or patterns inspired by the imagery of Koklozi le Kpe Dzi, creating designs that convey the idea of delicacy and vulnerability. These patterns could be woven into fabrics or embroidered onto garments, serving as visual representations of the importance of handling situations with care and caution. In painting, artists may portray scenes featuring eggs balanced on stones, symbolizing the precariousness of certain situations and the need for vigilance. These paintings may convey a sense of tension and anticipation, encouraging viewers to approach challenges with mindfulness and restraint. Jewellery designers may craft pieces inspired by the symbolism of Koklozi le Kpe Dzi, incorporating elements that represent the idea of cautiousness and prudence. These jewellery pieces serve as wearable reminders of the importance of assessing risks and making informed decisions. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Koklozi le Kpe Dzi, often placed on areas of the body symbolizing caution or awareness, serving as personal expressions of the values of careful consideration and foresight. Across textiles, painting, jewellery, and body art, Koklozi le Kpe Dzi serves as a powerful symbol of the significance of approaching life's challenges with caution and mindfulness within Ewe culture and beyond, inspiring individuals to navigate uncertainties with care and deliberation.""",
       aka: "Egg on a stone",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Deka nyonyo alo manyomanyo",
       imgUrl: "assets/ewe/Deka-nyonyo-alo-manyomanyo.png",
@@ -321,7 +321,7 @@ The Ewes think that there are issues with every circumstance. An ugly lady would
 Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Deka nyonyo alo manyomanyo, often placed on areas of the body symbolizing connection or conflict, serving as personal expressions of the complexities of human relationships and societal dynamics. Across textiles, painting, jewellery, and body art, Deka nyonyo alo manyomanyo serves as a powerful symbol of the nuanced interplay between unity and division within Ewe culture and beyond, inspiring individuals to strive for harmony while acknowledging and respecting differences.
 """,
       aka: "oneness and division",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Deti",
       imgUrl: "assets/ewe/Deti.png",
@@ -337,7 +337,7 @@ Palm tree
 Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Deti, often placed on areas of the body symbolizing growth or transformation, serving as personal expressions of the values of versatility and adaptability. Across textiles, painting, jewellery, and body art, Deti serves as a powerful symbol of the importance of being flexible and adaptable in navigating life's challenges and opportunities within Ewe culture and beyond.
 """,
       aka: "Palm tree",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Devi masԑtonu",
       imgUrl: 'assets/ewe/Devi-masԑtonu.png',
@@ -352,7 +352,7 @@ Some kids are incredibly resistant to change; they won't budge no matter what gu
       usage:
           """In Ewe culture, Devi masԑtonu, or A Stubborn Child, symbolizes the need for punishment, reproof, and correction, a concept that can be depicted across various artistic mediums. In fashion, designers may incorporate motifs or patterns inspired by the imagery of Devi masԑtonu, creating clothing pieces that convey the idea of discipline and correction. These designs could feature bold lines or shapes representing the need for structure and order. Textile artisans may weave fabrics with patterns that depict scenes of correction or reproof, serving as visual reminders of the consequences of disobedience. In painting, artists may portray scenes featuring a stubborn child being disciplined or corrected by an authority figure, symbolizing the importance of accountability and learning from mistakes. These paintings may convey a sense of firmness and determination, encouraging viewers to uphold standards of behavior and respect authority. Jewellery designers may craft pieces inspired by the symbolism of Devi masԑtonu, incorporating elements that represent the idea of discipline and correction, such as sharp angles or geometric shapes. These jewellery pieces serve as wearable reminders of the consequences of disobedience and the importance of accountability. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Devi masԑtonu, often placed on areas of the body symbolizing discipline or correction, serving as personal expressions of the values of obedience and respect. Across fashion, textiles, painting, jewellery, and body art, Devi masԑtonu serves as a powerful symbol of the necessity of punishment, reproof, and correction in upholding societal norms and fostering personal growth within Ewe culture and beyond.""",
       aka: "A stubborn Child",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Fiayi",
       imgUrl: "assets/ewe/Fiayi.png",
@@ -365,7 +365,7 @@ Some kids are incredibly resistant to change; they won't budge no matter what gu
 In painting, artists may portray scenes featuring the Fiayi as a symbol of justice being upheld, with figures of authority wielding the sword to maintain order and ensure fairness. These paintings may evoke a sense of reverence and respect for the principles of justice and righteousness. Jewellery designers may craft pieces inspired by the symbolism of Fiayi, incorporating elements such as sword-shaped pendants or embellishments that represent the sword's hilt, serving as wearable symbols of authority and integrity. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Fiayi, often placed on areas of the body symbolizing strength or leadership, serving as personal expressions of the values of authority and justice. Across fashion, textiles, painting, jewellery, and body art, Fiayi serves as a powerful symbol of the importance of upholding authority and justice within Ewe culture and beyond, inspiring individuals to strive for fairness and righteousness in their actions and decisions.
 """,
       aka: "Royal Sword",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Fu Kple Dzidzɔ",
       imgUrl: "assets/ewe/Fu-Kple-Dzidzɔ.png",
@@ -381,7 +381,7 @@ Suffering and Happiness, or Fu Kple Dzidzʔ, is a symbol of harmony that can be 
       usage:
           """In fashion, designers may integrate motifs or patterns inspired by the imagery of Fu Kple Dzidzɔ into clothing pieces that reflect the duality of human experience. These designs could incorporate contrasting colors or textures to symbolize the interplay between suffering and happiness. Textile artisans may weave fabrics with patterns that evoke a sense of harmony and balance, using harmonious color schemes and rhythmic patterns to convey the unity of opposites. In painting, artists may portray scenes featuring individuals experiencing both suffering and happiness, capturing moments of resilience and hope amidst adversity. These paintings may evoke a sense of emotional depth and complexity, encouraging viewers to embrace the full spectrum of human experience. Jewellery designers may craft pieces inspired by the symbolism of Fu Kple Dzidzɔ, incorporating elements that represent the union of opposites, such as yin-yang symbols or intertwining motifs. These jewellery pieces serve as wearable reminders of the importance of finding balance and harmony in life. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Fu Kple Dzidzɔ, often placed on areas of the body symbolizing equilibrium or resilience, serving as personal expressions of the values of harmony and balance. Across fashion, textiles, painting, jewellery, and body art, Fu Kple Dzidzɔ serves as a powerful symbol of the interconnectedness of all aspects of existence, inspiring individuals to embrace life's ups and downs with grace and resilience within Ewe culture and beyond.""",
       aka: "Suffering and happiness",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "GbϽ",
       imgUrl: "assets/ewe/GbϽ.png",
@@ -392,7 +392,7 @@ Literal Translation:A goat with cut ears can't counsel her children
       usage:
           """In fashion, designers may draw inspiration from the imagery of GbϽ to create clothing pieces that embody the nurturing qualities associated with parenting, incorporating soft and comforting textures or earthy tones reminiscent of the goat's natural habitat. Textile artisans may weave fabrics with patterns or motifs that depict scenes of parental care and guidance, using warm colors and gentle lines to convey the bond between parent and child. In painting, artists may portray scenes featuring goats with their offspring, symbolizing the protective and nurturing instincts of parenthood. These paintings may evoke a sense of tenderness and love, encouraging viewers to appreciate the importance of familial relationships. Jewellery designers may craft pieces inspired by the symbolism of GbϽ, incorporating elements that represent the nurturing qualities of parenthood, such as goat-shaped pendants or motifs that evoke feelings of warmth and protection. These jewellery pieces serve as wearable reminders of the significance of parental guidance and support. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by GbϽ, often placed on areas of the body symbolizing family or love, serving as personal expressions of the values of nurturing and caregiving. Across fashion, textiles, painting, jewellery, and body art, GbϽ serves as a powerful symbol of the importance of parental guidance and support in shaping the lives of children within Ewe culture and beyond, inspiring individuals to embrace the responsibilities of parenthood with love and compassion.""",
       aka: "Goat",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Gui",
       imgUrl: "assets/ewe/Gui.png",
@@ -402,7 +402,7 @@ Literal Translation:A goat with cut ears can't counsel her children
       usage:
           """In fashion, designers may draw inspiration from the shape and texture of the gourd to create clothing pieces that embody its practicality and adaptability, incorporating flowing silhouettes or earthy tones reminiscent of the gourd's natural form. Textile artisans may weave fabrics with patterns or motifs that depict scenes of gourd harvesting or utilization, using warm colors and organic shapes to convey the resourcefulness associated with the gourd. In painting, artists may portray still-life compositions featuring gourds in various stages of use, symbolizing the abundance and utility of this humble object. These paintings may evoke a sense of simplicity and harmony, encouraging viewers to appreciate the beauty in everyday objects. Jewellery designers may craft pieces inspired by the symbolism of Gui, incorporating elements that represent the usefulness and versatility of the gourd, such as gourd-shaped pendants or motifs that evoke feelings of practicality and efficiency. These jewellery pieces serve as wearable reminders of the importance of making the most of what one has. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Gui, often placed on areas of the body symbolizing resourcefulness or adaptability, serving as personal expressions of the values of usefulness and versatility. Across fashion, textiles, painting, jewellery, and body art, Gui serves as a powerful symbol of the importance of making the most of one's resources and embracing the versatility of everyday objects within Ewe culture and beyond, inspiring individuals to find beauty and usefulness in the simple things in life.""",
       aka: "gourd",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Ha",
       imgUrl: "assets/ewe/Ha.png",
@@ -417,7 +417,7 @@ There is custom in a society that needs to be followed. Those who take care of t
       usage:
           """In Ewe culture, Ha, or Tune or Song, symbolizes propriety and harmony, qualities that can be depicted across various artistic mediums. In fashion, designers may draw inspiration from the rhythm and melody of Ha to create clothing pieces that embody its sense of balance and elegance, incorporating flowing lines or harmonious color palettes reminiscent of musical compositions. Textile artisans may weave fabrics with patterns or motifs that evoke the fluidity and grace of Ha, using intricate designs and subtle textures to convey the refinement associated with musical propriety. In painting, artists may portray scenes featuring musicians or dancers performing Ha, symbolizing the harmony and unity that comes from adhering to traditional standards of behavior and expression. These paintings may evoke a sense of tranquility and grace, encouraging viewers to appreciate the beauty of cultural propriety. Jewellery designers may craft pieces inspired by the symbolism of Ha, incorporating elements that represent the harmony and balance of musical expression, such as musical note pendants or motifs that evoke feelings of rhythm and melody. These jewellery pieces serve as wearable reminders of the importance of adhering to cultural norms and traditions. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Ha, often placed on areas of the body symbolizing grace or refinement, serving as personal expressions of the values of propriety and harmony. Across fashion, textiles, painting, jewellery, and body art, Ha serves as a powerful symbol of the importance of maintaining cultural propriety and harmony within Ewe culture and beyond, inspiring individuals to embrace tradition and elegance in their expressions of self.""",
       aka: "Tune or song",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Hliha",
       imgUrl: "assets/ewe/Hliha.png",
@@ -446,7 +446,7 @@ The symbol "kavuvu," which translates to "vine Support," is used to represent pa
 These paintings may evoke a sense of calm and tranquility, encouraging viewers to appreciate the beauty of patience. Jewellery designers may craft pieces inspired by the symbolism of Kavuvu, incorporating elements that represent the idea of patience and endurance, such as vine-shaped pendants or motifs that evoke feelings of growth and perseverance. These jewellery pieces serve as wearable reminders of the importance of patience in navigating life's challenges. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Kavuvu, often placed on areas of the body symbolizing resilience or fortitude, serving as personal expressions of the values of patience and endurance. Across fashion, textiles, painting, jewellery, and body art, Kavuvu serves as a powerful symbol of the importance of patience and perseverance in achieving growth and overcoming obstacles within Ewe culture and beyond, inspiring individuals to cultivate patience and resilience in their journey through life.
 """,
       aka: "Vine Support",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Koklotsu",
       imgUrl: "assets/ewe/Koklotsu.png",
@@ -456,7 +456,7 @@ These paintings may evoke a sense of calm and tranquility, encouraging viewers t
       usage:
           """In Ewe culture, Koklotsu, or Cock, symbolizes both caution and understanding, embodying qualities of vigilance and wisdom that can be depicted across various artistic mediums. In fashion, designers may draw inspiration from the majestic appearance of a cock to create clothing pieces that exude a sense of alertness and awareness, incorporating bold colors or dynamic patterns reminiscent of the bird's plumage. Textile artisans may weave fabrics with motifs or patterns that depict scenes of cocks displaying their vigilant nature, using vibrant hues and intricate designs to convey the sense of caution and understanding associated with Koklotsu. In painting, artists may portray scenes featuring cocks as symbols of caution and understanding, with figures engaging in careful observation or contemplation. These paintings may evoke a sense of mindfulness and attentiveness, encouraging viewers to appreciate the importance of being aware of one's surroundings. Jewellery designers may craft pieces inspired by the symbolism of Koklotsu, incorporating elements that represent the idea of caution and understanding, such as cock-shaped pendants or motifs that evoke feelings of awareness and insight. These jewellery pieces serve as wearable reminders of the importance of being vigilant and wise in one's actions. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Koklotsu, often placed on areas of the body symbolizing mindfulness or intuition, serving as personal expressions of the values of caution and understanding. Fashion, textiles, jewellery, paintings, and body art are all influenced by Koklotsu, a potent symbol in Ewe culture and beyond of the value of exercising caution and understanding when navigating life's opportunities and challenges. This helps people approach situations with discernment and wisdom.""",
       aka: "Cock",
-      summary: "summary"),
+      summary: " "),
 //   Symbols(
 //       name: "Kokloxͻ",
 //       imgUrl: "assets/ewe/Kokloxͻ.png",
@@ -491,7 +491,7 @@ character of the nomadic butterfly.
       usage:
           """This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Kpakpaluvui to evoke a sense of widespread beauty and change, incorporating the butterfly's delicate wings and vibrant colors to convey the idea of ubiquity in a visually striking manner. Textile artisans may weave fabrics with patterns or motifs that depict scenes of butterflies in flight, using a diverse range of colors and intricate designs to convey the sense of ubiquitous beauty associated with Kpakpaluvui. In painting, artists may portray scenes featuring butterflies as symbols of transformation and abundance, with figures surrounded by a profusion of fluttering wings. These paintings may evoke a sense of wonder and awe, encouraging viewers to appreciate the richness of life's experiences. Jewellery designers may craft pieces inspired by the symbolism of Kpakpaluvui, incorporating elements that represent the idea of ubiquity and transformation, such as butterfly-shaped pendants or motifs that evoke feelings of growth and renewal. These jewellery pieces serve as wearable reminders of the ever-present beauty and potential for change in the world. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Kpakpaluvui, often placed on areas of the body symbolizing transformation or renewal, serving as personal expressions of the values of ubiquity and growth. Across visual communication, textiles, painting, jewellery, and body art, Kpakpaluvui serves as a powerful symbol of the pervasive presence of beauty and transformation in the world within Ewe culture and beyond, inspiring individuals to embrace the ever-changing nature of life and appreciate the inherent beauty in all things.""",
       aka: "Butterfly",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Sabala",
       imgUrl: "assets/ewe/Sabala.png",
@@ -504,7 +504,7 @@ Sabala, or Onion, symbolizes individualism, coexistence, and tolerance, represen
       usage:
           """This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Sabala to depict the layers of individuality and diversity within society, using the onion's concentric rings to represent the multifaceted nature of humanity and the importance of tolerance and acceptance. Textile artisans may weave fabrics with patterns or motifs that depict scenes of onions growing in fields, using a range of colors and textures to convey the richness of diversity and the interconnectedness of all living things. In painting, artists may portray scenes featuring onions as symbols of individualism and coexistence, with figures surrounded by a tapestry of layered forms representing the complex interplay of personalities and perspectives. These paintings may evoke a sense of unity and harmony, encouraging viewers to embrace the uniqueness of each individual while fostering mutual respect and understanding. Jewellery designers may craft pieces inspired by the symbolism of Sabala, incorporating elements that represent the idea of individualism and tolerance, such as onion-shaped pendants or motifs that evoke feelings of interconnectedness and acceptance. These jewellery pieces serve as wearable reminders of the importance of celebrating diversity and fostering inclusivity within society. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Sabala, often placed on areas of the body symbolizing unity or diversity, serving as personal expressions of the values of individualism, coexistence, and tolerance. Across visual communication, textiles, painting, jewellery, and body art, Sabala serves as a powerful symbol of the richness of diversity and the importance of embracing individuality while fostering mutual respect and understanding within Ewe culture and beyond.""",
       aka: "Onion",
-      summary: "summary"),
+      summary: " "),
   // Symbols(
   //     name: "Kpͻtimakpa",
   //     imgUrl: "assets/ewe/Kpͻtimakpa.png",
@@ -527,7 +527,7 @@ Literal Translation: Old bones from former hunting cannot be used to prepare tod
       usage:
           """It is possible to effectively communicate this symbolism through a variety of visual communication formats. Using the worn texture and elaborate patterns of ancient bones to generate a sense of history and tradition, designers may use the imagery of Lagla Xoxo to depict the breadth of knowledge and wisdom passed down through the ages in visual communication. Textile artisans may weave fabrics with patterns or motifs that depict scenes of Lagla Xoxo amidst ancient artifacts or symbols of learning, using earthy tones and intricate designs to convey the richness of knowledge and wisdom. In painting, artists may portray scenes featuring Lagla Xoxo as symbols of knowledge and enlightenment, with figures surrounded by the bones of their ancestors as they seek to gain insight and understanding. These paintings may evoke a sense of reverence and respect for the wisdom of those who came before, encouraging viewers to appreciate the value of learning from the past. Jewellery designers may craft pieces inspired by the symbolism of Lagla Xoxo, incorporating elements that represent the idea of knowledge and wisdom, such as bone-shaped pendants or motifs that evoke feelings of insight and enlightenment. These jewellery pieces serve as wearable reminders of the importance of seeking knowledge and understanding. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Lagla Xoxo, often placed on areas of the body symbolizing intellect or enlightenment, serving as personal expressions of the values of knowledge and wisdom. Across visual communication, textiles, painting, jewellery, and body art, Lagla Xoxo serves as a powerful symbol of the richness of knowledge and wisdom passed down through generations, inspiring individuals to honor the wisdom of their ancestors and seek enlightenment within Ewe culture and beyond.""",
       aka: "Old bones",
-      summary: "summary"),
+      summary: " "),
 //   Symbols(
 //       name: "Nu Kple Ge",
 //       imgUrl: "assets/ewe/Nu-kple-alͻ.png",
@@ -557,7 +557,7 @@ When a child is observed interacting with adults about matters, it is deemed tha
       usage:
           """Nya ga o, or Big Matters, is a symbol of order and respect in Ewe culture, signifying the value of hierarchy and deference to authority. It is possible to effectively communicate this symbolism through a variety of visual communication formats. Using symbols of authority and respect to imply a sense of reverence and commitment to traditional values, designers may use Nya ga o iconography to illustrate the importance of hierarchical systems and the necessity for order in society. Rich colours and elaborate designs are used by textile artisans to create fabrics with patterns or motifs that portray scenes of people acting in reverence or following protocol, conveying the sense of respect and order associated with Nya ga o. These paintings may evoke a sense of dignity and formality, encouraging viewers to appreciate the importance of upholding tradition and honoring authority. Jewellery designers may craft pieces inspired by the symbolism of Nya ga o, incorporating elements that represent the idea of order and respect, such as symbols of authority or motifs that evoke feelings of reverence and deference. These jewellery pieces serve as wearable reminders of the importance of respecting hierarchy and observing protocol. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Nya ga o, often placed on areas of the body symbolizing authority or respect, serving as personal expressions of the values of order and reverence. Across visual communication, textiles, painting, jewellery, and body art, Nya ga o serves as a powerful symbol of the importance of maintaining order and showing respect for authority within Ewe culture and beyond, inspiring individuals to uphold tradition and honor those in positions of power.""",
       aka: "Big matters",
-      summary: "summary"),
+      summary: " "),
 //   Symbols(
 //       name: "Nͻviwͻwͻ ",
 //       imgUrl: "assets/ewe/Nͻviwͻwͻ",
@@ -587,7 +587,7 @@ The ‘ŋku kple alɔ̃ (The eye and sleep) symbol, a symbol of tolerance and co
       aka: """The
 eye and sleep
 """,
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Trԑ",
       imgUrl: "assets/ewe/Trԑ.png",
@@ -601,7 +601,7 @@ Among the Ewes, the calabash symbolises family ties and friendliness among the c
       usage:
           """In Ewe culture, Trɛ, or Calabash, symbolizes peace, harmony, and interconnectedness, representing the vessel that holds nourishment and sustenance for the community. This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Trɛ to represent the idea of peace and unity, using depictions of the calabash as a symbol of abundance and prosperity within the community. Textile artisans may weave fabrics with patterns or motifs that depict scenes of calabashes filled with fruits or grains, using warm colors and flowing designs to evoke a sense of tranquility and harmony. In painting, artists may portray scenes featuring Trɛ as symbols of peace and interconnectedness, with figures gathered around the calabash in acts of sharing and cooperation. These paintings may evoke a sense of community and solidarity, encouraging viewers to appreciate the value of coming together in peace. Jewellery designers may craft pieces inspired by the symbolism of Trɛ, incorporating elements that represent the idea of peace and harmony, such as calabash-shaped pendants or motifs that evoke feelings of serenity and unity. These jewellery pieces serve as wearable reminders of the importance of fostering peace within oneself and among others. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Trɛ, often placed on areas of the body symbolizing tranquility or interconnectedness, serving as personal expressions of the values of peace and unity. Across visual communication, textiles, painting, jewellery, and body art, Trɛ serves as a powerful symbol of the importance of fostering peace and harmony within Ewe culture and beyond, inspiring individuals to embrace compassion and cooperation in their interactions with others.""",
       aka: """Calabash""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Vivɔɛ",
       imgUrl: "assets/ewe/Vivɔɛ.png",
@@ -615,7 +615,7 @@ Literal Translation: A thigh smeared with a bad child’s faeces cannot be scrap
       usage:
           """This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Vivɔɛ to represent the idea of contentment and inner peace, using depictions of mischievous children as a reminder to find joy and fulfillment in life's ups and downs. Textile artisans may weave fabrics with patterns or motifs that depict scenes of playful children amidst scenes of everyday life, using vibrant colors and whimsical designs to evoke a sense of joy and contentment. In painting, artists may portray scenes featuring Vivɔɛ as symbols of contentment and resilience, with figures depicted in acts of playfulness or mischief. These paintings may evoke a sense of light-heartedness and optimism, encouraging viewers to embrace life with a sense of humor and acceptance. Jewellery designers may craft pieces inspired by the symbolism of Vivɔɛ, incorporating elements that represent the idea of contentment and joy, such as child-shaped pendants or motifs that evoke feelings of happiness and spontaneity. These jewellery pieces serve as wearable reminders of the importance of finding joy in the present moment. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Vivɔɛ, often placed on areas of the body symbolizing playfulness or spontaneity, serving as personal expressions of the values of contentment and resilience. Across visual communication, textiles, painting, jewellery, and body art, Vivɔɛ serves as a powerful symbol of the importance of embracing life's imperfections and finding happiness in the present moment within Ewe culture and beyond, inspiring individuals to cultivate a sense of contentment and joy in their everyday lives.""",
       aka: "Bad child",
-      summary: "summary"),
+      summary: " "),
 //   Symbols(
 //       name: "Xletivi",
 //       imgUrl: "assets/ewe/Xletivi.png",
@@ -641,7 +641,7 @@ impossible from people who cannot meet their demands.
       usage:
           """In Ewe culture, Yamewu, or Aeroplane, symbolizes the lesson that one should not expect the impossible from people who cannot meet their demands, embodying the idea of managing expectations and understanding limitations. This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Yamewu to represent the concept of managing expectations, using depictions of aeroplanes as symbols of ambition and high aspirations. However, they may also show aeroplanes grounded or encountering obstacles, highlighting the importance of realistic goals and recognizing limitations. Textile artisans may weave fabrics with patterns or motifs that depict scenes of aeroplanes soaring high in the sky, but also facing challenges or grounded on the runway, using contrasting elements to convey the message of realistic expectations. In painting, artists may portray scenes featuring Yamewu as symbols of ambition and determination, with figures depicted striving towards lofty goals but also learning to navigate setbacks and limitations. These paintings may evoke a sense of resilience and adaptability, encouraging viewers to pursue their dreams while also accepting the reality of limitations. Jewellery designers may craft pieces inspired by the symbolism of Yamewu, incorporating elements that represent the idea of managing expectations and overcoming obstacles, such as aeroplane-shaped pendants or motifs that evoke feelings of perseverance and resilience. These jewellery pieces serve as wearable reminders of the importance of setting realistic goals and adapting to challenges. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Yamewu, often placed on areas of the body symbolizing ambition or determination, serving as personal expressions of the values of managing expectations and overcoming obstacles. Across visual communication, textiles, painting, jewellery, and body art, Yamewu serves as a powerful symbol of the importance of setting realistic goals and understanding limitations within Ewe culture and beyond, inspiring individuals to pursue their aspirations with wisdom and adaptability.""",
       aka: "Aeroplane",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Zego Yibɔ",
       imgUrl: "assets/ewe/Zego Yibɔ.png",
@@ -654,7 +654,7 @@ Literal Translation: The white porridge comes out of the black pot
       usage:
           """This symbolism can be effectively conveyed across various forms of visual communication. In visual communication, designers may utilize the imagery of Zego Yibɔ to represent the concept of caution and discernment, using depictions of black pots as symbols of thoughtful deliberation and careful judgement. Textile artisans may weave fabrics with patterns or motifs that depict scenes of black pots placed prominently amidst other elements, using contrasting colors and bold designs to draw attention to the importance of cautious decision-making. In painting, artists may portray scenes featuring Zego Yibɔ as symbols of wisdom and prudence, with figures depicted contemplating their options or weighing the consequences of their actions. These paintings may evoke a sense of introspection and mindfulness, encouraging viewers to approach situations with careful consideration. Jewellery designers may craft pieces inspired by the symbolism of Zego Yibɔ, incorporating elements that represent the idea of caution and judgement, such as black pot-shaped pendants or motifs that evoke feelings of wisdom and discernment. These jewellery pieces serve as wearable reminders of the importance of thoughtful decision-making and careful deliberation. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Zego Yibɔ, often placed on areas of the body symbolizing wisdom or intuition, serving as personal expressions of the values of caution and discernment. Across visual communication, textiles, painting, jewellery, and body art, Zego Yibɔ serves as a powerful symbol of the importance of exercising caution and judgement in decision-making within Ewe culture and beyond, inspiring individuals to approach life's challenges with wisdom and thoughtfulness.""",
       aka: "The black pot",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Zi kpi",
       imgUrl: "assets/ewe/Zi-kpi.png",
@@ -669,7 +669,7 @@ There are usually two parties to a quarrel. It is quite rare to witness a single
       usage:
           """Zi kpi, or silence, is a sign of patience and tolerance in Ewe culture. It represents quiet perseverance and the capacity to maintain composure in the face of difficulty. It is possible to effectively communicate this symbolism through a variety of visual communication formats. Designers may use Zi kpi imagery in visual communication to symbolise the ideas of tolerance and patience. They can also use images of calm settings or landscapes to inspire feelings of inner strength and tranquilly. Soft colours and flowing designs are used by textile artists to create fabrics with patterns or motifs that portray peaceful sceneries, evoking tolerance and patience in the face of daily upheaval. In painting, artists may portray scenes featuring Zi kpi as symbols of resilience and equanimity, with figures depicted in moments of quiet contemplation or meditation. These paintings may evoke a sense of serenity and tranquility, encouraging viewers to cultivate patience and tolerance in their own lives. Jewellery designers may craft pieces inspired by the symbolism of Zi kpi, incorporating elements that represent the idea of quiet endurance and inner strength, such as designs inspired by nature or motifs that evoke feelings of peace and tranquility. These jewellery pieces serve as wearable reminders of the importance of remaining calm and composed in challenging situations. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Zi kpi, often placed on areas of the body symbolizing resilience or inner peace, serving as personal expressions of the values of patience and tolerance. Across visual communication, textiles, painting, jewellery, and body art, Zi kpi serves as a powerful symbol of the ability to maintain composure and inner strength amidst the chaos of life, inspiring individuals to cultivate patience and tolerance in their journey towards peace and equanimity.""",
       aka: "Silence",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Zegbagbã",
       imgUrl: "assets/ewe/Zegbagbã.png",
@@ -684,5 +684,5 @@ The ‘Zegbagbã’ (broken pot) symbol which is identified as a symbol of imper
       aka: """Broken
 pot
 """,
-      summary: "summary"),
+      summary: " "),
 ];

@@ -117,7 +117,7 @@ class _DetailedScreenState extends State<DetailedScreen> {
                             color: Colors.white),
                       ),
                     ),
-                    SizedBox(height: size * 0.005),
+                    // SizedBox(height: size * 0.005),
                     SizedBox(
                       width: size*.5,
                       child: Text(
@@ -129,9 +129,9 @@ class _DetailedScreenState extends State<DetailedScreen> {
                             color: Colors.amber),
                       ),
                     ),
-                    SizedBox(height: size * 0.01),
+                    // SizedBox(height: size * 0.01),
                     SizedBox(
-                      height:height * .15,
+                      // height:height * .01,
                       width: size * .5,
                       child: SingleChildScrollView(
                         child: Text(
@@ -169,7 +169,7 @@ class _DetailedScreenState extends State<DetailedScreen> {
                 )
               ],
             ),
-            SizedBox(height: size * 0.02),
+            SizedBox(height: size * 0.1),
             Container(
               decoration: const BoxDecoration(
                 color: Colors.white,
@@ -189,7 +189,8 @@ class _DetailedScreenState extends State<DetailedScreen> {
                         setState(() {
                           isDetailButtonClicked = true;
                           isUsageButtonClicked = false;
-                          updateText(widget.symbol.usage);
+                          updateText(widget.symbol.details);
+                          // updateText(widget.symbol.usage);
                         });
                       },
                       style: ButtonStyle(
@@ -198,9 +199,9 @@ class _DetailedScreenState extends State<DetailedScreen> {
                           if (states.contains(MaterialState.pressed) ||
                               isDetailButtonClicked) {
                             return Colors
-                                .white; // Change the color when pressed or clicked
+                                .amber; // Change the color when pressed or clicked
                           }
-                          return Colors.amber; // Default color
+                          return Colors.white; // Default color
                         }),
                         shape: MaterialStateProperty.all<RoundedRectangleBorder>(
                           const RoundedRectangleBorder(
@@ -214,7 +215,7 @@ class _DetailedScreenState extends State<DetailedScreen> {
                         ),
                       ),
                       child: const Text(
-                        'Detail',
+                        'Details',
                         style: TextStyle(color: Colors.black),
                       ),
                     ),
@@ -225,7 +226,8 @@ class _DetailedScreenState extends State<DetailedScreen> {
                         setState(() {
                           isUsageButtonClicked = true;
                           isDetailButtonClicked = false;
-                          updateText(widget.symbol.details);
+                          updateText(widget.symbol.usage);
+                          // updateText(widget.symbol.details);
                         });
                       },
                       style: ButtonStyle(
@@ -234,9 +236,9 @@ class _DetailedScreenState extends State<DetailedScreen> {
                           if (states.contains(MaterialState.pressed) ||
                               isUsageButtonClicked) {
                             return Colors
-                                .white; // Change the color when pressed or clicked
+                                .amber; // Change the color when pressed or clicked
                           }
-                          return Colors.amber; // Default color
+                          return Colors.white; // Default color
                         }),
                         shape: MaterialStateProperty.all<RoundedRectangleBorder>(
                           const RoundedRectangleBorder(

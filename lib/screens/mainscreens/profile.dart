@@ -4,13 +4,42 @@ import 'package:get/get.dart';
 import 'package:kiki/consts/const_widgets.dart';
 import 'package:kiki/widgets/bottom_navbar.dart';
 import 'package:kiki/widgets/user_appbar.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 
 import '../../auth/login.dart';
 import '../landingscreens/AboutUsPage.dart';
 
-class Profile extends StatelessWidget {
+class Profile extends StatefulWidget {
   const Profile({super.key});
+
+  @override
+  State<Profile> createState() => _ProfileState();
+}
+
+class _ProfileState extends State<Profile> {
+  String _username = '';
+
+  @override
+  void initState() {
+    super.initState();
+    _loadUsername();
+  }
+
+  Future<void> _loadUsername() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _username = prefs.getString('username') ?? ' ';
+    });
+  }
+
+  Future<void> _removeUsername() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove('username');
+    setState(() {
+      _username = ' ';
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -42,17 +71,13 @@ class Profile extends StatelessWidget {
                     child: Column(
                       children: [
                         ProfileCard(
-                          profileName: user.displayName ?? "User",
+                          profileName: _username,
                           icon: Icons.person_2_rounded,
                         ),
                         ProfileCard(
                           profileName: user.email ?? "Email not available",
                           icon: Icons.email,
                         ),
-                        // const ProfileCard(
-                        //   profileName: "Contact Us",
-                        //   icon: Icons.contact_page,
-                        // ),
                         GestureDetector(
                           onTap: (){
                             Get.to(() => const AboutUsPage());
@@ -63,14 +88,19 @@ class Profile extends StatelessWidget {
                           ),
                         ),
                         SizedBox(height: height * 0.1),
-                          CustomLoginButton(
-                            onPressed: () {
-                              Get.to(() {
-                                FirebaseAuth.instance.signOut();
+                        CustomLoginButton(
+                          onPressed: () async {
+                            try {
+                              await FirebaseAuth.instance.signOut();
                               Get.offAll(() => const Login());
-                              });
-                            }, name: 'Sign Out',
-                          ),
+                              _removeUsername();
+                            } catch (e) {
+                              print('Error signing out: $e');
+                              // You might want to show an error message to the user here
+                            }
+                          },
+                          name: 'Sign Out',
+                        ),
                       ],
                     ),
                   ),

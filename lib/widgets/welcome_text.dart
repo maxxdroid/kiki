@@ -17,7 +17,7 @@ class WelcomeText extends StatelessWidget {
                 style: TextStyle(color: Color(0xFFFFC700)),
               ),
               Text(
-                ",the ultimate symbols library!",
+                ", The ultimate symbols library!",
                 style: TextStyle(color: Colors.white),
               ),
             ],

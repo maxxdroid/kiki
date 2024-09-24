@@ -1,8 +1,11 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:kiki/auth/login.dart';
 import 'package:kiki/consts/const_widgets.dart';
+
+import '../mainscreens/kiki_home.dart';
 
 class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({super.key});
@@ -20,6 +23,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
       DeviceOrientation.portraitUp,
       DeviceOrientation.portraitDown,
     ]);
+    // checkAuthStatus();
   }
 
   @override
@@ -33,6 +37,19 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
     ]);
     super.dispose();
   }
+
+  // void checkAuthStatus() {
+  //   User? user = FirebaseAuth.instance.currentUser;
+  //
+  //   if (user != null) {
+  //     // User is signed in, navigate to home screen
+  //     Get.offAll(const KikiHome(), transition: Transition.fadeIn);
+  //   } else {
+  //     // No user is signed in, navigate to login screen
+  //     Get.offAll(const Login(), transition: Transition.fadeIn);
+  //   }
+  // }
+
 
   @override
   Widget build(BuildContext context) {

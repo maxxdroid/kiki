@@ -1,7 +1,14 @@
 import 'dart:async';
 
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:get/get_core/src/get_main.dart';
+import 'package:get/get_navigation/src/routes/transitions_type.dart';
 import 'package:kiki/consts/const_widgets.dart';
+
+import '../../auth/login.dart';
+import '../mainscreens/kiki_home.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -21,6 +28,22 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
     displaySplash();
+    checkAuthStatus();
+  }
+
+  void checkAuthStatus() async {
+    // Delay for 3 seconds (3000 milliseconds)
+    await Future.delayed(const Duration(seconds: 2));
+
+    User? user = FirebaseAuth.instance.currentUser;
+
+    if (user != null) {
+      // User is signed in, navigate to home screen
+      Get.offAll(const KikiHome(), transition: Transition.fadeIn);
+    } else {
+      // No user is signed in, navigate to login screen
+      Get.offAll(const Login(), transition: Transition.fadeIn);
+    }
   }
 
   @override

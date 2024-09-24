@@ -2,7 +2,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/get_navigation.dart';
+import 'package:google_sign_in/google_sign_in.dart';
 import 'package:kiki/screens/mainscreens/kiki_home.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class AuthMethods {
   FirebaseAuth auth = FirebaseAuth.instance;
@@ -17,6 +19,9 @@ class AuthMethods {
       );
       User? firebaseUser = userCredential.user;
 
+      SharedPreferences prefs = await SharedPreferences.getInstance();
+      prefs.setString('email', email);
+
       if (firebaseUser != null) {
         Get.to(const KikiHome(), transition: Transition.circularReveal);
       }
@@ -25,6 +30,39 @@ class AuthMethods {
     }
   }
 
+  // signInWithGoogle() async{
+  //   final GoogleSignInAccount? googleSignInUser = await GoogleSignIn().signIn();
+  //
+  //   final GoogleSignInAuthentication googleSignInAuth = await googleSignInUser!.authentication;
+  //
+  //   final credential  = GoogleAuthProvider.credential(
+  //     accessToken: googleSignInAuth.accessToken,
+  //     idToken: googleSignInAuth.idToken,
+  //   );
+  //
+  //   return await FirebaseAuth.instance.signInWithCredential(credential);
+  // }
+
+  Future<UserCredential?> signInWithGoogle() async {
+    try {
+      final GoogleSignInAccount? googleSignInUser = await GoogleSignIn().signIn();
+      if (googleSignInUser == null) {
+        // The user canceled the sign-in
+        return null;
+      }
+      final GoogleSignInAuthentication googleSignInAuth = await googleSignInUser.authentication;
+      final credential = GoogleAuthProvider.credential(
+        accessToken: googleSignInAuth.accessToken,
+        idToken: googleSignInAuth.idToken,
+      );
+      // print("credentials: " + credential);
+      return await FirebaseAuth.instance.signInWithCredential(credential);
+    } catch (e) {
+      // Handle error
+      print('Error signing in with Google: $e');
+      return null;
+    }
+  }
   logOutUser() {
     auth.signOut();
   }

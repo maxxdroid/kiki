@@ -14,7 +14,7 @@ Optimism and right attitude are essential qualities for success in life.
       usage:
           """This symbol can inspire a variety of artistic expressions across different mediums. In visual communication, it can be depicted through imagery that highlights resilience and hope in the face of adversity. Designs may feature individuals overcoming obstacles together, symbolizing the strength found in unity and perseverance. Textiles provide a canvas for weaving this proverb into patterns, serving as a reminder of the importance of maintaining optimism even in difficult times. In painting, it can be portrayed through vibrant colors and dynamic compositions that convey the triumph of the human spirit over adversity. Jewelry designers can translate this proverb into elegant pieces, such as bracelets or pendants, adorned with subtle engravings or motifs that symbolize hope and unity. In body art, the proverb can be tattooed onto the skin, serving as a personal reminder of the power of optimism and resilience. Across these mediums, "Abii woo ni ahε nu" serves as a poignant symbol of the belief that, even when faced with challenges, unity and positivity can lead to brighter days ahead.""",
       aka: "one who asks for water does not get honey",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Abobonua",
       imgUrl: "assets/Ga/Abobonua.png",
@@ -34,7 +34,7 @@ In painting, Abobonua can be portrayed amidst serene landscapes or minimalist co
 Across these mediums, Abobonua serves as a gentle yet profound symbol of the strength found in restraint and the beauty of measured expression.
 """,
       aka: "(a tiny braggart bird",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Abiu",
       imgUrl: "assets/Ga/Abiu.png",
@@ -49,7 +49,7 @@ A stitch in time saves nine
       usage:
           """Abiu, or needle in Ga culture, symbolizes self-control and discipline, making it a powerful motif in various forms of visual communication and artistic expression. In textiles, the needle can be intricately embroidered onto fabrics, serving as a reminder of the importance of self-restraint and precision in craftsmanship. In painting, it can be depicted as a central motif, perhaps surrounded by flowing lines or patterns, representing the balance between control and creativity. In jewelry design, the needle can be crafted into delicate pendants or earrings, worn as symbols of personal strength and restraint. In body art, it can be tattooed onto the skin, serving as a permanent reminder of one's commitment to self-discipline and mastery. Across these mediums, the needle symbolizes not only the act of controlling external circumstances but also the internal mastery needed to navigate life's complexities with grace and determination.""",
       aka: "needle",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Adashi ",
       imgUrl: "assets/Ga/Adashi.png",
@@ -63,7 +63,7 @@ Textiles offer a canvas for weaving Adashi motifs into intricate patterns, infus
 In body art, Adashi can adorn the skin in the form of tattoos, symbolizing not only personal gratitude but also a connection to Ga cultural heritage. Across these mediums, Adashi embodies the beauty of acknowledging and honoring the value of others, weaving threads of appreciation into the fabric of artistic expression.
 """,
       aka: "Appreciation",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Akpa ",
       imgUrl: "assets/Ga/Akpa.png",
@@ -77,7 +77,7 @@ Meaning “The one who knows does not get lost”.
       usage:
           """Akpa, symbolizing knowledge in Ga culture, offers a nuanced theme for artistic exploration across various mediums. In visual communication, Akpa can be employed metaphorically in designs aimed at conveying the acquisition or pursuit of knowledge. Its intricate structure and symbolism can be incorporated into illustrations, infographics, or educational materials, serving as a visual metaphor for the journey of learning and enlightenment. Textiles provide a tactile canvas for weaving Akpa motifs into patterns, imparting layers of meaning and representing the interconnectedness of wisdom and tradition. In painting, Akpa can be depicted as a central motif surrounded by vibrant colors or intricate details, symbolizing the complexity and depth of knowledge. Jewelry designers can translate Akpa into striking pieces, such as pendants or brooches, imbuing them with the essence of intellectual curiosity and growth. In body art, Akpa can be tattooed onto the skin, serving as a permanent reminder of the quest for knowledge and the importance of continual learning. Across these mediums, Akpa serves as a potent symbol of intellectual exploration, inviting viewers to contemplate the beauty and significance of expanding one's understanding of the world.""",
       aka: "trap",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Akpaki ",
       imgUrl: "assets/Ga/Akpaki.png",
@@ -89,7 +89,7 @@ The basis of Ga cosmology is what I refer to as the Duality Principle. Everythin
       usage:
           """This symbol serves as a powerful motif for artistic expression across various mediums. In visual communication, Akpaki can be depicted through imagery that celebrates cooperation and solidarity among individuals or communities. Designs may feature the gourd as a central element, surrounded by diverse figures coming together in harmony, conveying the message of strength found in unity. Textiles provide an excellent medium for incorporating Akpaki motifs into patterns, symbolizing the interwoven connections between people and cultures. In painting, Akpaki can be portrayed amidst vibrant landscapes or dynamic compositions, evoking a sense of inclusivity and shared purpose. Jewelry designers can translate Akpaki into striking pieces, such as pendants or bracelets, adorned with gourd-shaped charms or engravings, representing the bonds of unity and togetherness. In body art, Akpaki can be tattooed onto the skin, serving as a personal emblem of one's commitment to fostering unity and collaboration. Across these mediums, Akpaki serves as a poignant symbol of the strength and beauty that emerges when individuals come together in mutual respect and support.""",
       aka: "gourn",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Akpokpolonto",
       imgUrl: "assets/Ga/Akpokpolonto.png",
@@ -101,7 +101,7 @@ The wish of the tortoise is that there would never be the sound of a gun shot in
       usage:
           """Akpokpolonto, the tortoise symbolizing patience and peace in Ga culture, inspires a range of artistic expressions across different mediums. In visual communication, Akpokpolonto can serve as a powerful emblem in designs aimed at promoting tranquility and resilience. Its gentle demeanor and steady pace make it an ideal motif for logos, posters, or illustrations conveying messages of patience and harmony. Textiles offer a versatile platform for incorporating Akpokpolonto motifs into patterns, weaving narratives of calmness and endurance into fabrics that envelop and comfort. In painting, Akpokpolonto can be depicted amidst serene landscapes or tranquil scenes, evoking a sense of peacefulness and the enduring nature of patience. Jewelry designers can transform Akpokpolonto into elegant pieces, such as pendants or charms, worn as reminders to cultivate inner peace and resilience. In body art, Akpokpolonto can be intricately tattooed onto the skin, symbolizing a commitment to embracing patience and tranquility as guiding principles in life. Across these mediums, Akpokpolonto serves as a poignant symbol of the virtues of patience and peace, inviting viewers to reflect on the beauty and strength found in stillness and serenity.""",
       aka: "tortoise",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Akromadio ",
       imgUrl: "assets/Ga/Akromadio.png",
@@ -111,7 +111,7 @@ The wish of the tortoise is that there would never be the sound of a gun shot in
       usage:
           """Akromadio, symbolizing the interdependence of nations in Ga culture, offers a profound theme for artistic expression across various mediums. In visual communication, Akromadio can be depicted through imagery that highlights connections between different cultures, economies, and societies. This could manifest in designs for international conferences, global initiatives, or diplomatic events, conveying the message of interconnectedness and mutual reliance. Textiles provide a rich canvas for weaving Akromadio motifs into intricate patterns, symbolizing the weaving together of diverse cultures and economies into a harmonious fabric of interdependence. In painting, Akromadio can be portrayed through vibrant and dynamic compositions that depict the flow of ideas, goods, and people across borders, celebrating the beauty of cultural exchange and collaboration. Jewelry designers can translate Akromadio into striking pieces that symbolize unity and cooperation, incorporating elements from various cultures to represent the interconnected nature of humanity. In body art, Akromadio can be tattooed onto the skin, serving as a personal reminder of the importance of global solidarity and understanding. Across these mediums, Akromadio serves as a powerful symbol of the interconnectedness of nations, inviting viewers to embrace the idea that our collective well-being is dependent on fostering cooperation and understanding among all peoples.""",
       aka: "(nations are interdependent",
-      summary: "summary"),
+      summary: " "),
 //   Symbols(
 //       name: "Alagba tԑ",
 //       imgUrl: "assets/Ga/Alagba-tԑ.png",
@@ -137,7 +137,7 @@ The wish of the tortoise is that there would never be the sound of a gun shot in
       usage:
           """Asamankama, representing caution in Ga culture, inspires a range of artistic interpretations across various mediums. In visual communication, Asamankama can be employed as a cautionary symbol in designs aimed at promoting safety or risk awareness. Its thorny appearance and symbolic association with caution can be incorporated into posters, signage, or advertisements to convey messages of vigilance and prudence. Textiles offer a tactile canvas for weaving Asamankama motifs into patterns, serving as a reminder of the need for careful consideration and mindfulness in daily life. In painting, Asamankama can be depicted as a central motif amidst landscapes or still lifes, evoking a sense of wariness and the importance of navigating obstacles with caution. Jewelry designers can translate Asamankama into bold pieces, such as statement necklaces or earrings, adorned with thorn-like details to symbolize the need for cautious decision-making. In body art, Asamankama can be tattooed onto the skin, serving as a permanent reminder of the importance of exercising caution and foresight in one's actions. Across these mediums, Asamankama serves as a poignant symbol of the value of prudence and the necessity of approaching life's challenges with care and thoughtfulness.""",
       aka: "thorny medicinal plant",
-      summary: "summary"),
+      summary: " "),
 //   Symbols(
 //       name: "ashinɔ ",
 //       imgUrl: "assets/Ga/asseashinɔ.png",
@@ -165,7 +165,7 @@ All humans find themselves in different situations. Thus, everyone understands t
       usage:
           """Aspaaterε, symbolizing self-awareness in Ga culture, provides a nuanced theme for artistic exploration across various mediums. In visual communication, Aspaaterε can be depicted through imagery that emphasizes the importance of understanding oneself and walking one's own path. Designs may feature slippers as a central motif, adorned with symbols or patterns representing introspection and self-discovery. Textiles offer a versatile canvas for weaving Aspaaterε motifs into patterns, serving as a reminder to embrace one's unique identity and journey. In painting, Aspaaterε can be portrayed amidst serene landscapes or contemplative compositions, evoking a sense of inner peace and mindfulness. Jewelry designers can translate Aspaaterε into elegant pieces, such as pendants or bracelets, adorned with subtle details that symbolize the journey of self-awareness. In body art, Aspaaterε can be tattooed onto the skin, serving as a personal emblem of self-understanding and acceptance. Across these mediums, Aspaaterε serves as a powerful symbol of the importance of being true to oneself and cultivating a deep sense of self-awareness in navigating life's journey.""",
       aka: "slippers",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Asrafoi",
       imgUrl: "assets/Ga/Asrafoi.png",
@@ -177,7 +177,7 @@ Strategic thinking helps to bridge between where you are and where you want to b
       usage:
           """In visual communication, Asrafoi can be depicted through imagery that conveys readiness and strength in the face of challenges. Designs may feature warriors in dynamic poses, armed and poised for action, symbolizing the importance of being prepared for whatever may come. Textiles offer a tactile canvas for weaving Asrafoi motifs into patterns, serving as a reminder of the need to remain vigilant and resilient. In painting, Asrafoi can be portrayed amidst epic battle scenes or stoic portraits, evoking a sense of determination and courage. Jewelry designers can translate Asrafoi into bold pieces, such as statement necklaces or cuffs, adorned with warrior-inspired motifs to symbolize readiness and fortitude. In body art, Asrafoi can be tattooed onto the skin, serving as a personal emblem of strength and preparedness. Across these mediums, Asrafoi serves as a powerful symbol of the importance of being ready to face life's challenges with courage and resilience.""",
       aka: "worriors",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Atoobi",
       imgUrl: "assets/Ga/Atoobi.png",
@@ -194,7 +194,7 @@ Respect is due everyone regardless of the person’s appearance or present circu
 Designs may feature the tiny bird in intricate illustrations or minimalist compositions, conveying the message that even the smallest of creatures hold immense value. Textiles provide a tactile canvas for weaving Atoobi motifs into patterns, symbolizing the intricate interconnectedness of all living beings and the inherent value found in each. In painting, Atoobi can be portrayed amidst lush landscapes or whimsical scenes, evoking a sense of wonder and reverence for the natural world. Jewelry designers can translate Atoobi into elegant pieces, such as delicate earrings or pendants, adorned with subtle bird motifs to symbolize the importance of cherishing the small moments in life. In body art, Atoobi can be tattooed onto the skin, serving as a personal emblem of the significance found in the seemingly mundane. Across these mediums, Atoobi serves as a poignant reminder of the value and beauty that can be found in even the smallest of creatures and moments.
 """,
       aka: "a tiny bird",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Atsiki ",
       imgUrl: "assets/Ga/Atsiki.png",
@@ -211,7 +211,7 @@ Atsiki is a strong kind of rope which is used for tough jobs with the right tool
 Atsiki can be interpreted by jewellery designers into eye-catching pieces, including necklaces or bracelets, embellished with patterns or textures resembling ropes to represent the grace with which one can traverse life's curves. Atsiki is a body art symbol that can be tattooed onto the skin to represent one's creativity and adaptability. Throughout all of these media, Atsiki is a potent representation of how people can overcome adversity and prosper by being resourceful and persistent.
 """,
       aka: "rope",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Atswa ",
       imgUrl: "assets/Ga/Atswa.png",
@@ -228,7 +228,7 @@ A stitch in time saves nine
 Jewellery designers can incorporate Atswa into delicate pieces, like cufflinks or pendants, that are embellished with engravings or gun-shaped accents to represent the value of exercising caution and alertness in all undertakings. As a personal symbol of the need of forethought and readiness, Atswa can be tattooed onto the skin as body art. In all of these media, Atswa is a moving representation of the need to exercise caution and alertness in order to wisely and foreseeably negotiate life's uncertainties.
 """,
       aka: """a kind of rifle/gun""",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Antswele",
       imgUrl: "assets/Ga/Antswele.png",
@@ -245,7 +245,7 @@ Antswele can be fashioned into exquisite pendants or bracelets by jewellery make
 
 """,
       aka: "ladder",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Awεn bε nmɔ",
       imgUrl: "assets/Ga/Awεn-bε-nmɔ.png",
@@ -257,7 +257,7 @@ Hard work pays and poverty accompanies laziness.
       usage:
           """"Awɛn bɛ nmɔ," symbolizing hard work and diligence in Ga culture, provides a compelling theme for artistic expression across various mediums. In visual communication, this proverb can be depicted through imagery that emphasizes the importance of industriousness and perseverance. Designs may feature agricultural scenes or depictions of laborious tasks, serving as visual reminders of the rewards that come from hard work. Textiles offer a tactile canvas for weaving motifs inspired by "Awɛn bɛ nmɔ" into patterns, symbolizing the dedication and effort required to achieve success. In painting, scenes of bustling marketplaces or fields teeming with activity can evoke the ethos of hard work and productivity. Jewelry designers can translate "Awɛn bɛ nmɔ" into elegant pieces, such as pendants or bracelets, adorned with motifs representing agricultural tools or symbols of diligence, serving as personal reminders of the value of hard work. In body art, "Awɛn bɛ nmɔ" can be tattooed onto the skin, serving as a permanent emblem of the commitment to industriousness and perseverance. Across these mediums, "Awɛn bɛ nmɔ" serves as a powerful symbol of the belief that success is achieved through hard work and diligence.""",
       aka: "laziness has no farm",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Awale Tε",
       imgUrl: "assets/Ga/Awale-Tε.png",
@@ -272,7 +272,7 @@ The Awale marble says it will dwell among thorns and endure hardship to secure i
 Jewelry designers can translate Awale Tɛ into elegant pieces such as pendants and earrings, embellished with marble textures and designs symbolizing perseverance and endurance. In Awal body art, a Tɛ may be tattooed on the skin as a personal symbol of one's ability to endure and overcome obstacles. In this environment, Awale Tɛ serves as a powerful symbol of the belief that perseverance is not just about surviving, but thriving in the face of adversity.
 """,
       aka: "marble stone",
-      summary: "summary"),
+      summary: " "),
 //   Symbols(
 //       name: "Haatso",
 //       imgUrl: "assets/Ga/Haatso.png",
