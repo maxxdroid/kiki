@@ -24,6 +24,8 @@ dependencies:
   fluttertoast: ^8.2.6
   url_launcher: ^6.1.10
   share_it: ^0.7.0
+  hold_on_pop: ^0.0.5
+  google_sign_in: ^6.2.1
 
 dev_dependencies:
   flutter_test:

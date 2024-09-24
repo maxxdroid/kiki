@@ -37,7 +37,7 @@ class _GaSymbolsState extends State<GaSymbols> {
                   fontWeight: FontWeight.w700),
             ),
             SizedBox(
-              height: height * 0.85,
+              height: height * 0.80,
               child: GridView.builder(
                 gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 3, // Number of columns in the grid

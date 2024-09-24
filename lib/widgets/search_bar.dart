@@ -33,30 +33,32 @@ class _MySearchAppBarState extends State<MySearchAppBar> {
               )
             ],
           ),
-          Row(
-            children: [
-              IconButton(
-                  onPressed: () {},
-                  icon: const Icon(
-                    Icons.menu,
-                    color: Colors.white,
-                    size: 40,
-                  )),
-              // dropDownButton(),
-              const SizedBox(
-                width: 10,
-              ),
-              GestureDetector(
-                onTap: () {
-                  Get.to(const Profile(), transition: Transition.fadeIn);
-                },
-                child: CircleAvatar(
-                  radius: 20,
-                  child: Image.asset("assets/images/user.png"),
-                ),
-              ),
-            ],
-          )
+
+
+          // Row(
+          //   children: [
+          //     IconButton(
+          //         onPressed: () {},
+          //         icon: const Icon(
+          //           Icons.menu,
+          //           color: Colors.white,
+          //           size: 40,
+          //         )),
+          //     // dropDownButton(),
+          //     const SizedBox(
+          //       width: 10,
+          //     ),
+          //     GestureDetector(
+          //       onTap: () {
+          //         Get.to(const Profile(), transition: Transition.fadeIn);
+          //       },
+          //       child: CircleAvatar(
+          //         radius: 20,
+          //         child: Image.asset("assets/images/user.png"),
+          //       ),
+          //     ),
+          //   ],
+          // )
         ],
       ),
     );

@@ -90,7 +90,7 @@ class _LoginState extends State<Login> {
                               SizedBox(height: height * 0.03),
         
                               TextfieldWidget(
-                                hitTextName: 'Username',
+                                hitTextName: 'email',
                                 surfixIcon: Icons.person,
                                 controller: _emailController,
                               ),

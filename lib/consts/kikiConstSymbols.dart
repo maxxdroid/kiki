@@ -27,7 +27,7 @@ Moreover, the "Aban" Adinkra symbol has found relevance in contemporary applicat
 In essence, the "Aban" Adinkra symbol continues to be a powerful emblem that celebrates the strength of unity, encouraging collaboration, and emphasizing the interconnectedness of individuals within the Akan community and beyond.
 """,
       aka: "Fence",
-      summary: ""),
+      summary: " "),
   Symbols(
       name: "Abe Dua",
       imgUrl: "assets/adinkra/Abe-Dua.png",
@@ -104,7 +104,7 @@ The Abusua Pa symbol is a versatile and expressive symbol that can be used in ma
 
 """,
       aka: "Good family",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Adinkrahene",
       imgUrl: "assets/adinkra/adinkrahene.png",
@@ -122,7 +122,7 @@ In essence, the history of the " Adinkrahene " Adinkra symbol is a testament to 
 """,
       aka:
           "Adinkra King. Chief of all the Adinkra designs; Forms the basis of Adinkra printing",
-      summary: ""),
+      summary: " "),
   Symbols(
       name: "Adwera",
       imgUrl: "assets/adinkra/adwera.png",
@@ -146,7 +146,7 @@ In summary, the Adwera Adinkra symbol holds significance in cultural, personal, 
 """,
       aka: "Watery Shrub",
       summary:
-          """Adwera nsuo, wo ne nkwansuo, nsu korogyenn a wohuru nso wonhye"""),
+          " "),
   Symbols(
       name: "Adwo",
       imgUrl: "assets/adinkra/adwo.png",
@@ -157,7 +157,7 @@ The Adwo symbol stands for peace, tranquilly, and composure in all of its manife
 """,
       usage: " ",
       aka: "Peace",
-      summary: ""),
+      summary: " "),
   Symbols(
       name: "Agyin Dawuru",
       imgUrl: "assets/adinkra/agyin-dawuru.png",
@@ -249,10 +249,7 @@ In summary, the "Akoko Nan" Adinkra symbol holds diverse uses that encompass fam
 """,
       aka: "The Leg of a Hen",
       summary:
-          """Akoko nan tia ba, na ennkum no; The hen treads upon its chicks but it does not intend to kill them.
-
-The Akoko Nan is a sculpture that depicts the leg of a hen, or chicken. The name of the sign is derived from an African proverb that says, "The leg of a hen steps on the child chick but it does not kill the chick." It is representative of both the disciplining and the nurturing of children. As a result, the symbol represents the idea of parental love, care, and discipline and acts as a helpful reminder of how crucial it is to raise kids in a setting that is both secure and supportive.
-"""),
+          " "),
   Symbols(
       name: "Akoma",
       imgUrl: "assets/adinkra/akoma.png",
@@ -302,7 +299,7 @@ The logo of the Ghana Stock Exchange
 In essence, the "Akoma Ntoaso" Adinkra symbol transcends its visual representation and serves as a powerful emblem of unity, agreement, and interconnectedness. Its versatile applications in cultural, social, and personal contexts underscore the enduring value of mutual understanding within the Akan culture and beyond.
 """,
       aka: "Linked Hearts",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Ananse Ntentan",
       imgUrl: "assets/adinkra/ananse-ntentan.png",
@@ -362,7 +359,7 @@ In this hypothetical context, "Ani Bere A Enso Gya" transforms into a symbolic r
 """,
       aka: "Seriousness",
       summary:
-          """Ani bere a, nso gya, anka mani abere koo; Seriousness does not show fiery eyes, else you would see my face all red."""),
+          " "),
   Symbols(
       name: "Anyi Me Aye A",
       imgUrl: "assets/adinkra/anyi-me-aye-a.png",
@@ -383,7 +380,7 @@ The translated meaning of the Anyi Me Aye A sign is "If You Will Not Praise Me."
 The Anyi Me Aye A symbol is a versatile and expressive symbol that can be used in many creative and innovative ways. It is a symbol that reflects the rich and diverse culture of the West African Akan people, and their wisdom and philosophy of life. The symbol is derived from the Akan proverb "Anyi me aye a, nsee me din," meaning "If you will not praise me, don't spoil my name (that is, undermine my integrity)."
 """,
       aka: "If you will not praise me",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Asase Ye Duru",
       imgUrl: "assets/adinkra/asase-ye-duru.png",
@@ -407,10 +404,7 @@ Additionally, during cultural and spiritual rituals, "Asase Ye Duru" could be ut
 In these diverse applications, "Asase Ye Duru" transcends its visual representation, becoming a versatile symbol that conveys deep cultural, economic, and ecological meanings. Its integration into various aspects of life and culture serves to emphasize the reverence for the earth's weight and the abundant resources it provides for the well-being of individuals and communities.
 """,
       aka: "The Earth has Weight",
-      summary: """Tumi nyina ne asase; All power emanates from the earth.
-
-Asase ye duru sen epo; The earth is heavier than the sea
-"""),
+      summary: " "),
   Symbols(
       name: "Asetena Pa",
       imgUrl: "assets/adinkra/asetena-aa.png",
@@ -436,7 +430,7 @@ Within discussions on financial success and wealth management, Asetena Pa could 
 On a personal level, individuals with a focus on financial success or those aspiring to a higher standard of living may choose to incorporate the Asetena Pa symbol into personal items or decorations, using it as a visual affirmation of their commitment to good living and success.
 """,
       aka: "Good Living",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Aya",
       imgUrl: "assets/adinkra/aya.png",
@@ -485,7 +479,7 @@ In summary, the "Bese Saka" Adinkra symbol is versatile, with potential applicat
 """,
       aka: "Sack of Cola Nuts",
       summary:
-          "Wo bese nnuru aduasa a yenko sarem nkose ayie Bese saka yempe no fam; yete no soro Wowe bese fitaa o, wowe bese kokoo o, wote ntasu kokoo Bese na abu na kyenkyere eretu mu nnwa…"),
+          " "),
   Symbols(
       name: "Bi Nnka Bi",
       imgUrl: "assets/adinkra/bi-nnka-bi.png",
@@ -512,7 +506,7 @@ Artists and designers may incorporate the "Bi Nnka Bi" symbol into visual repres
 In essence, the "Bi Nnka Bi" Adinkra symbol serves as a timeless reminder of the power of unity and the avoidance of unnecessary conflicts. Its applications in community settings, education, conflict resolution, business, and the arts highlight its versatility in conveying a message of cooperation and shared responsibility within the Akan cultural context.
 """,
       aka: "Bite Not One Another",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Boa Me Na Me Mmoa Wo",
       imgUrl: "assets/adinkra/boa-me-na-me-mmoa-wo.png",
@@ -602,7 +596,7 @@ The "Denkyem" Adinkra symbol, depicting the crocodile, is laden with profound sy
       usage:
           """The uses of the "Denkyem" symbol are diverse and extend beyond Adinkra cloth. The symbol is incorporated into various art forms, jewelry, and modern design, showcasing its adaptability to contemporary expressions. It serves as a timeless emblem of cultural identity and resilience, not only within the Akan community but also globally. The "Denkyem" symbol finds application in personal adornments, cultural events, and educational materials, embodying its enduring relevance and universal significance. In essence, the "Denkyem" Adinkra symbol weaves together symbolism, historical development, and contemporary uses, offering a powerful representation of Akan culture and its timeless wisdom.""",
       aka: "Crocodile",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Dono",
       imgUrl: "assets/adinkra/Dono.png",
@@ -728,7 +722,7 @@ Lastly, home decor items such as wall art, sculptures, or decorative pieces may 
 In summary, the Dwantire Adinkra symbol finds diverse applications in personal expression, fashion, art, ceremonies, and even corporate branding, reflecting its enduring cultural significance and the universal appeal of its messages of humility and strength.
 """,
       aka: "Ram’s head.",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Eban",
       imgUrl: "assets/adinkra/Eban.png",
@@ -806,7 +800,7 @@ On a personal level, individuals may choose to incorporate the Esono Anantam sym
 """,
       aka: "Elephant’s footprint",
       summary:
-          """From the aphorism, “Wodi esono akyi a, hasuo nka wo,” to wit, “When you follow the elephant, you don’t you are not touched by (you don’t get wet from) the dew on bushes.”"""),
+          " "),
   Symbols(
       name: "Ese Ne Tekrema",
       imgUrl: "assets/adinkra/Ese-Ne-Tekrema.png",
@@ -834,7 +828,7 @@ Artists and designers may incorporate the "Ese Ne Tekrema" symbol into their cre
 In summary, the "Ese Ne Tekrema" Adinkra symbol, with its representation of the teeth and the tongue, finds applications in interpersonal relationships, family dynamics, education, business, community events, and artistic expressions. Its symbolism serves as a reminder of the interconnectedness and collaborative efforts required for harmony and success within the Akan cultural context.
 """,
       aka: "The Teeth and the Tongue",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Fafanto",
       imgUrl: "assets/adinkra/Fafanto.jpg",
@@ -919,7 +913,7 @@ Artists and designers may incorporate the "Fihankra" symbol into their creations
 In summary, the "Fihankra" Adinkra symbol, representing the House/Compound, finds applications in architecture, family dynamics, education, business, community events, artistic expressions, and personal adornment. Its powerful symbolism resonates with the values of security, unity, and the importance of communal living within the Akan cultural context.
 """,
       aka: "House",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Fofo",
       imgUrl: "assets/adinkra/Fofo.png",
@@ -944,7 +938,7 @@ Funtumfunefu Denkyemfunefu is a representation of two mythological crocodiles sh
           """The uses of the "Funtumfunefu Denkyemfunefu" symbol extend beyond traditional Adinkra cloth, finding expression in various forms of art, jewelry, and contemporary design. It serves as a powerful emblem for unity and collaboration, making it relevant not only in cultural ceremonies but also in modern contexts. The symbol is a reminder of the strength derived from collective effort and the shared responsibility of individuals within a community. In essence, the "Funtumfunefu Denkyemfunefu" Adinkra symbol weaves together symbolism, historical roots, and practical applications, embodying a timeless message of unity and collaboration in the face of diversity.""",
       aka: "Siamese Crocodiles",
       summary:
-          """This symbol is known by Willis as Funtummireku-Denkyemmireku. Rattray refers to it as Funtumfrafu-Denkyemfrafu (by extension, from the proverb from which the symbol is formed)"""),
+          " "),
   Symbols(
       name: "Gye Nyame",
       imgUrl: "assets/adinkra/Gye-Nyame.png",
@@ -990,12 +984,7 @@ In the context of personal adornment, individuals may choose to wear jewelry or 
 In summary, the "Gye Nyame" Adinkra symbol, representing the omnipotence of God, finds applications in spirituality, personal development, religious ceremonies, education, artistic expressions, and personal adornment. Its profound symbolism reflects the Akan people's deep reverence for the divine and serves as a timeless expression of faith and cultural identity.
 """,
       aka: "Except for God",
-      summary: """AKAN PROVERBS ABOUT GOD
-1. Obi nkyere akwadaa Nyame
-Literally: Nobody teaches a child God.
-
-God is all around us, and even little children can observe his creation, which helps us to understand him. Therefore, no one is needed to remind even young children that the Supreme Being, or obooadee, is a creator.
-"""),
+      summary: " "),
   Symbols(
       name: "Hwehwemudua",
       imgUrl: "assets/adinkra/Hwehwemudua.png",
@@ -1190,7 +1179,8 @@ In summary, the Mate Masie Adinkra symbol serves as a powerful representation of
 """,
       aka: "I have heard and kept it",
       summary:
-          "Nyansa bun mu ne mate masie; Deep wisdom comes out of listening and keeping what is heard."),
+          "Nyansa bun mu ne mate masie; Deep wisdom comes out of "
+              "listening and keeping what is heard."),
   Symbols(
       name: "Mekyea-Wo",
       imgUrl: "assets/adinkra/Mekyea-Wo.png",
@@ -1406,7 +1396,7 @@ The "Nkonsonkonson" Adinkra symbol, commonly known as the Chain Link or "union o
       usage:
           """The uses of the "Nkonsonkonson" symbol extend beyond its representation on Adinkra cloth. The emblem is incorporated into various art forms, jewelry, and contemporary design, resonating with individuals who seek to express and celebrate unity in diverse contexts. It is a symbol frequently employed in ceremonies, particularly those emphasizing familial or community ties. In essence, the "Nkonsonkonson" Adinkra symbol embodies a profound message of unity and interconnectedness, reflecting the enduring cultural values and social cohesion within the Akan community.""",
       aka: "Chain Links",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nea Onnim No Sua A Ohu",
       imgUrl: "assets/adinkra/nea.png",
@@ -1484,7 +1474,7 @@ Nkotimsefo Mpua, an Adinkra emblem, is believed to stand for commitment and pers
 """,
       usage: "usage",
       aka: "Hair of the Queen's Servant",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nkrabea",
       imgUrl: "assets/adinkra/Nkrabea.png",
@@ -1626,8 +1616,6 @@ ICGC theme logo for 2020 “The year of excellence.”
       aka: "Type of hand-woven cloth",
       summary:
           """Nea onnim nsaa oto n'ago; He who does not know authentic Nsaa will buy the fakes.
-
-Due to the expertise of its artisans, Bonwire's kente weaving has received praise from all around the world. Over the years, rhythms praising their talent and ethics have resonated with the timeless song by Ephram Amu. The following is the first verse:
 """),
   Symbols(
       name: "Nserewa",
@@ -1727,11 +1715,7 @@ In times of adversity or challenges, organizations or communities could adopt th
 Whether in communal celebrations or private reflections, the Nyame Biribi Wo Soro symbol serves as a visual representation of the enduring hope that stems from a belief in a higher power and divine providence.
 """,
       aka: """God is in the Heavens""",
-      summary: """God is in the Heavens
-MISINTERPRETATION OF THE SYMBOL
-
-Although that is exactly precisely what the phrase "Nyame biribi wo soro means," this symbol has sometimes been interpreted as meaning "God is in the heavens." The translation of "God is in the heavens" is "Nyame wo soro." The main distinction between the two is the "biribi." "Thing" is what "Biribi" signifies. This symbol alludes to a particular item that the speaker hopes to receive, possibly something that has been asked for in prayer. "God, there is something in the heavens; please let me receive it" or "God, there is something in the heavens; please let it be delivered into my hands" is what the saying that accompanies this Adinkra states.
-"""),
+      summary: " "),
   Symbols(
       name: "Nyame Dua",
       imgUrl: "assets/adinkra/Nyame-Dua.jpg",
@@ -1860,7 +1844,8 @@ In the context of cultural ceremonies, particularly weddings and anniversaries, 
 Furthermore, the "Odo Nnyew Fie Kwan" symbol extends beyond its traditional uses to find expression in contemporary art, literature, and design. Its universal message about the cyclical nature of love transcends cultural boundaries, making it relevant in diverse contexts where the enduring power of love is celebrated. In essence, the "Odo Nnyew Fie Kwan" Adinkra symbol serves as a timeless and cultural emblem, reminding individuals of the profound and cyclical nature of love that remains steadfast even as life's journey unfolds.
 """,
       aka: "Love never loses its way home",
-      summary: "AKAN PROVERBS ABOUT LOVE Odo ye owu Literally: Love is death. An alternative interpretation of this would be Love is unto death."
+      summary: "AKAN PROVERBS ABOUT LOVE Odo ye owu Literally: Love is death."
+          " An alternative interpretation of this would be Love is unto death."
   ),
   Symbols(
       name: "Obohemaa",
@@ -1938,7 +1923,8 @@ During agricultural or entrepreneurial events, Okuafo Pa could be featured in de
 """,
       aka: "Good Farmer",
       summary: """Good Farmer
-Okuafoo pa ne obi a oye nsiyefoo, ono na ose : w'afuo so a, woye ne nyinaa; The good and industrious farmer says: No matter how big your farm is you tend it all.
+Okuafoo pa ne obi a oye nsiyefoo, ono na ose : w'afuo so a, woye ne nyinaa; 
+The good and industrious farmer says: No matter how big your farm is you tend it all.
 """),
   Symbols(
       name: "Onyakopon Adom Nti Biribiara Beye Yie",
@@ -2083,7 +2069,8 @@ Other companies such as Sogakofe Beach Resort and Spa have also adopted the Sank
 Learning From the Past
 """,
       summary:
-          "Se wo were fin a wo sankofa a yennkyi; It is not a taboo to return to fetch something you forgot earlier on."),
+          "Se wo were fin a wo sankofa a yennkyi; It is not a taboo to return "
+              "to fetch something you forgot earlier on."),
   Symbols(
       name: "Sankofa (Heart)",
       imgUrl: "assets/adinkra/Sankofa-(Heart).png",
@@ -2128,7 +2115,8 @@ Cassandra Wilson recorded the song "Sankofa", which appeared on her 1993 album B
 """,
       aka: "Learning From the Past",
       summary:
-          "Se wo were fin a wo sankofa a yennkyi; It is not a taboo to return to fetch something you forgot earlier on"),
+          "Se wo were fin a wo sankofa a yennkyi; It is not a taboo to"
+              " return to fetch something you forgot earlier on"),
   Symbols(
       name: "Sepow",
       imgUrl: "assets/adinkra/Sepow.png",

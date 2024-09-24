@@ -46,46 +46,7 @@ In the context of personal adornment, individuals may choose to wear jewelry or 
 In summary, the "Gye Nyame" Adinkra symbol, representing the omnipotence of God, finds applications in spirituality, personal development, religious ceremonies, education, artistic expressions, and personal adornment. Its profound symbolism reflects the Akan people's deep reverence for the divine and serves as a timeless expression of faith and cultural identity.
 """,
       aka: "Except for God",
-      summary: """AKAN PROVERBS ABOUT GOD
-1. Obi nkyere akwadaa Nyame
-Literally: Nobody teaches a child God.
-
-God is all around us, and even little children can observe his creation, which helps us to understand him. Therefore, no one is needed to remind even young children that the Supreme Being, or obooadee, is a creator.
-
-It is a rare Akan who does not believe in God due to the high prevalence of this worldview. It is implied that it is ridiculous for an adult to deny God's existence if they say that even young children do not require confirmation of His existence.
-
-2. Nyame nwu na mawu
-Literally: God won’t die for me to die.
-
-The only one who keeps man alive is God. Since God is eternal, it is impossible for God to die before man to die if the two are joined in spirit. Man is hence eternal. The saying "Nyame bewe ansa na mawu," which literally translates to "God will die before I die," better illustrates this point. When someone uses this proverb to threaten another person, it could be an indication that he is not afraid of death or what people can do to him.
-
-Another way to translate this adage is "Nyame bewu na mawu." This directly translates to "I would have died by the time God dies." Indeed, this demonstrates God's immortality as well—at least in relation to humans. I'm not clear, though, how that is meant to have the same meaning as "God will die before I die."
-
-3. Baakofo nsa nso Nyame ani kata
-Literally: One person’s hand won’t be enough to cover God’s eye.
-
-All things related to God are also great and powerful, for God is all-powerful and tremendous. God is too powerful for one person to overthrow, resist, or cease being who he is.
-
-
-When there is a big task that needs to be completed, this adage is used to beg for assistance from others. After that, the enormous task resembles God's eye, and the contributions from the contributors resemble hands reaching out to cover it. The task can be completed more quickly the more hands there are.
-
-Does this imply that God is all-pervasive, aware of all that occurs, and that no one can prevent God from seeing what they are doing in secret?
-
-4. Aboa a onni dua no, Nana Nyame na opra ne ho
-Literally: For the animal who does not have a tail, it is God who brushes his body.
-
-Animals remove flies and other objects from their bodies by using their tails. If an animal doesn't have a tail, what should it do?
-
-
-This adage serves as a reminder that God sustains his creation. Even if some people may not possess the same traits as others, everyone is taken care of. Because of this, even those who appear to be at a disadvantage have strengths that help them.
-
-It also means that God stands up for the weak. This proverb bears similarities to another one: "Wobu koto kwasea a, Nyame hwe to to," which directly translates to, "God sees your buttocks (your shame) if you cheat the crab (presumably by bending over to pick him from the ground)."
-
-5. Worepe asem aka akyere Onyame a, ka kyere mframa
-Literally: If you want to say something to God say it to the wind.
-
-God is omnipresent. He is everywhere. You don’t have to go to any particular location to talk to him.
-"""),
+      summary: " "),
   Symbols(
       name: "Adinkrahene",
       imgUrl: "assets/adinkra/adinkrahene.png",
@@ -103,7 +64,7 @@ In essence, the history of the " Adinkrahene " Adinkra symbol is a testament to 
 """,
       aka:
           "Adinkra King. Chief of all the Adinkra designs; Forms the basis of Adinkra printing",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Agaga lolo",
       imgUrl: "assets/ewe/Agaga-lolo.png",
@@ -115,7 +76,7 @@ In essence, the history of the " Adinkrahene " Adinkra symbol is a testament to 
       usage:
           """Agaga lolo is often employed in ceremonial contexts, such as traditional rituals, weddings, or other significant events, to represent blessings, prosperity, and the recognition of esteemed individuals or families. Its presence underscores the importance of honoring and valuing not only material wealth but also the intangible qualities that enrich community life, such as wisdom, integrity, and generosity. Whether used in cultural practices, artistic representations, or everyday discourse, Agaga lolo serves as a potent reminder of the enduring significance of value and the interconnectedness of material wealth and spiritual abundance in Ewe culture and tradition.""",
       aka: "the big cowry",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Adashi ",
       imgUrl: "assets/Ga/Adashi.png",
@@ -129,7 +90,7 @@ Textiles offer a canvas for weaving Adashi motifs into intricate patterns, infus
 In body art, Adashi can adorn the skin in the form of tattoos, symbolizing not only personal gratitude but also a connection to Ga cultural heritage. Across these mediums, Adashi embodies the beauty of acknowledging and honoring the value of others, weaving threads of appreciation into the fabric of artistic expression.
 """,
       aka: "Appreciation",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Koklozi le Kpe Dzi",
       imgUrl: "assets/ewe/Koklozi-le-Kpe-Dzi.png",
@@ -139,7 +100,7 @@ In body art, Adashi can adorn the skin in the form of tattoos, symbolizing not o
       usage:
           """Koklozi le Kpe Dzi, or Egg on a Stone, symbolizes cautiousness and the need for careful consideration, concepts that can be depicted across various artistic mediums. Textile artisans may incorporate motifs or patterns inspired by the imagery of Koklozi le Kpe Dzi, creating designs that convey the idea of delicacy and vulnerability. These patterns could be woven into fabrics or embroidered onto garments, serving as visual representations of the importance of handling situations with care and caution. In painting, artists may portray scenes featuring eggs balanced on stones, symbolizing the precariousness of certain situations and the need for vigilance. These paintings may convey a sense of tension and anticipation, encouraging viewers to approach challenges with mindfulness and restraint. Jewellery designers may craft pieces inspired by the symbolism of Koklozi le Kpe Dzi, incorporating elements that represent the idea of cautiousness and prudence. These jewellery pieces serve as wearable reminders of the importance of assessing risks and making informed decisions. Additionally, enthusiasts of body art may choose to adorn themselves with tattoos or body paint featuring designs inspired by Koklozi le Kpe Dzi, often placed on areas of the body symbolizing caution or awareness, serving as personal expressions of the values of careful consideration and foresight. Across textiles, painting, jewellery, and body art, Koklozi le Kpe Dzi serves as a powerful symbol of the significance of approaching life's challenges with caution and mindfulness within Ewe culture and beyond, inspiring individuals to navigate uncertainties with care and deliberation.""",
       aka: "Egg on a stone",
-      summary: "summary"),
+      summary: " "),
   Symbols(
       name: "Nserewa",
       imgUrl: "assets/adinkra/Nserewa.png",
@@ -156,7 +117,7 @@ Culturally, Nserewa may find a place in traditional artifacts, fabrics, or cerem
 In financial or business settings, organizations might adopt the Nserewa symbol in branding or marketing to convey a sense of wealth and affluence. During celebratory events or gatherings, the symbol could be featured in decorations, clothing, or accessories, visually emphasizing the abundance and prosperity within the community. Additionally, individuals may choose to incorporate the Nserewa symbol into personal items or adornments as a visual reminder and representation of their aspirations for financial success and affluence.
 """,
       aka: "Cowries",
-      summary: "summary"),
+      summary: " "),
 ];
 
 List<Symbols> symbolList = [
@@ -171,14 +132,14 @@ Supremacy   of God, Omnipotence and Immortality of God. \n\n The Akan phrase "Gy
 """,
       category: "Adinkra",
       aka: "",
-      summary: ""),
+      summary: " "),
   Symbols(
       name: "Adinkrahene",
       imgUrl: "assets/images/adinkrahene.png",
       details: "",
       category: "Adinkra",
       aka: "",
-      summary: "",
+      summary: " ",
       usage: ""),
   Symbols(
       name: "Agaga Lolo",
